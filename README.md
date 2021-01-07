@@ -22,7 +22,7 @@ MPTPSoultion.py is used to generate solutions from original .p ATP proof file.
 
 use.txt includes which task is used in this experiment, you can change the path for the variable usefile.
 
-regression.py is the main LRC code
+spectral.py is the main code
 
 
 # 2. Basic functions
