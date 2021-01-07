@@ -1,0 +1,14 @@
+t37_waybel_7 conjecture
+cc2_lattice3 axiom
+d1_waybel_7 axiom
+fc12_waybel_0 axiom
+t17_waybel_0 axiom
+dt_k12_lattice3 axiom
+existence_l1_orders_2 axiom
+redefinition_k12_lattice3 axiom
+d6_waybel_6 axiom
+t7_boole axiom
+t2_subset axiom
+fc8_waybel_0 axiom
+antisymmetry_r2_hidden axiom
+dt_k5_waybel_0 axiom

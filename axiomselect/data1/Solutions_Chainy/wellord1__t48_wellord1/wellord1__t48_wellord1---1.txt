@@ -1,0 +1,4 @@
+t48_wellord1 conjecture
+t47_wellord1 axiom
+d8_wellord1 axiom
+fc3_funct_1 axiom

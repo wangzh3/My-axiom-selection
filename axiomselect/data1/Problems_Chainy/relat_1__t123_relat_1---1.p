@@ -1,0 +1,5 @@
+fof(t123_relat_1,conjecture,(! [A,B] :( v1_relat_1(B)=> k8_relat_1(A,B) = k5_relat_1(B,k6_relat_1(A)) ) )).
+fof(dt_k5_relat_1,axiom,(! [A,B] :( ( v1_relat_1(A)& v1_relat_1(B) )=> v1_relat_1(k5_relat_1(A,B)) ) )).
+fof(t75_relat_1,axiom,(! [A,B,C,D] :( v1_relat_1(D)=> ( r2_hidden(k4_tarski(A,B),k5_relat_1(D,k6_relat_1(C)))<=> ( r2_hidden(B,C)& r2_hidden(k4_tarski(A,B),D) ) ) ) )).
+fof(d12_relat_1,axiom,(! [A,B] :( v1_relat_1(B)=> ! [C] :( v1_relat_1(C)=> ( C = k8_relat_1(A,B)<=> ! [D,E] :( r2_hidden(k4_tarski(D,E),C)<=> ( r2_hidden(E,A)& r2_hidden(k4_tarski(D,E),B) ) ) ) ) ) )).
+fof(dt_k6_relat_1,axiom,(! [A] : v1_relat_1(k6_relat_1(A)) )).

@@ -1,0 +1,9 @@
+t4_wellord2 conjecture
+cc5_ordinal1 axiom
+d14_relat_2 axiom
+redefinition_r1_ordinal1 axiom
+dt_k1_wellord2 axiom
+d6_relat_2 axiom
+d1_wellord2 axiom
+connectedness_r1_ordinal1 axiom
+t1_subset axiom

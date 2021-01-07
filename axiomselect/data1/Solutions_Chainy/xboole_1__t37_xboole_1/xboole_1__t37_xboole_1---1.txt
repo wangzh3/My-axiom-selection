@@ -1,0 +1,2 @@
+t37_xboole_1 conjecture
+l32_xboole_1 axiom

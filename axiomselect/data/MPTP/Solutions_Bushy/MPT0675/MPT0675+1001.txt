@@ -1,0 +1,4 @@
+commutativity_k2_tarski axiom
+d12_funct_1 axiom
+d2_tarski axiom
+t118_funct_1 conjecture

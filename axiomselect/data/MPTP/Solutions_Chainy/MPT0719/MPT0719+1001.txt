@@ -1,0 +1,11 @@
+cc3_funct_1 axiom
+d20_funct_1 axiom
+fc12_relat_1 axiom
+fc1_xboole_0 axiom
+t142_funct_1 axiom
+t172_relat_1 axiom
+t4_subset_1 axiom
+t60_relat_1 axiom
+t62_relat_1 axiom
+t69_enumset1 axiom
+t174_funct_1 conjecture

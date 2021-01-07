@@ -1,0 +1,11 @@
+d10_xboole_0 axiom
+d3_tarski axiom
+d4_wellord1 axiom
+d4_xboole_0 axiom
+d6_wellord1 axiom
+dt_k2_wellord1 axiom
+l1_wellord1 axiom
+t106_zfmisc_1 axiom
+t20_wellord1 axiom
+t30_relat_1 axiom
+t39_wellord1 conjecture

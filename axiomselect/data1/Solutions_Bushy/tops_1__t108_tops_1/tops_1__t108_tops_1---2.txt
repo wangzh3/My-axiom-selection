@@ -1,0 +1,13 @@
+t108_tops_1 conjecture
+dt_k4_subset_1 axiom
+d10_xboole_0 axiom
+t44_tops_1 axiom
+d7_tops_1 axiom
+commutativity_k4_subset_1 axiom
+t50_pre_topc axiom
+t3_subset axiom
+dt_k2_pre_topc axiom
+projectivity_k2_pre_topc axiom
+t49_tops_1 axiom
+t49_pre_topc axiom
+dt_k1_tops_1 axiom

@@ -1,0 +1,14 @@
+t92_funct_2 conjecture
+cc2_funct_2 axiom
+cc1_relset_1 axiom
+redefinition_k7_relset_1 axiom
+redefinition_k2_relset_1 axiom
+t164_funct_1 axiom
+t38_relset_1 axiom
+d3_funct_2 axiom
+redefinition_k1_relset_1 axiom
+t67_funct_2 axiom
+cc2_relset_1 axiom
+t28_xboole_1 axiom
+redefinition_k8_relset_1 axiom
+t148_funct_1 axiom

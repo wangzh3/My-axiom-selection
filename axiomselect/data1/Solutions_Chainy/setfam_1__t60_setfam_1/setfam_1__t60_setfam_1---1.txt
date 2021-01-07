@@ -1,0 +1,6 @@
+t60_setfam_1 conjecture
+dt_k5_setfam_1 axiom
+redefinition_k5_setfam_1 axiom
+d12_setfam_1 axiom
+t3_subset axiom
+d10_xboole_0 axiom

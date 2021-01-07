@@ -1,0 +1,4 @@
+t40_funct_2 conjecture
+redefinition_k5_relset_1 axiom
+redefinition_k2_partfun1 axiom
+t34_relset_1 axiom

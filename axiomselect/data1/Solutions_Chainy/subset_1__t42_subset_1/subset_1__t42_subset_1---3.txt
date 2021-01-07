@@ -1,0 +1,6 @@
+t42_subset_1 conjecture
+redefinition_k9_subset_1 axiom
+t48_xboole_1 axiom
+t31_subset_1 axiom
+t17_xboole_1 axiom
+dt_k9_subset_1 axiom

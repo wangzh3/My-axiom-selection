@@ -1,0 +1,6 @@
+t165_funct_2 conjecture
+d7_partfun1 axiom
+d3_tarski axiom
+t140_partfun1 axiom
+t168_partfun1 axiom
+cc1_relset_1 axiom

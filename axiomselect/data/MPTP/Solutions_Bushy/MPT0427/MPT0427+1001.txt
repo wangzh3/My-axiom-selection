@@ -1,0 +1,5 @@
+d3_tarski axiom
+dt_k8_setfam_1 axiom
+t3_subset axiom
+t58_setfam_1 axiom
+t59_setfam_1 conjecture

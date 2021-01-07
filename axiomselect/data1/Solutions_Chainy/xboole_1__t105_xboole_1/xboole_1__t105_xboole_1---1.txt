@@ -1,0 +1,3 @@
+t105_xboole_1 conjecture
+l32_xboole_1 axiom
+t60_xboole_1 axiom

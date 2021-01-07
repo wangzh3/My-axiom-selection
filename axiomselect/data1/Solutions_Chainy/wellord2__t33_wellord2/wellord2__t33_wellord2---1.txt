@@ -1,0 +1,16 @@
+t33_wellord2 conjecture
+t18_xboole_1 axiom
+t7_xboole_1 axiom
+l51_zfmisc_1 axiom
+t12_setfam_1 axiom
+t74_enumset1 axiom
+t72_enumset1 axiom
+t73_enumset1 axiom
+t75_enumset1 axiom
+t70_enumset1 axiom
+t71_enumset1 axiom
+dt_k1_wellord2 axiom
+d10_xboole_0 axiom
+t8_wellord2 axiom
+d6_wellord1 axiom
+commutativity_k2_tarski axiom

@@ -1,0 +1,6 @@
+dt_k7_setfam_1 axiom
+dt_u1_pre_topc axiom
+t16_tops_2 axiom
+t52_setfam_1 axiom
+t78_tops_2 axiom
+t79_tops_2 conjecture

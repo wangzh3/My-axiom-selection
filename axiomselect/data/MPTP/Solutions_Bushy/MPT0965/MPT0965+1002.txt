@@ -1,0 +1,6 @@
+dt_k2_relset_1 axiom
+t2_subset axiom
+t4_subset axiom
+t5_subset axiom
+t6_funct_2 axiom
+t7_funct_2 conjecture

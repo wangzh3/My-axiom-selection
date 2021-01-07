@@ -1,0 +1,7 @@
+t64_funct_2 conjecture
+fc6_relat_1 axiom
+redefinition_k7_relset_1 axiom
+redefinition_k2_relset_1 axiom
+cc2_relat_1 axiom
+t144_relat_1 axiom
+t62_funct_2 axiom

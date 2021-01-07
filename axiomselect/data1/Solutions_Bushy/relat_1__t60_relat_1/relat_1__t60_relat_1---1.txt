@@ -1,0 +1,8 @@
+t60_relat_1 conjecture
+t2_xboole_1 axiom
+d5_relat_1 axiom
+d3_tarski axiom
+t7_boole axiom
+t6_boole axiom
+d4_relat_1 axiom
+fc1_xboole_0 axiom

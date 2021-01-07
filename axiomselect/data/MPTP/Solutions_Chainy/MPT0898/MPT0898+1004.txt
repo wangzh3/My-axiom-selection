@@ -1,0 +1,17 @@
+d3_zfmisc_1 axiom
+d4_zfmisc_1 axiom
+fc10_subset_1 axiom
+fc1_xboole_0 axiom
+fc3_zfmisc_1 axiom
+fc4_zfmisc_1 axiom
+fc6_relat_1 axiom
+t113_zfmisc_1 axiom
+t115_zfmisc_1 axiom
+t195_relat_1 axiom
+t1_mcart_1 axiom
+t29_relset_1 axiom
+t5_subset axiom
+t60_relat_1 axiom
+t65_relat_1 axiom
+t71_relat_1 axiom
+t58_mcart_1 conjecture

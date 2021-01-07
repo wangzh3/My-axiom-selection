@@ -1,0 +1,6 @@
+d3_subset_1 axiom
+d4_subset_1 axiom
+d5_subset_1 axiom
+dt_k1_subset_1 axiom
+t3_boole axiom
+t22_subset_1 conjecture

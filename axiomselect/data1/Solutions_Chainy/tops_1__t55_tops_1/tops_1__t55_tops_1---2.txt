@@ -1,0 +1,13 @@
+t55_tops_1 conjecture
+t37_xboole_1 axiom
+t64_zfmisc_1 axiom
+t32_xboole_1 axiom
+d1_tops_1 axiom
+t4_boole axiom
+dt_k3_subset_1 axiom
+fc9_tops_1 axiom
+t30_tops_1 axiom
+involutiveness_k3_subset_1 axiom
+d5_xboole_0 axiom
+t44_tops_1 axiom
+t52_pre_topc axiom

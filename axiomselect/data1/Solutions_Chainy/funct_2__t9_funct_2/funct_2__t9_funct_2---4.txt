@@ -1,0 +1,15 @@
+t9_funct_2 conjecture
+dt_k2_relset_1 axiom
+cc1_relset_1 axiom
+d2_xboole_0 axiom
+t4_funct_2 axiom
+t2_xboole_1 axiom
+t113_zfmisc_1 axiom
+t60_relat_1 axiom
+d19_relat_1 axiom
+t4_subset_1 axiom
+t1_xboole_1 axiom
+cc2_relset_1 axiom
+t8_funct_2 axiom
+t3_subset axiom
+d10_xboole_0 axiom

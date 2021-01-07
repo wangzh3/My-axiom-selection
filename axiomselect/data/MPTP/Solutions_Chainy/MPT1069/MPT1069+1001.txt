@@ -1,0 +1,17 @@
+cc1_relset_1 axiom
+d19_relat_1 axiom
+d1_funct_2 axiom
+d1_xboole_0 axiom
+d3_tarski axiom
+d8_partfun1 axiom
+dt_k2_relset_1 axiom
+l1_zfmisc_1 axiom
+l22_zfmisc_1 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom
+t12_funct_1 axiom
+t185_funct_2 axiom
+t3_subset axiom
+t49_zfmisc_1 axiom
+t55_subset_1 axiom
+t186_funct_2 conjecture

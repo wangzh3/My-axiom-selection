@@ -1,0 +1,5 @@
+dt_k7_relset_1 axiom
+t16_compts_1 axiom
+t17_compts_1 axiom
+t24_compts_1 axiom
+t25_compts_1 conjecture

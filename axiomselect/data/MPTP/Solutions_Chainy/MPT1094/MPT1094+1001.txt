@@ -1,0 +1,12 @@
+dt_k7_funct_3 axiom
+fc10_finset_1 axiom
+fc13_finset_1 axiom
+fc14_finset_1 axiom
+redefinition_k9_funct_3 axiom
+t100_funct_3 axiom
+t145_relat_1 axiom
+t146_relat_1 axiom
+t15_finset_1 axiom
+t22_relat_1 axiom
+t90_relat_1 axiom
+t29_finset_1 conjecture

@@ -1,0 +1,10 @@
+commutativity_k3_xboole_0 axiom
+commutativity_k9_subset_1 axiom
+dt_k2_pre_topc axiom
+dt_k6_domain_1 axiom
+fc1_tops_1 axiom
+redefinition_k6_domain_1 axiom
+redefinition_k9_subset_1 axiom
+t57_tex_2 axiom
+t5_subset axiom
+t58_tex_2 conjecture

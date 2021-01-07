@@ -1,0 +1,7 @@
+fof(t17_yellow_0,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v5_orders_2(A)& v3_lattice3(A)& l1_orders_2(A) )=> ! [B] :( r1_yellow_0(A,B)& r2_yellow_0(A,B) ) ) )).
+fof(d9_lattice3,axiom,(! [A] :( l1_orders_2(A)=> ! [B,C] :( m1_subset_1(C,u1_struct_0(A))=> ( r2_lattice3(A,B,C)<=> ! [D] :( m1_subset_1(D,u1_struct_0(A))=> ( r2_hidden(D,B)=> r1_orders_2(A,D,C) ) ) ) ) ) )).
+fof(fraenkel_a_2_0_yellow_0,axiom,(! [A,B,C] :( ( ~ v2_struct_0(B)& v5_orders_2(B)& v3_lattice3(B)& l1_orders_2(B) )=> ( r2_hidden(A,a_2_0_yellow_0(B,C))<=> ? [D] :( m1_subset_1(D,u1_struct_0(B))& A = D& r1_lattice3(B,C,D) ) ) ) )).
+fof(d12_lattice3,axiom,(! [A] :( l1_orders_2(A)=> ( v3_lattice3(A)<=> ! [B] :? [C] :( m1_subset_1(C,u1_struct_0(A))& r2_lattice3(A,B,C)& ! [D] :( m1_subset_1(D,u1_struct_0(A))=> ( r2_lattice3(A,B,D)=> r1_orders_2(A,C,D) ) ) ) ) ) )).
+fof(t15_yellow_0,axiom,(! [A] :( ( v5_orders_2(A)& l1_orders_2(A) )=> ! [B] :( r1_yellow_0(A,B)<=> ? [C] :( m1_subset_1(C,u1_struct_0(A))& r2_lattice3(A,B,C)& ! [D] :( m1_subset_1(D,u1_struct_0(A))=> ( r2_lattice3(A,B,D)=> r1_orders_2(A,C,D) ) ) ) ) ) )).
+fof(t16_yellow_0,axiom,(! [A] :( ( v5_orders_2(A)& l1_orders_2(A) )=> ! [B] :( r2_yellow_0(A,B)<=> ? [C] :( m1_subset_1(C,u1_struct_0(A))& r1_lattice3(A,B,C)& ! [D] :( m1_subset_1(D,u1_struct_0(A))=> ( r1_lattice3(A,B,D)=> r1_orders_2(A,D,C) ) ) ) ) ) )).
+fof(d8_lattice3,axiom,(! [A] :( l1_orders_2(A)=> ! [B,C] :( m1_subset_1(C,u1_struct_0(A))=> ( r1_lattice3(A,B,C)<=> ! [D] :( m1_subset_1(D,u1_struct_0(A))=> ( r2_hidden(D,B)=> r1_orders_2(A,C,D) ) ) ) ) ) )).

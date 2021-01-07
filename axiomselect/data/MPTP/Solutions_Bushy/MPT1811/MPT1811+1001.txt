@@ -1,0 +1,16 @@
+abstractness_v1_pre_topc axiom
+cc1_pre_topc axiom
+commutativity_k1_tsep_1 axiom
+dt_g1_pre_topc axiom
+dt_k1_tsep_1 axiom
+dt_k3_tmap_1 axiom
+dt_m1_pre_topc axiom
+dt_u1_pre_topc axiom
+existence_l1_pre_topc axiom
+existence_m1_pre_topc axiom
+rc2_borsuk_1 axiom
+symmetry_r4_tsep_1 axiom
+t126_tmap_1 axiom
+t5_subset axiom
+t87_tsep_1 axiom
+t127_tmap_1 conjecture

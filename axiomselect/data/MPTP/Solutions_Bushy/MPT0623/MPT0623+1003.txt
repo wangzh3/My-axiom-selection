@@ -1,0 +1,12 @@
+d3_tarski axiom
+d5_funct_1 axiom
+dt_o_1_0_funct_1 axiom
+existence_m1_subset_1 axiom
+fc1_xboole_0 axiom
+s3_funct_1__e1_27_1__funct_1 axiom
+t2_subset axiom
+t2_xboole_1 axiom
+t3_subset axiom
+t5_subset axiom
+t6_boole axiom
+t18_funct_1 conjecture

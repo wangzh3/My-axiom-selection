@@ -1,0 +1,8 @@
+t22_wellord2 conjecture
+d10_xboole_0 axiom
+d4_wellord2 axiom
+fc2_funct_1 axiom
+fc7_funct_1 axiom
+t146_relat_1 axiom
+t160_relat_1 axiom
+t46_relat_1 axiom

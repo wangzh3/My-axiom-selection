@@ -1,0 +1,4 @@
+d3_tarski axiom
+d4_relat_1 axiom
+t166_relat_1 axiom
+t167_relat_1 conjecture

@@ -1,0 +1,6 @@
+t46_funct_1 conjecture
+d8_funct_1 axiom
+fc2_funct_1 axiom
+dt_k5_relat_1 axiom
+t21_funct_1 axiom
+t22_funct_1 axiom

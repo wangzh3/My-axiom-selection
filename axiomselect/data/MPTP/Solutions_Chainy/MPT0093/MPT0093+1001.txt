@@ -1,0 +1,5 @@
+commutativity_k2_xboole_0 axiom
+t10_xboole_1 axiom
+t39_xboole_1 axiom
+t73_xboole_1 axiom
+t86_xboole_1 conjecture

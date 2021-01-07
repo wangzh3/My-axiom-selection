@@ -1,0 +1,11 @@
+formla,formula,score
+t116_xboole_1,idempotence_k3_xboole_0,5.474502185170679
+commutativity_k3_xboole_0,idempotence_k3_xboole_0,5.500455150460012
+commutativity_k3_xboole_0,t116_xboole_1,7.30043207632639
+idempotence_k3_xboole_0,t16_xboole_1,8.183118112486902
+commutativity_k3_xboole_0,t16_xboole_1,9.63372356402057
+t116_xboole_1,t16_xboole_1,10.904157839281446
+commutativity_k3_xboole_0,dt_k3_xboole_0,inf
+t116_xboole_1,dt_k3_xboole_0,inf
+idempotence_k3_xboole_0,dt_k3_xboole_0,inf
+t16_xboole_1,dt_k3_xboole_0,inf

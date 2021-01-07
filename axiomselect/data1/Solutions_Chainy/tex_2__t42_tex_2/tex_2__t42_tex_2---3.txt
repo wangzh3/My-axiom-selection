@@ -1,0 +1,10 @@
+t42_tex_2 conjecture
+t69_enumset1 axiom
+redefinition_k6_domain_1 axiom
+d1_xboole_0 axiom
+t37_zfmisc_1 axiom
+fc2_struct_0 axiom
+dt_k6_domain_1 axiom
+dt_l1_pre_topc axiom
+t41_tex_2 axiom
+t1_subset axiom

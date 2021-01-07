@@ -1,0 +1,8 @@
+t127_zfmisc_1 conjecture
+t65_xboole_1 axiom
+t123_zfmisc_1 axiom
+t113_zfmisc_1 axiom
+l24_zfmisc_1 axiom
+t75_xboole_1 axiom
+d7_xboole_0 axiom
+t3_xboole_0 axiom

@@ -1,0 +1,9 @@
+dt_k2_funct_1 axiom
+dt_k5_relat_1 axiom
+fc2_funct_1 axiom
+t34_funct_1 axiom
+t56_funct_1 axiom
+t57_funct_1 axiom
+t58_funct_1 axiom
+t59_funct_1 axiom
+t61_funct_1 conjecture

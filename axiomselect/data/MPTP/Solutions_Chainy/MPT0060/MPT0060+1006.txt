@@ -1,0 +1,12 @@
+commutativity_k2_xboole_0 axiom
+d2_xboole_0 axiom
+t1_boole axiom
+t24_xboole_1 axiom
+t39_xboole_1 axiom
+t41_xboole_1 axiom
+t42_xboole_1 axiom
+t46_xboole_1 axiom
+t47_xboole_1 axiom
+t48_xboole_1 axiom
+t6_xboole_1 axiom
+t53_xboole_1 conjecture

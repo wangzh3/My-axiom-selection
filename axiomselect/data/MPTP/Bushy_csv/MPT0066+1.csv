@@ -1,0 +1,7 @@
+formla,formula,score
+antisymmetry_r2_xboole_0,t59_xboole_1,0.0
+antisymmetry_r2_xboole_0,l58_xboole_1,0.0
+t59_xboole_1,l58_xboole_1,0.0
+antisymmetry_r2_xboole_0,irreflexivity_r2_xboole_0,1.0986122886681098
+t59_xboole_1,irreflexivity_r2_xboole_0,2.471877649503247
+irreflexivity_r2_xboole_0,l58_xboole_1,2.471877649503247

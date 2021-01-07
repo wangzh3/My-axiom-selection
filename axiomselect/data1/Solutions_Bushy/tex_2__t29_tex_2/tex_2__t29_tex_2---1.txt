@@ -1,0 +1,6 @@
+t29_tex_2 conjecture
+t28_tex_2 axiom
+dt_k9_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t17_xboole_1 axiom
+commutativity_k3_xboole_0 axiom

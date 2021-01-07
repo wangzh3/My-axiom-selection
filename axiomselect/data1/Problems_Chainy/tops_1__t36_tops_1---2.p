@@ -1,0 +1,6 @@
+fof(t36_tops_1,conjecture,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A)))=> ( ( v4_pre_topc(B,A)& v4_pre_topc(C,A) )=> v4_pre_topc(k4_subset_1(u1_struct_0(A),B,C),A) ) ) ) ) )).
+fof(dt_k4_subset_1,axiom,(! [A,B,C] :( ( m1_subset_1(B,k1_zfmisc_1(A))& m1_subset_1(C,k1_zfmisc_1(A)) )=> m1_subset_1(k4_subset_1(A,B,C),k1_zfmisc_1(A)) ) )).
+fof(commutativity_k4_subset_1,axiom,(! [A,B,C] :( ( m1_subset_1(B,k1_zfmisc_1(A))& m1_subset_1(C,k1_zfmisc_1(A)) )=> k4_subset_1(A,B,C) = k4_subset_1(A,C,B) ) )).
+fof(t50_pre_topc,axiom,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A)))=> k2_pre_topc(A,k4_subset_1(u1_struct_0(A),B,C)) = k4_subset_1(u1_struct_0(A),k2_pre_topc(A,B),k2_pre_topc(A,C)) ) ) ) )).
+fof(fc1_tops_1,axiom,(! [A,B] :( ( v2_pre_topc(A)& l1_pre_topc(A)& m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A))) )=> v4_pre_topc(k2_pre_topc(A,B),A) ) )).
+fof(t52_pre_topc,axiom,(! [A] :( l1_pre_topc(A)=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ( ( v4_pre_topc(B,A)=> k2_pre_topc(A,B) = B )& ( ( v2_pre_topc(A)& k2_pre_topc(A,B) = B )=> v4_pre_topc(B,A) ) ) ) ) )).

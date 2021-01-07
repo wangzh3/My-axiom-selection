@@ -1,0 +1,10 @@
+t25_orders_2 conjecture
+d2_subset_1 axiom
+fc6_relat_1 axiom
+cc2_relat_1 axiom
+t8_boole axiom
+d6_orders_2 axiom
+dt_u1_orders_2 axiom
+t7_boole axiom
+d9_orders_2 axiom
+d4_relat_2 axiom

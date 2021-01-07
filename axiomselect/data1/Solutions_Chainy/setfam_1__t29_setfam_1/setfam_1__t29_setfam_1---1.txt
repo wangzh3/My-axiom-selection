@@ -1,0 +1,7 @@
+t29_setfam_1 conjecture
+t93_zfmisc_1 axiom
+t69_enumset1 axiom
+t17_setfam_1 axiom
+d3_tarski axiom
+d4_setfam_1 axiom
+t31_zfmisc_1 axiom

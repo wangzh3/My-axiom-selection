@@ -1,0 +1,8 @@
+t138_relat_1 conjecture
+l32_xboole_1 axiom
+d1_relat_1 axiom
+t49_zfmisc_1 axiom
+t60_relat_1 axiom
+t4_boole axiom
+t46_zfmisc_1 axiom
+t125_relat_1 axiom

@@ -1,0 +1,4 @@
+fof(t156_funct_1,conjecture,(! [A,B] :( ( v1_relat_1(B)& v1_funct_1(B) )=> ! [C] :( ( v1_relat_1(C)& v1_funct_1(C) )=> ! [D] :( ( v1_relat_1(D)& v1_funct_1(D) )=> ( ( A = k2_relat_1(B)& k1_relat_1(C) = A& k1_relat_1(D) = A& k5_relat_1(B,C) = k5_relat_1(B,D) )=> C = D ) ) ) ) )).
+fof(t23_funct_1,axiom,(! [A,B] :( ( v1_relat_1(B)& v1_funct_1(B) )=> ! [C] :( ( v1_relat_1(C)& v1_funct_1(C) )=> ( r2_hidden(A,k1_relat_1(B))=> k1_funct_1(k5_relat_1(B,C),A) = k1_funct_1(C,k1_funct_1(B,A)) ) ) ) )).
+fof(d5_funct_1,axiom,(! [A] :( ( v1_relat_1(A)& v1_funct_1(A) )=> ! [B] :( B = k2_relat_1(A)<=> ! [C] :( r2_hidden(C,B)<=> ? [D] :( r2_hidden(D,k1_relat_1(A))& C = k1_funct_1(A,D) ) ) ) ) )).
+fof(t9_funct_1,axiom,(! [A] :( ( v1_relat_1(A)& v1_funct_1(A) )=> ! [B] :( ( v1_relat_1(B)& v1_funct_1(B) )=> ( ( k1_relat_1(A) = k1_relat_1(B)& ! [C] :( r2_hidden(C,k1_relat_1(A))=> k1_funct_1(A,C) = k1_funct_1(B,C) ) )=> A = B ) ) ) )).

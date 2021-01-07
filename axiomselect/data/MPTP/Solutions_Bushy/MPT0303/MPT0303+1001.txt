@@ -1,0 +1,4 @@
+d2_xboole_0 axiom
+l54_zfmisc_1 axiom
+t2_tarski axiom
+t115_zfmisc_1 conjecture

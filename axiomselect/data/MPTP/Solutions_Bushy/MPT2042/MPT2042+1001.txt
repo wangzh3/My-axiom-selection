@@ -1,0 +1,3 @@
+t37_waybel_9 axiom
+t38_waybel_9 axiom
+t41_waybel_9 conjecture

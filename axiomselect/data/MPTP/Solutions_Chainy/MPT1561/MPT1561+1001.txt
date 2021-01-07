@@ -1,0 +1,17 @@
+cc4_relset_1 axiom
+d10_yellow_0 axiom
+d1_tarski axiom
+d1_xboole_0 axiom
+d8_lattice3 axiom
+d9_lattice3 axiom
+d9_orders_2 axiom
+d9_yellow_0 axiom
+dt_k1_yellow_0 axiom
+dt_k2_yellow_0 axiom
+dt_u1_orders_2 axiom
+redefinition_k6_domain_1 axiom
+t24_orders_2 axiom
+t25_orders_2 axiom
+t38_yellow_0 axiom
+t7_yellow_0 axiom
+t39_yellow_0 conjecture

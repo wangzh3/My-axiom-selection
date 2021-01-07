@@ -1,0 +1,4 @@
+d7_connsp_2 axiom
+dt_k1_connsp_2 axiom
+t44_pre_topc axiom
+t32_connsp_2 conjecture

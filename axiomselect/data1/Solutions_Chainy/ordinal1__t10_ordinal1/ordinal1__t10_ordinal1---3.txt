@@ -1,0 +1,10 @@
+t10_ordinal1 conjecture
+t7_xboole_1 axiom
+t69_enumset1 axiom
+d3_tarski axiom
+t65_zfmisc_1 axiom
+t47_zfmisc_1 axiom
+commutativity_k2_xboole_0 axiom
+t141_zfmisc_1 axiom
+d1_ordinal1 axiom
+d10_xboole_0 axiom

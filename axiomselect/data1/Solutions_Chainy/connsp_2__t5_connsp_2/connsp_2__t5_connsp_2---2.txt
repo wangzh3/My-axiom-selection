@@ -1,0 +1,7 @@
+t5_connsp_2 conjecture
+dt_k3_subset_1 axiom
+d1_tops_1 axiom
+fc3_tops_1 axiom
+involutiveness_k3_subset_1 axiom
+d1_connsp_2 axiom
+t52_pre_topc axiom

@@ -1,0 +1,4 @@
+t21_compts_1 conjecture
+t17_compts_1 axiom
+d5_compts_1 axiom
+t15_compts_1 axiom

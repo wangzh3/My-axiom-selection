@@ -1,0 +1,6 @@
+d10_xboole_0 axiom
+dt_k2_funct_1 axiom
+t46_relat_1 axiom
+t47_relat_1 axiom
+t55_funct_1 axiom
+t58_funct_1 conjecture

@@ -1,0 +1,17 @@
+t21_tmap_1 conjecture
+dt_u1_pre_topc axiom
+t5_connsp_2 axiom
+t5_subset axiom
+commutativity_k1_tsep_1 axiom
+dt_m1_connsp_2 axiom
+existence_m1_connsp_2 axiom
+t3_subset axiom
+t20_tmap_1 axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom
+abstractness_v1_pre_topc axiom
+existence_m1_subset_1 axiom
+dt_k1_tsep_1 axiom
+t1_subset axiom
+dt_g1_pre_topc axiom
+existence_m1_pre_topc axiom

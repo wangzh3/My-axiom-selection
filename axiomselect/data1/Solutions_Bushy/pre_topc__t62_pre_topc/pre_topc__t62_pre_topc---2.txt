@@ -1,0 +1,10 @@
+t62_pre_topc conjecture
+dt_u1_pre_topc axiom
+t5_subset axiom
+dt_k8_relset_1 axiom
+d12_pre_topc axiom
+t4_subset axiom
+t61_pre_topc axiom
+existence_l1_pre_topc axiom
+redefinition_k8_relset_1 axiom
+dt_g1_pre_topc axiom

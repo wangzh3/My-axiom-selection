@@ -1,0 +1,6 @@
+t34_zfmisc_1 conjecture
+l54_zfmisc_1 axiom
+t69_enumset1 axiom
+t20_zfmisc_1 axiom
+l33_zfmisc_1 axiom
+d2_tarski axiom

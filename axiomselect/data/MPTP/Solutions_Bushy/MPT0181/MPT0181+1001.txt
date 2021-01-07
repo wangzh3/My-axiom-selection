@@ -1,0 +1,3 @@
+commutativity_k2_tarski axiom
+t42_enumset1 axiom
+t98_enumset1 conjecture

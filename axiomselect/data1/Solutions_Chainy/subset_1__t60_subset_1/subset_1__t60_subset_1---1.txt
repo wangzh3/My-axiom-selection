@@ -1,0 +1,11 @@
+t60_subset_1 conjecture
+d1_xboole_0 axiom
+d1_zfmisc_1 axiom
+d2_enumset1 axiom
+d2_subset_1 axiom
+fc1_subset_1 axiom
+l3_subset_1 axiom
+t38_zfmisc_1 axiom
+t52_enumset1 axiom
+t58_subset_1 axiom
+t8_xboole_1 axiom

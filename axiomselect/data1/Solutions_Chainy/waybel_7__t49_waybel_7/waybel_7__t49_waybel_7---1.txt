@@ -1,0 +1,3 @@
+t49_waybel_7 conjecture
+t48_waybel_7 axiom
+l57_waybel_7 axiom

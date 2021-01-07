@@ -1,0 +1,14 @@
+t9_zfmisc_1 conjecture
+t105_enumset1 axiom
+t11_xboole_1 axiom
+t77_enumset1 axiom
+t7_xboole_1 axiom
+idempotence_k2_xboole_0 axiom
+t6_zfmisc_1 axiom
+t82_enumset1 axiom
+t113_enumset1 axiom
+l53_enumset1 axiom
+t70_enumset1 axiom
+commutativity_k2_xboole_0 axiom
+commutativity_k2_tarski axiom
+t137_enumset1 axiom

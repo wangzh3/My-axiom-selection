@@ -1,0 +1,8 @@
+t8_tex_2 conjecture
+fc2_xboole_0 axiom
+fc7_struct_0 axiom
+redefinition_k6_domain_1 axiom
+cc1_tex_2 axiom
+dt_k6_domain_1 axiom
+cc1_subset_1 axiom
+fc2_struct_0 axiom

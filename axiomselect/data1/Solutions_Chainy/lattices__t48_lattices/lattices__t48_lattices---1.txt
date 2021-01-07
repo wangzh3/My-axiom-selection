@@ -1,0 +1,10 @@
+t48_lattices conjecture
+redefinition_k3_lattices axiom
+dt_k7_lattices axiom
+commutativity_k3_lattices axiom
+cc1_lattices axiom
+d21_lattices axiom
+t115_zfmisc_1 axiom
+cc5_lattices axiom
+dt_l3_lattices axiom
+d18_lattices axiom

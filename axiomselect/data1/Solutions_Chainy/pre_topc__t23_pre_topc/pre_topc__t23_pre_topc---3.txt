@@ -1,0 +1,15 @@
+t23_pre_topc conjecture
+t46_xboole_1 axiom
+idempotence_k4_subset_1 axiom
+d5_subset_1 axiom
+redefinition_k7_subset_1 axiom
+commutativity_k4_subset_1 axiom
+dt_k3_subset_1 axiom
+redefinition_k4_subset_1 axiom
+d3_struct_0 axiom
+t18_pre_topc axiom
+t33_subset_1 axiom
+involutiveness_k3_subset_1 axiom
+dt_k2_struct_0 axiom
+t3_subset axiom
+d10_xboole_0 axiom

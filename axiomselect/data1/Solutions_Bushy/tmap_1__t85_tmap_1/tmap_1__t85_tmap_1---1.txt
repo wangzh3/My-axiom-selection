@@ -1,0 +1,7 @@
+t85_tmap_1 conjecture
+t4_tsep_1 axiom
+t33_tops_2 axiom
+t84_tmap_1 axiom
+t81_tmap_1 axiom
+t3_subset axiom
+t1_xboole_1 axiom

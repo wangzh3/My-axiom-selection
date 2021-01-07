@@ -1,0 +1,16 @@
+cc12_yellow_0 axiom
+cc1_lattice3 axiom
+cc6_yellow_0 axiom
+cc7_yellow_0 axiom
+cc8_yellow_0 axiom
+d17_yellow_0 axiom
+dt_k7_domain_1 axiom
+dt_l1_orders_2 axiom
+dt_m1_yellow_0 axiom
+fc2_struct_0 axiom
+redefinition_k7_domain_1 axiom
+t20_yellow_0 axiom
+t2_subset axiom
+t41_yellow_0 axiom
+t65_yellow_0 axiom
+t71_yellow_0 conjecture

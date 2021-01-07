@@ -1,0 +1,16 @@
+t33_subset_1 conjecture
+redefinition_k6_subset_1 axiom
+commutativity_k2_xboole_0 axiom
+redefinition_k7_subset_1 axiom
+dt_k7_subset_1 axiom
+dt_k6_subset_1 axiom
+dt_k9_subset_1 axiom
+d5_subset_1 axiom
+t1_boole axiom
+involutiveness_k3_subset_1 axiom
+t3_boole axiom
+redefinition_k9_subset_1 axiom
+t52_xboole_1 axiom
+commutativity_k3_xboole_0 axiom
+redefinition_k4_subset_1 axiom
+t2_boole axiom

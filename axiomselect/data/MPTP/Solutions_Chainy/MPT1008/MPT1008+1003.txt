@@ -1,0 +1,14 @@
+cc2_relat_1 axiom
+d1_funct_2 axiom
+fc6_relat_1 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom
+t14_funct_1 axiom
+t69_enumset1 axiom
+t70_enumset1 axiom
+t71_enumset1 axiom
+t72_enumset1 axiom
+t73_enumset1 axiom
+t74_enumset1 axiom
+t75_enumset1 axiom
+t62_funct_2 conjecture

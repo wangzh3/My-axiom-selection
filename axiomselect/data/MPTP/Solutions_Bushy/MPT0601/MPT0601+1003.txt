@@ -1,0 +1,6 @@
+antisymmetry_r2_hidden axiom
+d1_xboole_0 axiom
+d4_relat_1 axiom
+t204_relat_1 axiom
+t6_boole axiom
+t205_relat_1 conjecture

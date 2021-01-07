@@ -1,0 +1,10 @@
+t42_ordinal1 conjecture
+fc2_ordinal1 axiom
+redefinition_r1_ordinal1 axiom
+t10_ordinal1 axiom
+cc1_ordinal1 axiom
+d8_xboole_0 axiom
+t33_ordinal1 axiom
+t41_ordinal1 axiom
+antisymmetry_r2_hidden axiom
+t21_ordinal1 axiom

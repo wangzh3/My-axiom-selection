@@ -1,0 +1,6 @@
+d3_finset_1 axiom
+redefinition_k6_setfam_1 axiom
+t13_compts_1 axiom
+t1_xboole_1 axiom
+t3_subset axiom
+t14_compts_1 conjecture

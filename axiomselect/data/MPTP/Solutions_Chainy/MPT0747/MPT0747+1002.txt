@@ -1,0 +1,6 @@
+fc2_ordinal1 axiom
+l49_zfmisc_1 axiom
+t10_ordinal1 axiom
+t35_ordinal1 axiom
+t7_ordinal1 axiom
+t37_ordinal1 conjecture

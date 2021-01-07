@@ -1,0 +1,6 @@
+t1_waybel_9 conjecture
+t8_lattice3 axiom
+l20_yellow_6 axiom
+d5_orders_3 axiom
+dt_u1_orders_2 axiom
+free_g1_orders_2 axiom

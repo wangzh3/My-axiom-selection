@@ -1,0 +1,17 @@
+t40_xboole_1 conjecture
+l32_xboole_1 axiom
+t21_xboole_1 axiom
+t23_xboole_1 axiom
+t7_xboole_1 axiom
+commutativity_k2_xboole_0 axiom
+t36_xboole_1 axiom
+t24_xboole_1 axiom
+t1_boole axiom
+t6_xboole_1 axiom
+d5_xboole_0 axiom
+commutativity_k3_xboole_0 axiom
+d7_xboole_0 axiom
+t3_xboole_0 axiom
+d10_xboole_0 axiom
+t39_xboole_1 axiom
+t33_xboole_1 axiom

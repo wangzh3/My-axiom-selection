@@ -1,0 +1,15 @@
+t20_mcart_1 conjecture
+t135_zfmisc_1 axiom
+t69_enumset1 axiom
+d4_relat_1 axiom
+t113_zfmisc_1 axiom
+t60_relat_1 axiom
+l22_zfmisc_1 axiom
+t129_zfmisc_1 axiom
+t2_boole axiom
+t7_mcart_1 axiom
+t35_zfmisc_1 axiom
+t50_zfmisc_1 axiom
+t128_zfmisc_1 axiom
+t63_zfmisc_1 axiom
+t42_zfmisc_1 axiom

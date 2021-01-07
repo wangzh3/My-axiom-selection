@@ -1,0 +1,10 @@
+commutativity_k2_xboole_0 axiom
+redefinition_k6_subset_1 axiom
+t192_relat_1 axiom
+t212_relat_1 axiom
+t48_xboole_1 axiom
+t72_xboole_1 axiom
+t79_xboole_1 axiom
+t89_xboole_1 axiom
+t90_relat_1 axiom
+t213_relat_1 conjecture

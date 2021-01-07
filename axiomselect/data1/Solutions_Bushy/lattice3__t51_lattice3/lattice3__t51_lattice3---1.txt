@@ -1,0 +1,17 @@
+t51_lattice3 conjecture
+cc1_lattices axiom
+commutativity_k3_lattices axiom
+d14_lattices axiom
+d17_lattices axiom
+dt_k15_lattice3 axiom
+dt_k1_lattices axiom
+dt_k6_lattices axiom
+dt_l2_lattices axiom
+dt_l3_lattices axiom
+fc2_struct_0 axiom
+redefinition_k3_lattices axiom
+redefinition_r3_lattices axiom
+t22_lattices axiom
+t26_lattices axiom
+t2_subset axiom
+t38_lattice3 axiom

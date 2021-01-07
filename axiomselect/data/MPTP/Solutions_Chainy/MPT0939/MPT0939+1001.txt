@@ -1,0 +1,11 @@
+connectedness_r1_ordinal1 axiom
+d1_wellord2 axiom
+dt_k1_wellord2 axiom
+l4_wellord1 axiom
+rc1_ordinal1 axiom
+redefinition_r1_ordinal1 axiom
+reflexivity_r1_ordinal1 axiom
+t23_ordinal1 axiom
+t38_ordinal1 axiom
+t39_ordinal1 axiom
+t4_wellord2 conjecture

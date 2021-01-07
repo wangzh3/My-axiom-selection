@@ -1,0 +1,11 @@
+t44_waybel_7 conjecture
+dt_k11_lattice3 axiom
+cc2_lattice3 axiom
+d7_waybel_7 axiom
+dt_k6_waybel_4 axiom
+t4_subset axiom
+t14_waybel_4 axiom
+redefinition_k12_lattice3 axiom
+redefinition_k7_yellow_3 axiom
+fc3_waybel_7 axiom
+t41_waybel_0 axiom

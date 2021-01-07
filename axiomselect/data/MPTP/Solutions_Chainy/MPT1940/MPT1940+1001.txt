@@ -1,0 +1,11 @@
+d17_yellow_6 axiom
+d2_subset_1 axiom
+dt_k2_yellow_1 axiom
+dt_k9_yellow_6 axiom
+dt_l1_orders_2 axiom
+fc20_yellow_6 axiom
+fc2_struct_0 axiom
+fraenkel_a_2_0_yellow_6 axiom
+t12_yellow_6 axiom
+t1_yellow_1 axiom
+t38_yellow_6 conjecture

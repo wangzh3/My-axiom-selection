@@ -1,0 +1,17 @@
+t62_tops_2 conjecture
+d2_xboole_0 axiom
+cc1_relset_1 axiom
+t35_funct_2 axiom
+d9_funct_1 axiom
+t24_relset_1 axiom
+t58_funct_1 axiom
+d3_struct_0 axiom
+redefinition_k3_relset_1 axiom
+redefinition_k1_relset_1 axiom
+t71_relat_1 axiom
+fc2_struct_0 axiom
+fc3_struct_0 axiom
+d2_struct_0 axiom
+redefinition_k9_setfam_1 axiom
+d4_tops_2 axiom
+redefinition_k6_partfun1 axiom

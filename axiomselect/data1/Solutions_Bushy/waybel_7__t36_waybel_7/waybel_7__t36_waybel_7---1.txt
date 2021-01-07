@@ -1,0 +1,10 @@
+t36_waybel_7 conjecture
+cc2_lattice3 axiom
+t20_waybel_3 axiom
+t26_orders_2 axiom
+t3_waybel_7 axiom
+dt_k1_yellow_0 axiom
+redefinition_r3_orders_2 axiom
+t21_waybel_3 axiom
+t28_waybel_7 axiom
+cc11_waybel_0 axiom

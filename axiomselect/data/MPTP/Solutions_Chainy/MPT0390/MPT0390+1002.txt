@@ -1,0 +1,11 @@
+d1_setfam_1 axiom
+d3_tarski axiom
+d4_xboole_0 axiom
+d5_xboole_0 axiom
+t11_xboole_1 axiom
+t12_xboole_1 axiom
+t28_xboole_1 axiom
+t37_xboole_1 axiom
+t7_tarski axiom
+t9_xboole_1 axiom
+t8_setfam_1 conjecture

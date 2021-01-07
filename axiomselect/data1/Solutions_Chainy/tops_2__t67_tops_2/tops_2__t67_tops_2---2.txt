@@ -1,0 +1,8 @@
+t67_tops_2 conjecture
+cc1_relset_1 axiom
+redefinition_k7_relset_1 axiom
+d3_struct_0 axiom
+t154_funct_1 axiom
+d4_tops_2 axiom
+t31_funct_2 axiom
+redefinition_k8_relset_1 axiom

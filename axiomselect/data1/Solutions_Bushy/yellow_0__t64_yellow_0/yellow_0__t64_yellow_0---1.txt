@@ -1,0 +1,14 @@
+t64_yellow_0 conjecture
+t61_yellow_0 axiom
+dt_m1_yellow_0 axiom
+t26_orders_2 axiom
+t62_yellow_0 axiom
+t63_yellow_0 axiom
+t7_boole axiom
+d10_yellow_0 axiom
+t2_subset axiom
+t59_yellow_0 axiom
+t60_yellow_0 axiom
+t1_subset axiom
+dt_k2_yellow_0 axiom
+d8_yellow_0 axiom

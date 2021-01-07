@@ -1,0 +1,5 @@
+cc2_relat_1 axiom
+t117_relat_1 axiom
+t25_relat_1 axiom
+t3_subset axiom
+t89_funct_1 conjecture

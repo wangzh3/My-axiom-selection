@@ -1,0 +1,9 @@
+t86_tops_1 conjecture
+t3_xboole_1 axiom
+fc9_tops_1 axiom
+t55_tops_1 axiom
+dt_k1_tops_1 axiom
+t44_tops_1 axiom
+t84_tops_1 axiom
+existence_m1_subset_1 axiom
+t48_tops_1 axiom

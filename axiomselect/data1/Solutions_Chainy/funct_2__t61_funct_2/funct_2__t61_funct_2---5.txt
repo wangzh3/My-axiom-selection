@@ -1,0 +1,4 @@
+t61_funct_2 conjecture
+t7_funct_2 axiom
+t69_enumset1 axiom
+d1_tarski axiom

@@ -1,0 +1,7 @@
+t36_ordinal1 conjecture
+t34_ordinal1 axiom
+fc2_ordinal1 axiom
+d3_tarski axiom
+redefinition_r1_ordinal1 axiom
+d4_tarski axiom
+t35_ordinal1 axiom

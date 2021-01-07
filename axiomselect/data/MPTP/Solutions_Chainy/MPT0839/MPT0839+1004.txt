@@ -1,0 +1,11 @@
+cc2_relat_1 axiom
+cc2_relset_1 axiom
+d18_relat_1 axiom
+d3_tarski axiom
+fc6_relat_1 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom
+t1_subset axiom
+t65_relat_1 axiom
+t7_xboole_0 axiom
+t50_relset_1 conjecture

@@ -1,0 +1,3 @@
+d13_funct_1 axiom
+t3_xboole_0 axiom
+t141_funct_1 conjecture

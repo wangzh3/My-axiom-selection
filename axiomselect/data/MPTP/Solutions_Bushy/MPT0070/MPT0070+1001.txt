@@ -1,0 +1,4 @@
+d7_xboole_0 axiom
+t26_xboole_1 axiom
+t3_xboole_1 axiom
+t63_xboole_1 conjecture

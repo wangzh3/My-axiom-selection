@@ -1,0 +1,13 @@
+t59_filter_1 conjecture
+cc1_lattices axiom
+d11_filter_0 axiom
+dt_k3_lattices axiom
+dt_k4_filter_0 axiom
+dt_k4_lattices axiom
+dt_l3_lattices axiom
+l66_filter_1 axiom
+l68_filter_1 axiom
+l70_filter_1 axiom
+t4_subset axiom
+t7_boole axiom
+t8_filter_0 axiom

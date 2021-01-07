@@ -1,0 +1,11 @@
+t51_orders_2 conjecture
+dt_l1_orders_2 axiom
+d12_orders_2 axiom
+redefinition_k6_domain_1 axiom
+t4_subset axiom
+d1_tarski axiom
+t7_boole axiom
+t2_subset axiom
+dt_k6_domain_1 axiom
+fraenkel_a_2_0_orders_2 axiom
+fc2_struct_0 axiom

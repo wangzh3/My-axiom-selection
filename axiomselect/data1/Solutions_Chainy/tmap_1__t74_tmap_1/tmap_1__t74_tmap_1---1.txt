@@ -1,0 +1,9 @@
+t74_tmap_1 conjecture
+cc1_relset_1 axiom
+cc2_relset_1 axiom
+d5_tmap_1 axiom
+dt_m1_pre_topc axiom
+redefinition_k2_partfun1 axiom
+redefinition_r2_funct_2 axiom
+t209_relat_1 axiom
+t2_tsep_1 axiom

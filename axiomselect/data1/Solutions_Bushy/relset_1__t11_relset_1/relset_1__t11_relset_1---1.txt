@@ -1,0 +1,5 @@
+t11_relset_1 conjecture
+t1_xboole_1 axiom
+t119_zfmisc_1 axiom
+t21_relat_1 axiom
+t3_subset axiom

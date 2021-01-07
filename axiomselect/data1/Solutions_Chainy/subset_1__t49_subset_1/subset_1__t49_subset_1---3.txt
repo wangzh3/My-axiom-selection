@@ -1,0 +1,9 @@
+t49_subset_1 conjecture
+d2_subset_1 axiom
+t6_xboole_0 axiom
+d1_xboole_0 axiom
+t92_zfmisc_1 axiom
+d8_xboole_0 axiom
+t7_boole axiom
+t99_zfmisc_1 axiom
+existence_m1_subset_1 axiom

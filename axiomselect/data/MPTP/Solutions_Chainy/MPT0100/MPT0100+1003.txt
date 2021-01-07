@@ -1,0 +1,10 @@
+d3_tarski axiom
+d3_xboole_0 axiom
+d4_xboole_0 axiom
+t10_xboole_1 axiom
+t12_xboole_1 axiom
+t1_xboole_0 axiom
+t23_xboole_1 axiom
+t31_xboole_1 axiom
+t43_xboole_1 axiom
+t93_xboole_1 conjecture

@@ -1,0 +1,10 @@
+cc2_relat_1 axiom
+cc2_relset_1 axiom
+d10_xboole_0 axiom
+fc6_relat_1 axiom
+redefinition_k5_relset_1 axiom
+symmetry_r1_xboole_0 axiom
+t207_relat_1 axiom
+t209_relat_1 axiom
+t63_xboole_1 axiom
+t55_relset_1 conjecture

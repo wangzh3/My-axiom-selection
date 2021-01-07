@@ -1,0 +1,5 @@
+t21_relat_1 conjecture
+d3_relat_1 axiom
+t106_zfmisc_1 axiom
+d4_relat_1 axiom
+d5_relat_1 axiom

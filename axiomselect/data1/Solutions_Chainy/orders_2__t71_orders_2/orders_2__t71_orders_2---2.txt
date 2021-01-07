@@ -1,0 +1,9 @@
+t71_orders_2 conjecture
+t2_tarski axiom
+dt_k3_orders_2 axiom
+t65_orders_2 axiom
+d3_tarski axiom
+t4_subset axiom
+t57_orders_2 axiom
+t70_orders_2 axiom
+t67_orders_2 axiom

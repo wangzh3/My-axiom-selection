@@ -1,0 +1,10 @@
+t180_funct_2 conjecture
+dt_k7_funct_2 axiom
+d3_tarski axiom
+t3_subset axiom
+t4_subset axiom
+t7_boole axiom
+d11_funct_2 axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+dt_k7_relset_1 axiom

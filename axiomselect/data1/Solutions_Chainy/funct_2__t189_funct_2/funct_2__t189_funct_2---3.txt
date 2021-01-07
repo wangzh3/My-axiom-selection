@@ -1,0 +1,5 @@
+t189_funct_2 conjecture
+d2_subset_1 axiom
+redefinition_k3_funct_2 axiom
+fc1_xboole_0 axiom
+t6_funct_2 axiom

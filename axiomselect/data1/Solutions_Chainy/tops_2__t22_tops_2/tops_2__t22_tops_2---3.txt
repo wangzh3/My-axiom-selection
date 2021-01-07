@@ -1,0 +1,4 @@
+t22_tops_2 conjecture
+t21_tops_2 axiom
+dt_k3_subset_1 axiom
+t32_subset_1 axiom

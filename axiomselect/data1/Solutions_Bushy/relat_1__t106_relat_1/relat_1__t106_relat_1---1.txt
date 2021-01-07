@@ -1,0 +1,4 @@
+t106_relat_1 conjecture
+t1_xboole_1 axiom
+t105_relat_1 axiom
+t104_relat_1 axiom

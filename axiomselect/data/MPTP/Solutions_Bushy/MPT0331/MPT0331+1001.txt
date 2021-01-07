@@ -1,0 +1,4 @@
+l168_zfmisc_1 axiom
+symmetry_r1_xboole_0 axiom
+t83_xboole_1 axiom
+t144_zfmisc_1 conjecture

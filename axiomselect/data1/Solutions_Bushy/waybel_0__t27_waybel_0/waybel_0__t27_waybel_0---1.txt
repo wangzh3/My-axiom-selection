@@ -1,0 +1,11 @@
+t27_waybel_0 conjecture
+commutativity_k3_xboole_0 axiom
+commutativity_k9_subset_1 axiom
+d19_waybel_0 axiom
+d3_xboole_0 axiom
+d4_xboole_0 axiom
+dt_k4_subset_1 axiom
+dt_k9_subset_1 axiom
+redefinition_k4_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t4_subset axiom

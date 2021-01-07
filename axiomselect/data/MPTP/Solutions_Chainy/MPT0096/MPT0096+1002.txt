@@ -1,0 +1,6 @@
+t75_xboole_1 axiom
+t76_xboole_1 axiom
+t79_xboole_1 axiom
+t80_xboole_1 axiom
+t81_xboole_1 axiom
+t89_xboole_1 conjecture

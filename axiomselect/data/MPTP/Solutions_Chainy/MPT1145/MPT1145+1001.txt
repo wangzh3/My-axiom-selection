@@ -1,0 +1,6 @@
+cc2_relat_1 axiom
+d11_orders_2 axiom
+dt_u1_orders_2 axiom
+fc6_relat_1 axiom
+t96_orders_1 axiom
+t37_orders_2 conjecture

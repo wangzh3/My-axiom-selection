@@ -1,0 +1,6 @@
+t32_yellow_0 conjecture
+t25_orders_2 axiom
+t17_yellow_0 axiom
+t30_yellow_0 axiom
+dt_k1_yellow_0 axiom
+d12_lattice3 axiom

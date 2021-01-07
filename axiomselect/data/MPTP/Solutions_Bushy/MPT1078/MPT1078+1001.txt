@@ -1,0 +1,13 @@
+cc1_relset_1 axiom
+dt_k2_partfun1 axiom
+dt_k8_funct_2 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_partfun1 axiom
+redefinition_k2_relset_1 axiom
+redefinition_r2_funct_2 axiom
+symmetry_r2_funct_2 axiom
+t104_relat_1 axiom
+t194_funct_2 axiom
+t1_xboole_1 axiom
+t25_relat_1 axiom
+t195_funct_2 conjecture

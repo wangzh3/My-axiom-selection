@@ -1,0 +1,7 @@
+t5_yellow19 conjecture
+dt_k1_yellow19 axiom
+fc1_yellow19 axiom
+rc3_subset_1 axiom
+d7_subset_1 axiom
+t4_yellow19 axiom
+t3_subset axiom

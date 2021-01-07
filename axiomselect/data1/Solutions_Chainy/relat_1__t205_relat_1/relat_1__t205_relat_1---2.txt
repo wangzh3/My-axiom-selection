@@ -1,0 +1,11 @@
+t205_relat_1 conjecture
+t46_xboole_1 axiom
+t2_xboole_1 axiom
+t7_xboole_0 axiom
+t150_relat_1 axiom
+d4_relat_1 axiom
+d3_relat_1 axiom
+t204_relat_1 axiom
+fc2_relat_1 axiom
+d13_relat_1 axiom
+t152_zfmisc_1 axiom

@@ -1,0 +1,7 @@
+d3_tex_2 axiom
+d7_subset_1 axiom
+dt_m1_pre_topc axiom
+l17_tex_2 axiom
+t13_tex_2 axiom
+t2_tsep_1 axiom
+t15_tex_2 conjecture

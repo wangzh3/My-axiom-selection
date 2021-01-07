@@ -1,0 +1,5 @@
+symmetry_r1_xboole_0 axiom
+t63_xboole_1 axiom
+t79_xboole_1 axiom
+t80_xboole_1 axiom
+t85_xboole_1 conjecture

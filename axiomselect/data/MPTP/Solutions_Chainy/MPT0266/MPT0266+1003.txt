@@ -1,0 +1,6 @@
+idempotence_k2_xboole_0 axiom
+t22_xboole_1 axiom
+t31_xboole_1 axiom
+t38_zfmisc_1 axiom
+t48_xboole_1 axiom
+t63_zfmisc_1 conjecture

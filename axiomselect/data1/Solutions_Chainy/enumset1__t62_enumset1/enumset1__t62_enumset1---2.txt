@@ -1,0 +1,14 @@
+t62_enumset1 conjecture
+t61_enumset1 axiom
+idempotence_k2_xboole_0 axiom
+l75_enumset1 axiom
+d1_tarski axiom
+t55_enumset1 axiom
+t46_enumset1 axiom
+t41_enumset1 axiom
+t6_xboole_1 axiom
+t50_enumset1 axiom
+t4_xboole_1 axiom
+d1_enumset1 axiom
+t43_enumset1 axiom
+t113_xboole_1 axiom

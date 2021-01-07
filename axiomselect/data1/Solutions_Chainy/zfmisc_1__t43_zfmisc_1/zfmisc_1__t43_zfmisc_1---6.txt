@@ -1,0 +1,14 @@
+t43_zfmisc_1 conjecture
+l32_xboole_1 axiom
+t46_xboole_1 axiom
+t21_xboole_1 axiom
+l35_zfmisc_1 axiom
+t7_xboole_0 axiom
+t40_xboole_1 axiom
+d1_tarski axiom
+l22_zfmisc_1 axiom
+d3_xboole_0 axiom
+t66_xboole_1 axiom
+t1_boole axiom
+commutativity_k2_xboole_0 axiom
+l3_zfmisc_1 axiom

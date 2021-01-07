@@ -1,0 +1,12 @@
+t67_xboole_1 conjecture
+t37_xboole_1 axiom
+t7_xboole_0 axiom
+t3_boole axiom
+t38_xboole_1 axiom
+t52_xboole_1 axiom
+t47_xboole_1 axiom
+symmetry_r1_xboole_0 axiom
+t48_xboole_1 axiom
+t2_boole axiom
+t1_boole axiom
+t4_xboole_0 axiom

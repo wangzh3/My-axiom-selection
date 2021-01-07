@@ -1,0 +1,8 @@
+fof(t49_wellord1,conjecture,(! [A] :( v1_relat_1(A)=> ! [B] :( v1_relat_1(B)=> ! [C] :( ( v1_relat_1(C)& v1_funct_1(C) )=> ( r3_wellord1(A,B,C)=> r3_wellord1(B,A,k2_funct_1(C)) ) ) ) ) )).
+fof(d7_wellord1,axiom,(! [A] :( v1_relat_1(A)=> ! [B] :( v1_relat_1(B)=> ! [C] :( ( v1_relat_1(C)& v1_funct_1(C) )=> ( r3_wellord1(A,B,C)<=> ( k1_relat_1(C) = k3_relat_1(A)& k2_relat_1(C) = k3_relat_1(B)& v2_funct_1(C)& ! [D,E] :( r2_hidden(k4_tarski(D,E),A)<=> ( r2_hidden(D,k3_relat_1(A))& r2_hidden(E,k3_relat_1(A))& r2_hidden(k4_tarski(k1_funct_1(C,D),k1_funct_1(C,E)),B) ) ) ) ) ) ) ) )).
+fof(d5_funct_1,axiom,(! [A] :( ( v1_relat_1(A)& v1_funct_1(A) )=> ! [B] :( B = k2_relat_1(A)<=> ! [C] :( r2_hidden(C,B)<=> ? [D] :( r2_hidden(D,k1_relat_1(A))& C = k1_funct_1(A,D) ) ) ) ) )).
+fof(fc6_funct_1,axiom,(! [A] :( ( v1_relat_1(A)& v1_funct_1(A)& v2_funct_1(A) )=> ( v1_relat_1(k2_funct_1(A))& v1_funct_1(k2_funct_1(A))& v2_funct_1(k2_funct_1(A)) ) ) )).
+fof(dt_k2_funct_1,axiom,(! [A] :( ( v1_relat_1(A)& v1_funct_1(A) )=> ( v1_relat_1(k2_funct_1(A))& v1_funct_1(k2_funct_1(A)) ) ) )).
+fof(t57_funct_1,axiom,(! [A,B] :( ( v1_relat_1(B)& v1_funct_1(B) )=> ( ( v2_funct_1(B)& r2_hidden(A,k2_relat_1(B)) )=> ( A = k1_funct_1(B,k1_funct_1(k2_funct_1(B),A))& A = k1_funct_1(k5_relat_1(k2_funct_1(B),B),A) ) ) ) )).
+fof(t30_relat_1,axiom,(! [A,B,C] :( v1_relat_1(C)=> ( r2_hidden(k4_tarski(A,B),C)=> ( r2_hidden(A,k3_relat_1(C))& r2_hidden(B,k3_relat_1(C)) ) ) ) )).
+fof(t55_funct_1,axiom,(! [A] :( ( v1_relat_1(A)& v1_funct_1(A) )=> ( v2_funct_1(A)=> ( k2_relat_1(A) = k1_relat_1(k2_funct_1(A))& k1_relat_1(A) = k2_relat_1(k2_funct_1(A)) ) ) ) )).

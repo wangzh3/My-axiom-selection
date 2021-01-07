@@ -1,0 +1,4 @@
+fof(t68_mcart_1,conjecture,(! [A,B,C,D] :( m1_subset_1(D,k3_zfmisc_1(A,B,C))=> ~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& ? [E,F,G] :( D = k3_mcart_1(E,F,G)& ~ ( k5_mcart_1(A,B,C,D) = E& k6_mcart_1(A,B,C,D) = F& k7_mcart_1(A,B,C,D) = G ) ) ) ) )).
+fof(t28_mcart_1,axiom,(! [A,B,C,D,E,F] :( k3_mcart_1(A,B,C) = k3_mcart_1(D,E,F)=> ( A = D& B = E& C = F ) ) )).
+fof(t48_mcart_1,axiom,(! [A,B,C] :~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& ~ ! [D] :( m1_subset_1(D,k3_zfmisc_1(A,B,C))=> D = k3_mcart_1(k5_mcart_1(A,B,C,D),k6_mcart_1(A,B,C,D),k7_mcart_1(A,B,C,D)) ) ) )).
+fof(t50_mcart_1,axiom,(! [A,B,C] :~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& ~ ! [D] :( m1_subset_1(D,k3_zfmisc_1(A,B,C))=> ( k5_mcart_1(A,B,C,D) = k1_mcart_1(k1_mcart_1(D))& k6_mcart_1(A,B,C,D) = k2_mcart_1(k1_mcart_1(D))& k7_mcart_1(A,B,C,D) = k2_mcart_1(D) ) ) ) )).

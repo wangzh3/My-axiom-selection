@@ -1,0 +1,6 @@
+symmetry_r1_xboole_0 axiom
+t73_xboole_1 axiom
+t93_zfmisc_1 axiom
+t96_zfmisc_1 axiom
+t98_zfmisc_1 axiom
+t57_setfam_1 conjecture

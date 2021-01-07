@@ -1,0 +1,6 @@
+t84_mcart_1 conjecture
+t54_mcart_1 axiom
+t106_zfmisc_1 axiom
+d4_mcart_1 axiom
+t73_mcart_1 axiom
+d3_mcart_1 axiom

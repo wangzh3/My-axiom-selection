@@ -1,0 +1,9 @@
+d16_orders_2 axiom
+d8_xboole_0 axiom
+dt_m2_orders_2 axiom
+irreflexivity_r2_xboole_0 axiom
+t60_xboole_1 axiom
+t67_orders_2 axiom
+t69_orders_2 axiom
+t83_orders_2 axiom
+t84_orders_2 conjecture

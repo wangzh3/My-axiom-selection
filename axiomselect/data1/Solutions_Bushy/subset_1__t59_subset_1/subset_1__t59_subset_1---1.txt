@@ -1,0 +1,7 @@
+t59_subset_1 conjecture
+d3_enumset1 axiom
+d1_zfmisc_1 axiom
+d3_tarski axiom
+d2_subset_1 axiom
+t7_boole axiom
+t6_boole axiom

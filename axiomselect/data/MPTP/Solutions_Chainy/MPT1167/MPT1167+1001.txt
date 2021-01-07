@@ -1,0 +1,8 @@
+d15_orders_2 axiom
+d3_tarski axiom
+t2_xboole_1 axiom
+t4_subset axiom
+t57_orders_2 axiom
+t64_orders_2 axiom
+t7_ordinal1 axiom
+t70_orders_2 conjecture

@@ -1,0 +1,9 @@
+t50_tex_2 conjecture
+t1_tex_2 axiom
+cc1_zfmisc_1 axiom
+cc2_tdlat_3 axiom
+t7_boole axiom
+t69_xboole_1 axiom
+d7_tex_2 axiom
+t44_tex_2 axiom
+t3_xboole_0 axiom

@@ -1,0 +1,6 @@
+cc3_relset_1 axiom
+cc5_funct_2 axiom
+reflexivity_r2_relset_1 axiom
+t148_partfun1 axiom
+t6_boole axiom
+t142_funct_2 conjecture

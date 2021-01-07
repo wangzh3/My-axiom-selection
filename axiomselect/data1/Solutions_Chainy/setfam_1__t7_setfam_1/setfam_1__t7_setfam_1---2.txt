@@ -1,0 +1,5 @@
+t7_setfam_1 conjecture
+t4_setfam_1 axiom
+l3_subset_1 axiom
+t6_setfam_1 axiom
+t3_subset axiom

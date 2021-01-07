@@ -1,0 +1,6 @@
+antisymmetry_r2_hidden axiom
+d1_setfam_1 axiom
+d3_tarski axiom
+d4_tarski axiom
+t2_xboole_1 axiom
+t3_setfam_1 conjecture

@@ -1,0 +1,10 @@
+dt_m1_connsp_2 axiom
+t1_xboole_1 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t57_tops_1 axiom
+t5_connsp_2 axiom
+t5_subset axiom
+t8_connsp_2 axiom
+t9_connsp_2 conjecture

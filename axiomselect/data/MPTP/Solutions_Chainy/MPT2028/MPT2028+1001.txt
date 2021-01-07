@@ -1,0 +1,9 @@
+cc1_lattice3 axiom
+d12_pre_topc axiom
+dt_k4_waybel_1 axiom
+dt_k7_relset_1 axiom
+dt_l1_waybel_9 axiom
+t10_pcomps_1 axiom
+t6_waybel_9 axiom
+t7_waybel_9 axiom
+t27_waybel_9 conjecture

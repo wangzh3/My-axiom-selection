@@ -1,0 +1,8 @@
+t193_funct_2 conjecture
+ie1_funct_2 axiom
+t131_funct_2 axiom
+t192_funct_2 axiom
+t115_zfmisc_1 axiom
+dt_k3_funct_2 axiom
+cc2_partfun1 axiom
+redefinition_k3_funct_2 axiom

@@ -1,0 +1,10 @@
+t50_tex_2 conjecture
+l32_xboole_1 axiom
+t20_tdlat_3 axiom
+fc1_xboole_0 axiom
+t83_xboole_1 axiom
+t48_tex_2 axiom
+d7_tex_2 axiom
+t44_tex_2 axiom
+t3_subset axiom
+t80_tops_1 axiom

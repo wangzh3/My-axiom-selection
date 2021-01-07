@@ -1,0 +1,11 @@
+t26_orders_2 conjecture
+t5_subset axiom
+d8_relat_2 axiom
+t106_zfmisc_1 axiom
+t4_subset axiom
+d5_orders_2 axiom
+t7_boole axiom
+t2_subset axiom
+cc1_relset_1 axiom
+dt_u1_orders_2 axiom
+d9_orders_2 axiom

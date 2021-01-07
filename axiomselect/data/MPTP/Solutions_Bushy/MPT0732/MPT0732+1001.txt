@@ -1,0 +1,6 @@
+d2_ordinal1 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t7_boole axiom
+t19_ordinal1 conjecture

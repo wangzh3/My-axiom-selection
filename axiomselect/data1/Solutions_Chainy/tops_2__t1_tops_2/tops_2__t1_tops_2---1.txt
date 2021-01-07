@@ -1,0 +1,4 @@
+t1_tops_2 conjecture
+t3_subset axiom
+redefinition_k9_setfam_1 axiom
+d3_struct_0 axiom

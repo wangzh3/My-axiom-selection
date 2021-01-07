@@ -1,0 +1,14 @@
+cc1_funct_2 axiom
+cc1_partfun1 axiom
+cc1_relset_1 axiom
+cc2_relset_1 axiom
+d2_xboole_0 axiom
+dt_k1_relset_1 axiom
+dt_o_1_1_funct_2 axiom
+redefinition_k1_relset_1 axiom
+s5_funct_2__e3_154_1_2__funct_2 axiom
+t27_partfun1 axiom
+t2_subset axiom
+t4_subset axiom
+t6_boole axiom
+t136_funct_2 conjecture

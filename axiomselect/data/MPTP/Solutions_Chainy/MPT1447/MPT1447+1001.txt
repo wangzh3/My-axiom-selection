@@ -1,0 +1,6 @@
+d15_lattices axiom
+dt_k7_filter_1 axiom
+fc2_filter_1 axiom
+t40_filter_1 axiom
+t41_filter_1 axiom
+t42_filter_1 conjecture

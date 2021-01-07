@@ -1,0 +1,5 @@
+t39_tex_2 conjecture
+t31_tex_2 axiom
+fc5_tops_1 axiom
+t35_tops_1 axiom
+redefinition_k4_subset_1 axiom

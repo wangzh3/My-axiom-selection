@@ -1,0 +1,13 @@
+d10_xboole_0 axiom
+l1_zfmisc_1 axiom
+l49_zfmisc_1 axiom
+t108_xboole_1 axiom
+t12_xboole_1 axiom
+t18_setfam_1 axiom
+t1_xboole_1 axiom
+t20_xboole_1 axiom
+t24_zfmisc_1 axiom
+t28_xboole_1 axiom
+t31_xboole_1 axiom
+t94_zfmisc_1 axiom
+t24_setfam_1 conjecture

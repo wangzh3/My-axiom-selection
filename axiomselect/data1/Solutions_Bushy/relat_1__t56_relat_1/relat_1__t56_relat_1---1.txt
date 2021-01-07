@@ -1,0 +1,5 @@
+t56_relat_1 conjecture
+d1_relat_1 axiom
+t6_boole axiom
+t2_subset axiom
+dt_o_1_1_relat_1 axiom

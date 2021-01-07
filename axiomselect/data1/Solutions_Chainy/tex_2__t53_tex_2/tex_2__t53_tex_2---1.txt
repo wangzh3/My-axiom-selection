@@ -1,0 +1,4 @@
+t53_tex_2 conjecture
+d7_tex_2 axiom
+d8_tex_2 axiom
+t34_tex_2 axiom

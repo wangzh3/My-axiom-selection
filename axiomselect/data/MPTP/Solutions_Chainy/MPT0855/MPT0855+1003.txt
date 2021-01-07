@@ -1,0 +1,7 @@
+commutativity_k2_xboole_0 axiom
+d3_xboole_0 axiom
+l22_zfmisc_1 axiom
+t120_zfmisc_1 axiom
+t128_zfmisc_1 axiom
+t7_mcart_1 axiom
+t11_mcart_1 conjecture

@@ -1,0 +1,13 @@
+d1_tops_1 axiom
+d4_tops_1 axiom
+d5_tops_1 axiom
+dt_k2_pre_topc axiom
+dt_k2_tops_1 axiom
+dt_k3_subset_1 axiom
+involutiveness_k3_subset_1 axiom
+projectivity_k2_pre_topc axiom
+t41_subset_1 axiom
+t62_tops_1 axiom
+t65_tops_1 axiom
+t79_tops_1 axiom
+t91_tops_1 conjecture

@@ -1,0 +1,6 @@
+t32_ordinal1 conjecture
+t7_xboole_0 axiom
+d3_tarski axiom
+t26_ordinal1 axiom
+t23_ordinal1 axiom
+t7_tarski axiom

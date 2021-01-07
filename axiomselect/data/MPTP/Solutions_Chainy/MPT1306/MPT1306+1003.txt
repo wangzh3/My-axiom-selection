@@ -1,0 +1,10 @@
+d10_setfam_1 axiom
+d2_tops_2 axiom
+dt_k8_setfam_1 axiom
+dt_k8_subset_1 axiom
+l3_subset_1 axiom
+redefinition_k8_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t4_subset axiom
+t4_subset_1 axiom
+t24_tops_2 conjecture

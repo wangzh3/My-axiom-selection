@@ -1,0 +1,10 @@
+t42_lattice3 conjecture
+t38_lattice3 axiom
+dt_k15_lattice3 axiom
+t26_lattices axiom
+t40_lattice3 axiom
+dt_k16_lattice3 axiom
+dt_l3_lattices axiom
+redefinition_r3_lattices axiom
+d22_lattice3 axiom
+cc1_lattices axiom

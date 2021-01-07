@@ -1,0 +1,12 @@
+d10_xboole_0 axiom
+d19_waybel_0 axiom
+d21_waybel_0 axiom
+d3_tarski axiom
+d9_lattice3 axiom
+dt_k5_waybel_0 axiom
+redefinition_r3_orders_2 axiom
+reflexivity_r3_orders_2 axiom
+t17_waybel_0 axiom
+t3_subset axiom
+t4_subset axiom
+t48_waybel_0 conjecture

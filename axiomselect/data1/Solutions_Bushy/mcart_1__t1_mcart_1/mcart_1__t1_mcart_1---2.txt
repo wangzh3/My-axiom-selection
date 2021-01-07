@@ -1,0 +1,8 @@
+t1_mcart_1 conjecture
+t3_xboole_0 axiom
+d2_xboole_0 axiom
+t7_tarski axiom
+t2_subset axiom
+t6_boole axiom
+dt_o_1_0_mcart_1 axiom
+symmetry_r1_xboole_0 axiom

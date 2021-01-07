@@ -1,0 +1,16 @@
+d13_pre_topc axiom
+d1_connsp_2 axiom
+dt_k1_tops_1 axiom
+dt_k2_pre_topc axiom
+dt_m1_connsp_2 axiom
+existence_m1_connsp_2 axiom
+existence_m1_subset_1 axiom
+fc9_tops_1 axiom
+symmetry_r1_xboole_0 axiom
+t2_subset axiom
+t44_tops_1 axiom
+t5_connsp_2 axiom
+t5_subset axiom
+t63_xboole_1 axiom
+t7_boole axiom
+t34_connsp_2 conjecture

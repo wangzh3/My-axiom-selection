@@ -1,0 +1,11 @@
+commutativity_k3_xboole_0 axiom
+d7_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+t17_xboole_1 axiom
+t19_xboole_1 axiom
+t1_boole axiom
+t1_xboole_1 axiom
+t23_xboole_1 axiom
+t96_zfmisc_1 axiom
+t98_zfmisc_1 axiom
+t57_setfam_1 conjecture

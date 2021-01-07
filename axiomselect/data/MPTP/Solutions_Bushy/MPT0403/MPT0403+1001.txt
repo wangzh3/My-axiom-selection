@@ -1,0 +1,5 @@
+d2_setfam_1 axiom
+d4_setfam_1 axiom
+idempotence_k2_xboole_0 axiom
+reflexivity_r1_setfam_1 axiom
+t29_setfam_1 conjecture

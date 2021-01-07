@@ -1,0 +1,6 @@
+commutativity_k2_xboole_0 axiom
+d6_xboole_0 axiom
+idempotence_k2_xboole_0 axiom
+t39_xboole_1 axiom
+t41_xboole_1 axiom
+t98_xboole_1 conjecture

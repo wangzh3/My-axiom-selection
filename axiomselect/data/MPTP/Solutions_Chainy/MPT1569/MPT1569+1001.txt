@@ -1,0 +1,4 @@
+d9_yellow_0 axiom
+dt_k1_yellow_0 axiom
+t46_yellow_0 axiom
+t47_yellow_0 conjecture

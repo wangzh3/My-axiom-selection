@@ -1,0 +1,3 @@
+cc2_finset_1 axiom
+t3_subset axiom
+t13_finset_1 conjecture

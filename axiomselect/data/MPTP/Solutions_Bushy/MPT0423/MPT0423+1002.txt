@@ -1,0 +1,17 @@
+d1_tarski axiom
+d4_subset_1 axiom
+d5_subset_1 axiom
+d8_setfam_1 axiom
+dt_k2_subset_1 axiom
+dt_k7_setfam_1 axiom
+fc1_subset_1 axiom
+involutiveness_k7_setfam_1 axiom
+t2_subset axiom
+t2_xboole_1 axiom
+t37_xboole_1 axiom
+t37_zfmisc_1 axiom
+t3_boole axiom
+t3_subset axiom
+t4_subset axiom
+t7_boole axiom
+t55_setfam_1 conjecture

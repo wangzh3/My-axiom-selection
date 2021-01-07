@@ -1,0 +1,5 @@
+t28_relset_1 conjecture
+d3_relat_1 axiom
+d10_relat_1 axiom
+t106_zfmisc_1 axiom
+dt_k6_relat_1 axiom

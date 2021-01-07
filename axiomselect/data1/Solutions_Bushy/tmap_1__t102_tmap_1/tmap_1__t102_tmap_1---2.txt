@@ -1,0 +1,16 @@
+t102_tmap_1 conjecture
+commutativity_k3_xboole_0 axiom
+commutativity_k4_subset_1 axiom
+d1_pre_topc axiom
+d8_tmap_1 axiom
+dt_u1_pre_topc axiom
+fraenkel_a_2_0_tmap_1 axiom
+redefinition_k4_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t1_boole axiom
+t1_tsep_1 axiom
+t28_xboole_1 axiom
+t2_tsep_1 axiom
+t3_subset axiom
+t4_subset axiom
+t5_pre_topc axiom

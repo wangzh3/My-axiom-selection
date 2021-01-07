@@ -1,0 +1,11 @@
+t1_filter_1 conjecture
+commutativity_k3_xboole_0 axiom
+d4_xboole_0 axiom
+dt_k9_subset_1 axiom
+existence_m1_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t10_filter_0 axiom
+t2_subset axiom
+t4_subset axiom
+t7_boole axiom
+t8_filter_0 axiom

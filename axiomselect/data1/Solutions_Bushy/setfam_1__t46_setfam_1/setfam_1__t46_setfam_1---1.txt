@@ -1,0 +1,12 @@
+t46_setfam_1 conjecture
+involutiveness_k7_setfam_1 axiom
+dt_o_0_0_xboole_0 axiom
+d3_tarski axiom
+d8_setfam_1 axiom
+t8_boole axiom
+t3_subset axiom
+t4_subset axiom
+t7_boole axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+t6_boole axiom

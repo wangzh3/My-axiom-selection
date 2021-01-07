@@ -1,0 +1,14 @@
+t95_relat_1 conjecture
+t2_boole axiom
+d4_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+commutativity_k3_xboole_0 axiom
+d7_xboole_0 axiom
+cc1_relat_1 axiom
+t7_boole axiom
+t2_subset axiom
+d11_relat_1 axiom
+existence_m1_subset_1 axiom
+t6_boole axiom
+d4_relat_1 axiom
+fc1_xboole_0 axiom

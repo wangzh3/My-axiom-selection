@@ -1,0 +1,3 @@
+t27_wellord1 conjecture
+commutativity_k3_xboole_0 axiom
+t26_wellord1 axiom

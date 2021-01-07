@@ -1,0 +1,11 @@
+t66_enumset1 conjecture
+t64_enumset1 axiom
+l75_enumset1 axiom
+d1_tarski axiom
+t48_enumset1 axiom
+t49_enumset1 axiom
+l53_enumset1 axiom
+t41_enumset1 axiom
+t4_xboole_1 axiom
+t43_enumset1 axiom
+t113_xboole_1 axiom

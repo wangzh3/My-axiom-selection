@@ -1,0 +1,13 @@
+t22_ordinal1 conjecture
+t5_subset axiom
+d2_ordinal1 axiom
+t3_subset axiom
+t4_subset axiom
+t1_xboole_1 axiom
+cc1_ordinal1 axiom
+d8_xboole_0 axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+t8_boole axiom
+t21_ordinal1 axiom
+antisymmetry_r2_xboole_0 axiom

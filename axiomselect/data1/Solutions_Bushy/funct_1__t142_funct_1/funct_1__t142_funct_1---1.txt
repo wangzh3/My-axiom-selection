@@ -1,0 +1,7 @@
+t142_funct_1 conjecture
+dt_o_0_0_xboole_0 axiom
+d5_relat_1 axiom
+d1_xboole_0 axiom
+d1_tarski axiom
+d14_relat_1 axiom
+t6_boole axiom

@@ -1,0 +1,7 @@
+t15_subset_1 conjecture
+d10_xboole_0 axiom
+dt_k4_subset_1 axiom
+commutativity_k2_xboole_0 axiom
+d3_xboole_0 axiom
+redefinition_k4_subset_1 axiom
+t7_subset_1 axiom

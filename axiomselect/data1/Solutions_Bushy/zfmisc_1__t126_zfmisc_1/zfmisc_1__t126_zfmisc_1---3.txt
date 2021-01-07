@@ -1,0 +1,10 @@
+t126_zfmisc_1 conjecture
+d5_xboole_0 axiom
+t125_zfmisc_1 axiom
+commutativity_k2_xboole_0 axiom
+t123_zfmisc_1 axiom
+t4_boole axiom
+d3_xboole_0 axiom
+t54_xboole_1 axiom
+t1_boole axiom
+commutativity_k3_xboole_0 axiom

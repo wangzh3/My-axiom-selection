@@ -1,0 +1,5 @@
+t31_relset_1 conjecture
+t3_subset axiom
+t30_relset_1 axiom
+d10_xboole_0 axiom
+dt_k1_relset_1 axiom

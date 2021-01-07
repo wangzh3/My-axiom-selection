@@ -1,0 +1,4 @@
+t27_zfmisc_1 conjecture
+commutativity_k2_tarski axiom
+t26_zfmisc_1 axiom
+t69_enumset1 axiom

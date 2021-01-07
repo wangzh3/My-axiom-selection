@@ -1,0 +1,4 @@
+t191_funct_2 conjecture
+redefinition_k3_funct_2 axiom
+t190_funct_2 axiom
+d3_tarski axiom

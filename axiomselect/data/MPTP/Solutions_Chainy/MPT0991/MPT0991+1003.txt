@@ -1,0 +1,2 @@
+t29_funct_2 axiom
+t37_funct_2 conjecture

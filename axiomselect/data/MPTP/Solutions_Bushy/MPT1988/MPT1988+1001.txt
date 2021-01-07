@@ -1,0 +1,10 @@
+cc2_lattice3 axiom
+d1_waybel_7 axiom
+d6_waybel_6 axiom
+dt_k5_waybel_0 axiom
+fc12_waybel_0 axiom
+fc8_waybel_0 axiom
+redefinition_k12_lattice3 axiom
+t17_waybel_0 axiom
+t4_subset axiom
+t37_waybel_7 conjecture

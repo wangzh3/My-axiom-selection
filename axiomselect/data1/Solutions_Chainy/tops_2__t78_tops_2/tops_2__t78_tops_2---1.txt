@@ -1,0 +1,8 @@
+t78_tops_2 conjecture
+d1_zfmisc_1 axiom
+d1_tops_2 axiom
+d3_tarski axiom
+t18_tops_2 axiom
+d5_pre_topc axiom
+t3_subset axiom
+dt_u1_pre_topc axiom

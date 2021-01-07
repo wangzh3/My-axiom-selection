@@ -1,0 +1,6 @@
+d5_subset_1 axiom
+dt_k4_subset_1 axiom
+redefinition_k4_subset_1 axiom
+t34_xboole_1 axiom
+t7_xboole_1 axiom
+t41_subset_1 conjecture

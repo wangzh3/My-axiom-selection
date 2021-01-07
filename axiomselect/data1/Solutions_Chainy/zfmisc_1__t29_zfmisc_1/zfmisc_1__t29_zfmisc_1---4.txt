@@ -1,0 +1,7 @@
+t29_zfmisc_1 conjecture
+idempotence_k2_xboole_0 axiom
+t98_xboole_1 axiom
+commutativity_k5_xboole_0 axiom
+t41_enumset1 axiom
+t20_zfmisc_1 axiom
+t5_boole axiom

@@ -1,0 +1,7 @@
+d9_funct_1 axiom
+dt_k4_relat_1 axiom
+fc5_funct_1 axiom
+t23_funct_1 axiom
+t37_relat_1 axiom
+t54_funct_1 axiom
+t57_funct_1 conjecture

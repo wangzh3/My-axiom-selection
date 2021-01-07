@@ -1,0 +1,5 @@
+d10_xboole_0 axiom
+d1_zfmisc_1 axiom
+d3_xboole_0 axiom
+d9_xboole_0 axiom
+t82_zfmisc_1 conjecture

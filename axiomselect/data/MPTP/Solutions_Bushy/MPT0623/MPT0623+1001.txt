@@ -1,0 +1,13 @@
+cc1_funct_1 axiom
+cc1_relat_1 axiom
+d3_tarski axiom
+d5_funct_1 axiom
+dt_o_1_0_funct_1 axiom
+fc10_relat_1 axiom
+fc11_relat_1 axiom
+fc1_xboole_0 axiom
+s3_funct_1__e1_27_1__funct_1 axiom
+t2_subset axiom
+t2_xboole_1 axiom
+t6_boole axiom
+t18_funct_1 conjecture

@@ -1,0 +1,14 @@
+d10_setfam_1 axiom
+d1_tarski axiom
+d1_xboole_0 axiom
+d2_subset_1 axiom
+d3_tarski axiom
+dt_o_2_1_setfam_1 axiom
+l35_zfmisc_1 axiom
+redefinition_k6_setfam_1 axiom
+t37_zfmisc_1 axiom
+t4_setfam_1 axiom
+t4_subset_1 axiom
+t64_zfmisc_1 axiom
+t6_setfam_1 axiom
+t58_setfam_1 conjecture

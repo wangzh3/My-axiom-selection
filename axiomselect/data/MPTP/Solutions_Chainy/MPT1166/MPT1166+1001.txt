@@ -1,0 +1,4 @@
+d10_xboole_0 axiom
+t67_orders_2 axiom
+t68_orders_2 axiom
+t69_orders_2 conjecture

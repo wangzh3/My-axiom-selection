@@ -1,0 +1,7 @@
+t68_funct_1 conjecture
+d4_xboole_0 axiom
+dt_k7_relat_1 axiom
+d11_relat_1 axiom
+commutativity_k3_xboole_0 axiom
+d4_funct_1 axiom
+d4_relat_1 axiom

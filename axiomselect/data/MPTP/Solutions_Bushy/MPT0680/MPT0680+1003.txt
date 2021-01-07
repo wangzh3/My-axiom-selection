@@ -1,0 +1,7 @@
+d16_relat_1 axiom
+d8_funct_1 axiom
+redefinition_k6_subset_1 axiom
+t117_funct_1 axiom
+t20_zfmisc_1 axiom
+t3_boole axiom
+t124_funct_1 conjecture

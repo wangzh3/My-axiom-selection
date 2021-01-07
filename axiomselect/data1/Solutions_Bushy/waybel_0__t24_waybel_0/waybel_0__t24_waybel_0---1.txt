@@ -1,0 +1,6 @@
+t24_waybel_0 conjecture
+d16_waybel_0 axiom
+d3_tarski axiom
+t4_subset axiom
+d20_waybel_0 axiom
+dt_k4_waybel_0 axiom

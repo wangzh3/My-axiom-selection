@@ -1,0 +1,7 @@
+t148_funct_1 conjecture
+d12_funct_1 axiom
+d13_funct_1 axiom
+d3_tarski axiom
+d4_xboole_0 axiom
+t145_funct_1 axiom
+t147_relat_1 axiom

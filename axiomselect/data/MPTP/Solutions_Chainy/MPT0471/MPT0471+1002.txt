@@ -1,0 +1,11 @@
+cc2_relat_1 axiom
+d6_relat_1 axiom
+dt_k4_relat_1 axiom
+fc7_relat_1 axiom
+involutiveness_k4_relat_1 axiom
+t1_boole axiom
+t37_relat_1 axiom
+t38_relat_1 axiom
+t4_subset_1 axiom
+t60_relat_1 axiom
+t63_relat_1 conjecture

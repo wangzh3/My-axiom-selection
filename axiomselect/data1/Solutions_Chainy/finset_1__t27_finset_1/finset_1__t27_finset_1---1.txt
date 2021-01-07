@@ -1,0 +1,3 @@
+t27_finset_1 conjecture
+t147_funct_1 axiom
+fc13_finset_1 axiom

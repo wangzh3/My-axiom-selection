@@ -1,0 +1,17 @@
+cc1_eqrel_1 axiom
+cc1_relset_1 axiom
+d7_binop_1 axiom
+dt_k3_filter_1 axiom
+dt_k7_eqrel_1 axiom
+dt_k8_eqrel_1 axiom
+dt_k9_eqrel_1 axiom
+dt_m2_filter_1 axiom
+existence_m1_subset_1 axiom
+redefinition_k8_eqrel_1 axiom
+redefinition_k9_eqrel_1 axiom
+redefinition_m2_subset_1 axiom
+t2_subset axiom
+t5_subset axiom
+t6_filter_1 axiom
+t7_filter_1 axiom
+t8_filter_1 conjecture

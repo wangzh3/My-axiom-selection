@@ -1,0 +1,5 @@
+t90_tmap_1 conjecture
+dt_k3_tmap_1 axiom
+redefinition_r2_funct_2 axiom
+t79_tmap_1 axiom
+t89_tmap_1 axiom

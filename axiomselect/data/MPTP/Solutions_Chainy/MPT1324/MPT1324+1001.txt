@@ -1,0 +1,7 @@
+dt_k1_tops_2 axiom
+redefinition_k5_setfam_1 axiom
+t11_xboole_1 axiom
+t12_xboole_1 axiom
+t29_pre_topc axiom
+t44_tops_2 axiom
+t45_tops_2 conjecture

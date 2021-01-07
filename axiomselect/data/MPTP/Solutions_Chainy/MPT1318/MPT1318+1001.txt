@@ -1,0 +1,6 @@
+dt_k9_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t29_pre_topc axiom
+t3_subset axiom
+t7_subset_1 axiom
+t38_tops_2 conjecture

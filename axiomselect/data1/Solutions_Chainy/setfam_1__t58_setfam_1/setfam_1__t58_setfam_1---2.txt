@@ -1,0 +1,8 @@
+t58_setfam_1 conjecture
+d10_setfam_1 axiom
+dt_k1_subset_1 axiom
+d1_setfam_1 axiom
+t113_zfmisc_1 axiom
+redefinition_k6_setfam_1 axiom
+d3_subset_1 axiom
+t152_zfmisc_1 axiom

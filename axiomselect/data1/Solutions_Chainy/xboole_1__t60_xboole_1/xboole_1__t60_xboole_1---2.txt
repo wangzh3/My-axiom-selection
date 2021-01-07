@@ -1,0 +1,4 @@
+t60_xboole_1 conjecture
+d8_xboole_0 axiom
+irreflexivity_r2_xboole_0 axiom
+t57_xboole_1 axiom

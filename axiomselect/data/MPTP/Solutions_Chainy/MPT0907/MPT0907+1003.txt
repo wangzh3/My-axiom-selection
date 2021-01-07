@@ -1,0 +1,5 @@
+fc6_relat_1 axiom
+t20_mcart_1 axiom
+t23_mcart_1 axiom
+t7_mcart_1 axiom
+t67_mcart_1 conjecture

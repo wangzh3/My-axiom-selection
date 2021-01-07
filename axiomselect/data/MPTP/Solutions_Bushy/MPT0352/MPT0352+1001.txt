@@ -1,0 +1,9 @@
+d5_subset_1 axiom
+dt_k6_subset_1 axiom
+dt_o_0_0_xboole_0 axiom
+involutiveness_k3_subset_1 axiom
+redefinition_k6_subset_1 axiom
+t34_xboole_1 axiom
+t4_boole axiom
+t6_boole axiom
+t31_subset_1 conjecture

@@ -1,0 +1,13 @@
+t39_relset_1 conjecture
+fc6_relat_1 axiom
+t169_relat_1 axiom
+t69_enumset1 axiom
+redefinition_k7_relset_1 axiom
+redefinition_k2_relset_1 axiom
+cc2_relat_1 axiom
+t38_relset_1 axiom
+redefinition_k1_relset_1 axiom
+t146_relat_1 axiom
+t17_zfmisc_1 axiom
+t16_zfmisc_1 axiom
+redefinition_k8_relset_1 axiom

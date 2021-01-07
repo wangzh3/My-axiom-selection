@@ -1,0 +1,5 @@
+t28_yellow_6 conjecture
+t10_waybel_0 axiom
+t26_yellow_6 axiom
+t79_xboole_1 axiom
+redefinition_k6_subset_1 axiom

@@ -1,0 +1,13 @@
+commutativity_k3_xboole_0 axiom
+dt_k2_pre_topc axiom
+fc9_tops_1 axiom
+l78_tops_1 axiom
+redefinition_k7_subset_1 axiom
+t28_xboole_1 axiom
+t48_pre_topc axiom
+t55_tops_1 axiom
+t73_tops_1 axiom
+t74_tops_1 axiom
+t83_xboole_1 axiom
+t89_xboole_1 axiom
+t76_tops_1 conjecture

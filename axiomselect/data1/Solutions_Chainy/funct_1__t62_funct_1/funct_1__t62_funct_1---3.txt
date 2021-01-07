@@ -1,0 +1,6 @@
+t62_funct_1 conjecture
+t48_funct_1 axiom
+t55_funct_1 axiom
+t52_funct_1 axiom
+t61_funct_1 axiom
+dt_k2_funct_1 axiom

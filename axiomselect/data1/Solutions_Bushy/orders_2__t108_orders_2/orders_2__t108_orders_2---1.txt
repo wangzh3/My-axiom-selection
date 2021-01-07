@@ -1,0 +1,16 @@
+t108_orders_2 conjecture
+cc1_relset_1 axiom
+d11_orders_2 axiom
+d14_relat_2 axiom
+d4_xboole_0 axiom
+d5_orders_1 axiom
+d6_relat_2 axiom
+d6_wellord1 axiom
+d7_relat_2 axiom
+d9_orders_2 axiom
+dt_k2_wellord1 axiom
+dt_u1_orders_2 axiom
+redefinition_r3_orders_2 axiom
+reflexivity_r3_orders_2 axiom
+t107_orders_2 axiom
+t4_subset axiom

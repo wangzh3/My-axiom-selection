@@ -1,0 +1,9 @@
+t77_tex_2 conjecture
+t76_tex_2 axiom
+redefinition_k6_domain_1 axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom
+dt_k6_domain_1 axiom
+cc1_subset_1 axiom
+redefinition_k8_relset_1 axiom
+rc6_tops_1 axiom

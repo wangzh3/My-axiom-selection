@@ -1,0 +1,5 @@
+t16_funct_1 conjecture
+rc1_funct_1 axiom
+t49_zfmisc_1 axiom
+t15_funct_1 axiom
+d1_tarski axiom

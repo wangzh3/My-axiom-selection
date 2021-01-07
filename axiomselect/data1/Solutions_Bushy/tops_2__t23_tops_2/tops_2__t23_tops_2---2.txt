@@ -1,0 +1,6 @@
+t23_tops_2 conjecture
+d2_tops_2 axiom
+dt_k4_subset_1 axiom
+commutativity_k2_xboole_0 axiom
+d3_xboole_0 axiom
+redefinition_k4_subset_1 axiom

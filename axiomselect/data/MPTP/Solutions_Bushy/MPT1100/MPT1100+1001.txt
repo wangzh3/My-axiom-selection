@@ -1,0 +1,6 @@
+d1_pre_topc axiom
+redefinition_k5_setfam_1 axiom
+t2_xboole_1 axiom
+t2_zfmisc_1 axiom
+t3_subset axiom
+t5_pre_topc conjecture

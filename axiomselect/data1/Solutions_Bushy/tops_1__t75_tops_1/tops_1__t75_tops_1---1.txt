@@ -1,0 +1,8 @@
+t75_tops_1 conjecture
+redefinition_k7_subset_1 axiom
+l78_tops_1 axiom
+dt_k2_pre_topc axiom
+l79_tops_1 axiom
+t3_boole axiom
+dt_k2_tops_1 axiom
+l80_tops_1 axiom

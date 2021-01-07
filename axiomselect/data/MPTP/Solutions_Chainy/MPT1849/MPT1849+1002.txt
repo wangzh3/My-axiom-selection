@@ -1,0 +1,6 @@
+d3_tex_2 axiom
+d7_subset_1 axiom
+t1_tsep_1 axiom
+t2_tsep_1 axiom
+t5_tsep_1 axiom
+t16_tex_2 conjecture

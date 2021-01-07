@@ -1,0 +1,4 @@
+t70_funct_1 conjecture
+t38_funct_1 axiom
+t94_relat_1 axiom
+t90_relat_1 axiom

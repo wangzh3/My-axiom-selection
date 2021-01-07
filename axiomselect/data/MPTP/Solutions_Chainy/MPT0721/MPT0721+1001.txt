@@ -1,0 +1,3 @@
+t172_funct_1 axiom
+t1_subset axiom
+t176_funct_1 conjecture

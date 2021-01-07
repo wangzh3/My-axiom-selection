@@ -1,0 +1,7 @@
+t5_connsp_2 conjecture
+dt_m1_connsp_2 axiom
+projectivity_k1_tops_1 axiom
+existence_m1_connsp_2 axiom
+t55_tops_1 axiom
+dt_k1_tops_1 axiom
+d1_connsp_2 axiom

@@ -1,0 +1,5 @@
+t156_relat_1 conjecture
+dt_k7_relat_1 axiom
+t104_relat_1 axiom
+t25_relat_1 axiom
+t148_relat_1 axiom

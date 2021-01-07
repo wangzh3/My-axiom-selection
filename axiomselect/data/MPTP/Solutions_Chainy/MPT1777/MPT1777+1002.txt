@@ -1,0 +1,12 @@
+cc1_pre_topc axiom
+dt_m1_pre_topc axiom
+t28_connsp_2 axiom
+t2_tsep_1 axiom
+t2_xboole_1 axiom
+t3_subset axiom
+t4_subset_1 axiom
+t60_pre_topc axiom
+t65_pre_topc axiom
+t7_ordinal1 axiom
+t84_tmap_1 axiom
+t88_tmap_1 conjecture

@@ -1,0 +1,7 @@
+t50_subset_1 conjecture
+dt_k3_subset_1 axiom
+d5_xboole_0 axiom
+d2_subset_1 axiom
+d5_subset_1 axiom
+involutiveness_k3_subset_1 axiom
+t6_boole axiom

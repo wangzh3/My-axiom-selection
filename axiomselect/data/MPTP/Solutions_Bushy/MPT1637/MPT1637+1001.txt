@@ -1,0 +1,9 @@
+d17_waybel_0 axiom
+d1_tarski axiom
+dt_k6_domain_1 axiom
+dt_l1_orders_2 axiom
+fc2_struct_0 axiom
+fraenkel_a_2_0_waybel_0 axiom
+redefinition_k6_domain_1 axiom
+t14_waybel_0 axiom
+t17_waybel_0 conjecture

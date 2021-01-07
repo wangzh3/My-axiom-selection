@@ -1,0 +1,2 @@
+antisymmetry_r2_xboole_0 axiom
+t57_xboole_1 conjecture

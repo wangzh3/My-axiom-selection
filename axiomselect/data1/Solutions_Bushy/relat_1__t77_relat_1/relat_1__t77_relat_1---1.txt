@@ -1,0 +1,13 @@
+t77_relat_1 conjecture
+d10_relat_1 axiom
+d10_xboole_0 axiom
+d3_relat_1 axiom
+d4_relat_1 axiom
+d8_relat_1 axiom
+dt_k5_relat_1 axiom
+dt_k6_relat_1 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t5_subset axiom
+t76_relat_1 axiom

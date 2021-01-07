@@ -1,0 +1,17 @@
+t9_lattice3 conjecture
+dt_k4_relat_1 axiom
+abstractness_v1_orders_2 axiom
+d9_orders_2 axiom
+dt_k7_lattice3 axiom
+dt_k8_lattice3 axiom
+t1_subset axiom
+d6_lattice3 axiom
+d5_lattice3 axiom
+redefinition_k3_relset_1 axiom
+cc1_relset_1 axiom
+involutiveness_k4_relat_1 axiom
+t2_subset axiom
+free_g1_orders_2 axiom
+t7_boole axiom
+dt_u1_orders_2 axiom
+d7_relat_1 axiom

@@ -1,0 +1,8 @@
+t153_funct_1 conjecture
+d8_funct_1 axiom
+t117_funct_1 axiom
+d5_funct_1 axiom
+t6_zfmisc_1 axiom
+d16_relat_1 axiom
+t39_zfmisc_1 axiom
+t142_funct_1 axiom

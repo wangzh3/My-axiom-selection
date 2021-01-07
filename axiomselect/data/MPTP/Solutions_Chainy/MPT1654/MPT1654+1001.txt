@@ -1,0 +1,11 @@
+cc1_subset_1 axiom
+d17_waybel_0 axiom
+rc2_waybel_0 axiom
+redefinition_k6_domain_1 axiom
+t32_waybel_0 axiom
+t33_waybel_0 axiom
+t35_orders_2 axiom
+t38_yellow_0 axiom
+t39_yellow_0 axiom
+t69_enumset1 axiom
+t34_waybel_0 conjecture

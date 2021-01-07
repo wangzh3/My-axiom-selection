@@ -1,0 +1,13 @@
+t35_relset_1 conjecture
+l29_wellord1 axiom
+fc6_relat_1 axiom
+t117_relat_1 axiom
+cc1_relset_1 axiom
+d18_relat_1 axiom
+cc2_relat_1 axiom
+redefinition_k6_relset_1 axiom
+t4_relset_1 axiom
+t116_relat_1 axiom
+t11_relset_1 axiom
+cc2_relset_1 axiom
+t1_xboole_1 axiom

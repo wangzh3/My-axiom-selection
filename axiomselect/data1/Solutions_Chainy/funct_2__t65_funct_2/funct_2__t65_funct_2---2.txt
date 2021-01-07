@@ -1,0 +1,12 @@
+t65_funct_2 conjecture
+t42_enumset1 axiom
+t14_zfmisc_1 axiom
+d1_tarski axiom
+t75_zfmisc_1 axiom
+t25_mcart_1 axiom
+t82_enumset1 axiom
+t41_enumset1 axiom
+t20_zfmisc_1 axiom
+t7_funct_2 axiom
+t208_relat_1 axiom
+t32_relat_1 axiom

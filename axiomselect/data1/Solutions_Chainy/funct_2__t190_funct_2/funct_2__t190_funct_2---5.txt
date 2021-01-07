@@ -1,0 +1,4 @@
+t190_funct_2 conjecture
+d2_subset_1 axiom
+t17_funct_2 axiom
+d1_xboole_0 axiom

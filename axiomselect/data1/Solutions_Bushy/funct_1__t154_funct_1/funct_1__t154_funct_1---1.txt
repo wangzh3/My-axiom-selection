@@ -1,0 +1,6 @@
+t154_funct_1 conjecture
+t54_funct_1 axiom
+d5_funct_1 axiom
+dt_k2_funct_1 axiom
+d13_funct_1 axiom
+d12_funct_1 axiom

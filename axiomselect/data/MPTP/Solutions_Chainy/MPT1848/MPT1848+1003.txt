@@ -1,0 +1,5 @@
+d3_tex_2 axiom
+d4_subset_1 axiom
+fc14_subset_1 axiom
+t1_tsep_1 axiom
+t15_tex_2 conjecture

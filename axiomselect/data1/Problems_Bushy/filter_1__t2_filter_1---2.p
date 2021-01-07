@@ -1,0 +1,9 @@
+fof(t2_filter_1,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v10_lattices(A)& l3_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ( k2_filter_0(A,B) = k2_filter_0(A,C)=> B = C ) ) ) ) )).
+fof(reflexivity_r3_lattices,axiom,(! [A,B,C] :( ( ~ v2_struct_0(A)& v6_lattices(A)& v8_lattices(A)& v9_lattices(A)& l3_lattices(A)& m1_subset_1(B,u1_struct_0(A))& m1_subset_1(C,u1_struct_0(A)) )=> r3_lattices(A,B,B) ) )).
+fof(t18_filter_0,axiom,(! [A] :( ( ~ v2_struct_0(A)& v10_lattices(A)& l3_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ( r2_hidden(B,k2_filter_0(A,C))<=> r3_lattices(A,C,B) ) ) ) ) )).
+fof(t26_lattices,axiom,(! [A] :( ( ~ v2_struct_0(A)& v4_lattices(A)& l2_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ( ( r1_lattices(A,B,C)& r1_lattices(A,C,B) )=> B = C ) ) ) ) )).
+fof(dt_k2_filter_0,axiom,(! [A,B] :( ( ~ v2_struct_0(A)& v10_lattices(A)& l3_lattices(A)& m1_subset_1(B,u1_struct_0(A)) )=> ( ~ v1_xboole_0(k2_filter_0(A,B))& v19_lattices(k2_filter_0(A,B),A)& v20_lattices(k2_filter_0(A,B),A)& m1_subset_1(k2_filter_0(A,B),k1_zfmisc_1(u1_struct_0(A))) ) ) )).
+fof(t4_subset,axiom,(! [A,B,C] :( ( r2_hidden(A,B)& m1_subset_1(B,k1_zfmisc_1(C)) )=> m1_subset_1(A,C) ) )).
+fof(redefinition_r3_lattices,axiom,(! [A,B,C] :( ( ~ v2_struct_0(A)& v6_lattices(A)& v8_lattices(A)& v9_lattices(A)& l3_lattices(A)& m1_subset_1(B,u1_struct_0(A))& m1_subset_1(C,u1_struct_0(A)) )=> ( r3_lattices(A,B,C)<=> r1_lattices(A,B,C) ) ) )).
+fof(dt_l3_lattices,axiom,(! [A] :( l3_lattices(A)=> ( l1_lattices(A)& l2_lattices(A) ) ) )).
+fof(cc1_lattices,axiom,(! [A] :( l3_lattices(A)=> ( ( ~ v2_struct_0(A)& v10_lattices(A) )=> ( ~ v2_struct_0(A)& v4_lattices(A)& v5_lattices(A)& v6_lattices(A)& v7_lattices(A)& v8_lattices(A)& v9_lattices(A) ) ) ) )).

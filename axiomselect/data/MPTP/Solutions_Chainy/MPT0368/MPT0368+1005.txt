@@ -1,0 +1,6 @@
+d2_subset_1 axiom
+existence_m1_subset_1 axiom
+l3_subset_1 axiom
+t2_tarski axiom
+t7_boole axiom
+t49_subset_1 conjecture

@@ -1,0 +1,9 @@
+t60_tops_2 conjecture
+t24_funct_3 axiom
+d2_tops_2 axiom
+d12_funct_1 axiom
+d12_pre_topc axiom
+t4_subset axiom
+dt_k3_funct_3 axiom
+redefinition_k8_relset_1 axiom
+cc1_relset_1 axiom

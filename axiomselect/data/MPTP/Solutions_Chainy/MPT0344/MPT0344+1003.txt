@@ -1,0 +1,9 @@
+d10_xboole_0 axiom
+d1_zfmisc_1 axiom
+d2_subset_1 axiom
+fc1_subset_1 axiom
+l13_xboole_0 axiom
+l3_subset_1 axiom
+t2_xboole_1 axiom
+t7_xboole_0 axiom
+t10_subset_1 conjecture

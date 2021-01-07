@@ -1,0 +1,4 @@
+t118_zfmisc_1 axiom
+t1_xboole_1 axiom
+t32_finset_1 axiom
+t33_finset_1 conjecture

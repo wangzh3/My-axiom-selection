@@ -1,0 +1,4 @@
+t26_lattices conjecture
+d3_lattices axiom
+redefinition_k3_lattices axiom
+commutativity_k3_lattices axiom

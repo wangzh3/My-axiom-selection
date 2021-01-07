@@ -1,0 +1,4 @@
+t38_wellord1 conjecture
+t37_wellord1 axiom
+d10_xboole_0 axiom
+d1_wellord1 axiom

@@ -1,0 +1,11 @@
+t73_tops_1 conjecture
+t43_subset_1 axiom
+commutativity_k4_subset_1 axiom
+dt_k3_subset_1 axiom
+d1_tops_1 axiom
+redefinition_k4_subset_1 axiom
+t65_tops_1 axiom
+t41_subset_1 axiom
+dt_k1_tops_1 axiom
+t62_tops_1 axiom
+dt_k2_tops_1 axiom

@@ -1,0 +1,3 @@
+d6_xboole_0 axiom
+t81_zfmisc_1 axiom
+t86_zfmisc_1 conjecture

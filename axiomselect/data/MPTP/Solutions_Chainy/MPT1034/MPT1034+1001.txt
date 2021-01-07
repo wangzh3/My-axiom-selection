@@ -1,0 +1,7 @@
+cc4_relset_1 axiom
+d1_xboole_0 axiom
+fc1_xboole_0 axiom
+t142_funct_2 axiom
+t18_funct_2 axiom
+t6_boole axiom
+t143_funct_2 conjecture

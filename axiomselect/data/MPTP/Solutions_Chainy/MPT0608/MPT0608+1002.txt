@@ -1,0 +1,5 @@
+redefinition_k6_subset_1 axiom
+t109_relat_1 axiom
+t191_relat_1 axiom
+t98_relat_1 axiom
+t212_relat_1 conjecture

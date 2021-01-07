@@ -1,0 +1,5 @@
+antisymmetry_r2_hidden axiom
+l1_zfmisc_1 axiom
+t11_xboole_1 axiom
+t12_xboole_1 axiom
+t7_ordinal1 conjecture

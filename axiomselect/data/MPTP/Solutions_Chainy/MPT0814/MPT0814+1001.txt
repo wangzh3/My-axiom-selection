@@ -1,0 +1,3 @@
+d2_zfmisc_1 axiom
+l3_subset_1 axiom
+t6_relset_1 conjecture

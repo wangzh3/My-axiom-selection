@@ -1,0 +1,4 @@
+rc2_subset_1 axiom
+t35_tex_2 axiom
+t65_tex_2 axiom
+t66_tex_2 conjecture

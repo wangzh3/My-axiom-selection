@@ -1,0 +1,7 @@
+t7_connsp_2 conjecture
+t5_connsp_2 axiom
+d1_xboole_0 axiom
+fc9_tops_1 axiom
+dt_k1_tops_1 axiom
+t44_tops_1 axiom
+d1_connsp_2 axiom

@@ -1,0 +1,10 @@
+t15_yellow19 conjecture
+t69_enumset1 axiom
+redefinition_k7_subset_1 axiom
+fc1_xboole_0 axiom
+d3_struct_0 axiom
+t2_yellow19 axiom
+t65_zfmisc_1 axiom
+d1_struct_0 axiom
+t1_zfmisc_1 axiom
+t14_yellow19 axiom

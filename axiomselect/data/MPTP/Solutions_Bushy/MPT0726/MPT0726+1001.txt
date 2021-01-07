@@ -1,0 +1,10 @@
+antisymmetry_r2_hidden axiom
+d4_enumset1 axiom
+dt_o_0_0_xboole_0 axiom
+existence_m1_subset_1 axiom
+t1_subset axiom
+t2_subset axiom
+t6_boole axiom
+t7_boole axiom
+t7_tarski axiom
+t6_ordinal1 conjecture

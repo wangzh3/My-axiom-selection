@@ -1,0 +1,5 @@
+t37_relat_1 conjecture
+dt_k4_relat_1 axiom
+d4_relat_1 axiom
+d7_relat_1 axiom
+d5_relat_1 axiom

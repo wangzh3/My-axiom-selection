@@ -1,0 +1,7 @@
+t58_tex_2 conjecture
+t5_subset axiom
+fc1_tops_1 axiom
+t4_subset axiom
+dt_k2_pre_topc axiom
+dt_k6_domain_1 axiom
+t57_tex_2 axiom

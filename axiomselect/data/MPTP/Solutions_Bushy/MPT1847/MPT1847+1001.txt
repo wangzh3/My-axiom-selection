@@ -1,0 +1,5 @@
+d3_tex_2 axiom
+dt_m1_pre_topc axiom
+dt_u1_pre_topc axiom
+free_g1_pre_topc axiom
+t14_tex_2 conjecture

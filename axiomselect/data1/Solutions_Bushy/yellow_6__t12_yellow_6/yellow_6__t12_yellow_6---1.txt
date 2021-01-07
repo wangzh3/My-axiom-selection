@@ -1,0 +1,6 @@
+t12_yellow_6 conjecture
+abstractness_v1_orders_2 axiom
+dt_k7_lattice3 axiom
+d5_lattice3 axiom
+free_g1_orders_2 axiom
+dt_u1_orders_2 axiom

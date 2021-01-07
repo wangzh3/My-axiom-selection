@@ -1,0 +1,9 @@
+t16_tmap_1 conjecture
+d2_tsep_1 axiom
+commutativity_k1_tsep_1 axiom
+commutativity_k2_xboole_0 axiom
+d3_xboole_0 axiom
+t7_boole axiom
+t2_subset axiom
+dt_k1_tsep_1 axiom
+t1_subset axiom

@@ -1,0 +1,6 @@
+t129_relat_1 conjecture
+t108_xboole_1 axiom
+t125_relat_1 axiom
+dt_k8_relat_1 axiom
+commutativity_k3_xboole_0 axiom
+t119_relat_1 axiom

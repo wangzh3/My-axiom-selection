@@ -1,0 +1,6 @@
+abstractness_v1_orders_2 axiom
+d5_lattice3 axiom
+d6_waybel_9 axiom
+dt_k3_waybel_9 axiom
+dt_k7_lattice3 axiom
+t11_waybel_9 conjecture

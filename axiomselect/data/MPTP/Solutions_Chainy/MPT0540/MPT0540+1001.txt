@@ -1,0 +1,8 @@
+d1_tarski axiom
+dt_k6_relat_1 axiom
+t112_relat_1 axiom
+t123_relat_1 axiom
+t139_relat_1 axiom
+t55_relat_1 axiom
+t94_relat_1 axiom
+t140_relat_1 conjecture

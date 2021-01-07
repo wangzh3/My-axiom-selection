@@ -1,0 +1,6 @@
+d1_tarski axiom
+idempotence_k2_xboole_0 axiom
+t49_zfmisc_1 axiom
+t7_mcart_1 axiom
+t9_mcart_1 axiom
+t20_mcart_1 conjecture

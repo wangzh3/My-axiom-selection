@@ -1,0 +1,6 @@
+d16_relat_2 axiom
+d1_wellord2 axiom
+d8_relat_2 axiom
+dt_k1_wellord2 axiom
+t1_xboole_1 axiom
+t3_wellord2 conjecture

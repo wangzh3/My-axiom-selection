@@ -1,0 +1,12 @@
+t139_funct_1 conjecture
+commutativity_k3_xboole_0 axiom
+dt_k5_relat_1 axiom
+dt_k7_relat_1 axiom
+idempotence_k3_xboole_0 axiom
+s3_funct_1__e2_25__funct_1 axiom
+s3_funct_1__e9_44_1__funct_1 axiom
+t112_relat_1 axiom
+t182_relat_1 axiom
+t18_zfmisc_1 axiom
+t198_relat_1 axiom
+t90_relat_1 axiom

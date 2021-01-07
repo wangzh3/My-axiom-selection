@@ -1,0 +1,11 @@
+t18_wellord1 conjecture
+t20_zfmisc_1 axiom
+t17_wellord1 axiom
+t69_enumset1 axiom
+t112_relat_1 axiom
+t123_relat_1 axiom
+t139_relat_1 axiom
+fc3_funct_1 axiom
+t23_zfmisc_1 axiom
+t94_relat_1 axiom
+t55_relat_1 axiom

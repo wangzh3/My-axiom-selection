@@ -1,0 +1,4 @@
+t7_yellow_0 conjecture
+d9_lattice3 axiom
+d1_tarski axiom
+d8_lattice3 axiom

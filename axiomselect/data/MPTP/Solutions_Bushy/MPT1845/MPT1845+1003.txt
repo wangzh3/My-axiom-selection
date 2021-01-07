@@ -1,0 +1,7 @@
+commutativity_k3_xboole_0 axiom
+d1_pre_topc axiom
+dt_u1_pre_topc axiom
+free_g1_pre_topc axiom
+redefinition_k5_setfam_1 axiom
+redefinition_k9_subset_1 axiom
+t12_tex_2 conjecture

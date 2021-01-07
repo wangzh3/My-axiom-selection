@@ -1,0 +1,4 @@
+t22_yellow19 conjecture
+l3_subset_1 axiom
+t3_subset axiom
+d5_waybel_7 axiom

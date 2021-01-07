@@ -1,0 +1,14 @@
+t28_subset_1 conjecture
+t46_xboole_1 axiom
+t71_xboole_1 axiom
+t12_xboole_1 axiom
+t2_xboole_1 axiom
+dt_k4_subset_1 axiom
+d5_subset_1 axiom
+redefinition_k4_subset_1 axiom
+d4_subset_1 axiom
+t4_subset_1 axiom
+t25_subset_1 axiom
+t65_xboole_1 axiom
+commutativity_k2_xboole_0 axiom
+dt_k2_subset_1 axiom

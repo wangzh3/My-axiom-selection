@@ -1,0 +1,7 @@
+t111_relat_1 conjecture
+rc1_relat_1 axiom
+cc2_relat_1 axiom
+t8_boole axiom
+fc1_xboole_0 axiom
+t4_subset_1 axiom
+fc17_relat_1 axiom

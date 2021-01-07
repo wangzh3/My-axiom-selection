@@ -1,0 +1,10 @@
+t126_funct_1 conjecture
+commutativity_k3_xboole_0 axiom
+dt_k7_relat_1 axiom
+dt_k8_relat_1 axiom
+t119_relat_1 axiom
+t140_relat_1 axiom
+t148_relat_1 axiom
+t18_zfmisc_1 axiom
+t19_zfmisc_1 axiom
+t69_enumset1 axiom

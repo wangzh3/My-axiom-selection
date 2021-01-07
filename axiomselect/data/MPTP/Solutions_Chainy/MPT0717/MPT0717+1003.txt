@@ -1,0 +1,3 @@
+t12_funct_1 axiom
+t202_relat_1 axiom
+t172_funct_1 conjecture

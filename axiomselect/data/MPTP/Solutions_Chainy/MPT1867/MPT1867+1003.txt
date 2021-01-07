@@ -1,0 +1,8 @@
+l13_xboole_0 axiom
+l17_tex_2 axiom
+rc11_tex_2 axiom
+t26_tex_2 axiom
+t28_tex_2 axiom
+t3_subset axiom
+t4_subset_1 axiom
+t35_tex_2 conjecture

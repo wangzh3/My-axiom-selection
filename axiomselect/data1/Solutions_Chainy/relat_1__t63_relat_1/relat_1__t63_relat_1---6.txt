@@ -1,0 +1,8 @@
+t63_relat_1 conjecture
+d1_relat_1 axiom
+t64_zfmisc_1 axiom
+d6_relat_1 axiom
+t60_relat_1 axiom
+t4_boole axiom
+t1_boole axiom
+redefinition_k6_subset_1 axiom

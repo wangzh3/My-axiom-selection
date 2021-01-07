@@ -1,0 +1,14 @@
+d10_xboole_0 axiom
+d12_orders_2 axiom
+d3_struct_0 axiom
+dt_k2_struct_0 axiom
+dt_l1_orders_2 axiom
+existence_m1_subset_1 axiom
+fc5_struct_0 axiom
+fraenkel_a_2_0_orders_2 axiom
+irreflexivity_r2_orders_2 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t6_boole axiom
+t44_orders_2 conjecture

@@ -1,0 +1,13 @@
+cc2_relat_1 axiom
+d1_relat_1 axiom
+d1_wellord2 axiom
+d3_tarski axiom
+dt_k1_wellord2 axiom
+idempotence_k3_xboole_0 axiom
+l54_zfmisc_1 axiom
+t23_xboole_1 axiom
+t30_relat_1 axiom
+t31_xboole_1 axiom
+t3_subset axiom
+t46_zfmisc_1 axiom
+t33_wellord2 conjecture

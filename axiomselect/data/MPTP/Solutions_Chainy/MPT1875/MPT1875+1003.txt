@@ -1,0 +1,6 @@
+l17_tex_2 axiom
+t27_tex_2 axiom
+t28_tex_2 axiom
+t2_tsep_1 axiom
+t3_subset axiom
+t43_tex_2 conjecture

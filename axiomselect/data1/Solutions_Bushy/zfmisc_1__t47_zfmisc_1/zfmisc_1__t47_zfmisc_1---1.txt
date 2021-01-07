@@ -1,0 +1,4 @@
+t47_zfmisc_1 conjecture
+d3_tarski axiom
+d2_tarski axiom
+d3_xboole_0 axiom

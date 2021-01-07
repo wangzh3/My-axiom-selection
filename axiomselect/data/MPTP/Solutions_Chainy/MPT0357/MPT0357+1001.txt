@@ -1,0 +1,5 @@
+commutativity_k2_xboole_0 axiom
+d5_subset_1 axiom
+t43_xboole_1 axiom
+t44_xboole_1 axiom
+t36_subset_1 conjecture

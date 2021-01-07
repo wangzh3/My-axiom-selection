@@ -1,0 +1,7 @@
+d5_subset_1 axiom
+symmetry_r1_xboole_0 axiom
+t31_subset_1 axiom
+t36_xboole_1 axiom
+t85_xboole_1 axiom
+t86_xboole_1 axiom
+t44_subset_1 conjecture

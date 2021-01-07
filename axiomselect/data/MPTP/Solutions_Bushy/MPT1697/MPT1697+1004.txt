@@ -1,0 +1,16 @@
+cc3_relset_1 axiom
+commutativity_k3_xboole_0 axiom
+d1_tmap_1 axiom
+d7_xboole_0 axiom
+dt_k1_tmap_1 axiom
+dt_k9_subset_1 axiom
+dt_o_0_0_xboole_0 axiom
+existence_m1_subset_1 axiom
+redefinition_k9_subset_1 axiom
+redefinition_r1_subset_1 axiom
+symmetry_r1_subset_1 axiom
+t2_boole axiom
+t38_funct_2 axiom
+t3_subset axiom
+t6_boole axiom
+t6_tmap_1 conjecture

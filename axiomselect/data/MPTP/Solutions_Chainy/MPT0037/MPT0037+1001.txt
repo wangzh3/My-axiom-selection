@@ -1,0 +1,4 @@
+commutativity_k3_xboole_0 axiom
+t12_xboole_1 axiom
+t24_xboole_1 axiom
+t30_xboole_1 conjecture

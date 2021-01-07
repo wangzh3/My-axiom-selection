@@ -1,0 +1,10 @@
+d20_waybel_0 axiom
+d2_subset_1 axiom
+d3_struct_0 axiom
+d7_subset_1 axiom
+dt_k3_yellow_0 axiom
+dt_l1_orders_2 axiom
+fc12_struct_0 axiom
+t44_yellow_0 axiom
+t49_subset_1 axiom
+t8_waybel_7 conjecture

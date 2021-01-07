@@ -1,0 +1,11 @@
+t14_connsp_2 conjecture
+redefinition_k5_setfam_1 axiom
+t24_connsp_1 axiom
+dt_k1_connsp_1 axiom
+fc2_connsp_1 axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom
+t40_connsp_1 axiom
+t39_pre_topc axiom
+t92_zfmisc_1 axiom
+d7_connsp_1 axiom

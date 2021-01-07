@@ -1,0 +1,5 @@
+d1_tarski axiom
+t36_zfmisc_1 axiom
+t69_enumset1 axiom
+t7_mcart_1 axiom
+t14_mcart_1 conjecture

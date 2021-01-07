@@ -1,0 +1,12 @@
+t55_relset_1 conjecture
+dt_o_0_0_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+t63_xboole_1 axiom
+d2_xboole_0 axiom
+redefinition_k5_relset_1 axiom
+t3_subset axiom
+t187_relat_1 axiom
+dt_k1_relset_1 axiom
+t8_boole axiom
+cc1_relset_1 axiom
+redefinition_k1_relset_1 axiom

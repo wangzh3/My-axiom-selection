@@ -1,0 +1,9 @@
+cc1_lattices axiom
+d17_lattice3 axiom
+d21_lattice3 axiom
+dt_k15_lattice3 axiom
+dt_l3_lattices axiom
+redefinition_r3_lattices axiom
+t25_lattices axiom
+t38_lattice3 axiom
+t48_lattice3 conjecture

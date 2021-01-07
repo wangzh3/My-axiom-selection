@@ -1,0 +1,3 @@
+l13_xboole_0 axiom
+rc2_subset_1 axiom
+t4_subset_1 conjecture

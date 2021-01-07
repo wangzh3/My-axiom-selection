@@ -1,0 +1,8 @@
+d12_setfam_1 axiom
+d2_struct_0 axiom
+d2_xboole_0 axiom
+fc2_struct_0 axiom
+fc3_struct_0 axiom
+t2_zfmisc_1 axiom
+t3_xboole_1 axiom
+t5_tops_2 conjecture

@@ -1,0 +1,4 @@
+d13_yellow_0 axiom
+dt_m1_yellow_0 axiom
+t1_xboole_1 axiom
+t16_yellow_6 conjecture

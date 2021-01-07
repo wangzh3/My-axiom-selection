@@ -1,0 +1,9 @@
+commutativity_k3_xboole_0 axiom
+commutativity_k9_subset_1 axiom
+d10_xboole_0 axiom
+dt_k9_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t48_pre_topc axiom
+t51_pre_topc axiom
+t52_pre_topc axiom
+t34_tops_1 conjecture

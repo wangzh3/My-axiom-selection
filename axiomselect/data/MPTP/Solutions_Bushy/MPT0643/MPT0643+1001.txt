@@ -1,0 +1,9 @@
+d5_funct_1 axiom
+d8_funct_1 axiom
+t23_funct_1 axiom
+t2_subset axiom
+t34_funct_1 axiom
+t3_subset axiom
+t4_subset axiom
+t7_boole axiom
+t50_funct_1 conjecture

@@ -1,0 +1,12 @@
+cc1_funct_2 axiom
+cc3_partfun1 axiom
+cc4_funct_2 axiom
+dt_k6_partfun1 axiom
+fc3_funct_1 axiom
+fc3_partfun1 axiom
+redefinition_k6_partfun1 axiom
+redefinition_k7_relset_1 axiom
+t162_funct_1 axiom
+t3_subset axiom
+t92_funct_2 axiom
+t171_funct_2 conjecture

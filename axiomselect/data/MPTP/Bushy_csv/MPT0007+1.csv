@@ -1,0 +1,16 @@
+formla,formula,score
+antisymmetry_r2_hidden,d1_xboole_0,0.0
+d1_xboole_0,l13_xboole_0,0.0
+t7_xboole_0,l13_xboole_0,0.0
+d1_xboole_0,dt_o_0_0_xboole_0,4.0
+dt_o_0_0_xboole_0,l13_xboole_0,4.0
+antisymmetry_r2_hidden,dt_o_0_0_xboole_0,inf
+antisymmetry_r2_hidden,t7_xboole_0,inf
+antisymmetry_r2_hidden,dt_k1_xboole_0,inf
+antisymmetry_r2_hidden,l13_xboole_0,inf
+d1_xboole_0,t7_xboole_0,inf
+d1_xboole_0,dt_k1_xboole_0,inf
+dt_o_0_0_xboole_0,t7_xboole_0,inf
+dt_o_0_0_xboole_0,dt_k1_xboole_0,inf
+t7_xboole_0,dt_k1_xboole_0,inf
+dt_k1_xboole_0,l13_xboole_0,inf

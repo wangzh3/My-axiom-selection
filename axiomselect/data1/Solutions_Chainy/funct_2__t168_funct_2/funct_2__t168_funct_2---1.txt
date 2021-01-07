@@ -1,0 +1,5 @@
+t168_funct_2 conjecture
+d10_xboole_0 axiom
+redefinition_r1_relset_1 axiom
+redefinition_r2_relset_1 axiom
+t167_funct_2 axiom

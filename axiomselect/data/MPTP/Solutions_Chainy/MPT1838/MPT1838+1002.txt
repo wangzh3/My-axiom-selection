@@ -1,0 +1,12 @@
+d1_tex_2 axiom
+redefinition_k6_domain_1 axiom
+t113_zfmisc_1 axiom
+t12_xboole_1 axiom
+t139_zfmisc_1 axiom
+t2_xboole_1 axiom
+t43_zfmisc_1 axiom
+t65_xboole_1 axiom
+t69_enumset1 axiom
+t69_xboole_1 axiom
+t93_zfmisc_1 axiom
+t1_tex_2 conjecture

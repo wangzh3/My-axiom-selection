@@ -1,0 +1,5 @@
+t46_ordinal1 conjecture
+t126_relat_1 axiom
+d7_ordinal1 axiom
+d19_relat_1 axiom
+t116_relat_1 axiom

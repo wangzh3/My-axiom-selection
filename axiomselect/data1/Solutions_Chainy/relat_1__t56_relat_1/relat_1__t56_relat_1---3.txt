@@ -1,0 +1,12 @@
+t56_relat_1 conjecture
+t100_xboole_1 axiom
+t38_xboole_1 axiom
+t12_setfam_1 axiom
+t74_enumset1 axiom
+t72_enumset1 axiom
+t75_enumset1 axiom
+t73_enumset1 axiom
+t70_enumset1 axiom
+redefinition_k6_subset_1 axiom
+t71_enumset1 axiom
+d3_relat_1 axiom

@@ -1,0 +1,8 @@
+d20_waybel_0 axiom
+d2_waybel_0 axiom
+dt_k12_lattice3 axiom
+l3_subset_1 axiom
+t1_subset axiom
+t23_yellow_0 axiom
+t4_subset axiom
+t41_waybel_0 conjecture

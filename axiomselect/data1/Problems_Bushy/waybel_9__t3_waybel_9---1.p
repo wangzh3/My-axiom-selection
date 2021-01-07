@@ -1,0 +1,1 @@
+fof(t3_waybel_9,conjecture,(! [A] :( l1_struct_0(A)=> ! [B] :( l1_struct_0(B)=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(k1_zfmisc_1(u1_struct_0(A))))=> ! [D] :( m1_subset_1(D,k1_zfmisc_1(k1_zfmisc_1(u1_struct_0(B))))=> ( ( u1_struct_0(A) = u1_struct_0(B)& C = D& m1_setfam_1(C,u1_struct_0(A)) )=> m1_setfam_1(D,u1_struct_0(B)) ) ) ) ) ) )).

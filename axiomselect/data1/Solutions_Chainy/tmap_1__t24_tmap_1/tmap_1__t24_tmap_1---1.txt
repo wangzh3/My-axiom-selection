@@ -1,0 +1,8 @@
+t24_tmap_1 conjecture
+symmetry_r1_tsep_1 axiom
+d9_pre_topc axiom
+d3_tsep_1 axiom
+d3_struct_0 axiom
+t63_xboole_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom

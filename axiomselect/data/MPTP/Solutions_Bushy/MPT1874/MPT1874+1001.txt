@@ -1,0 +1,11 @@
+cc1_subset_1 axiom
+commutativity_k3_xboole_0 axiom
+commutativity_k9_subset_1 axiom
+redefinition_k6_domain_1 axiom
+redefinition_k9_subset_1 axiom
+t2_subset axiom
+t37_zfmisc_1 axiom
+t3_subset axiom
+t41_tex_2 axiom
+t7_boole axiom
+t42_tex_2 conjecture

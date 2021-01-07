@@ -1,0 +1,3 @@
+t76_waybel_0 conjecture
+t16_yellow_0 axiom
+d40_waybel_0 axiom

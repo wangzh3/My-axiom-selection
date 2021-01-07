@@ -1,0 +1,5 @@
+d8_yellow_6 axiom
+dt_l1_waybel_0 axiom
+dt_m1_yellow_6 axiom
+t60_yellow_0 axiom
+t20_yellow_6 conjecture

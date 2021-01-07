@@ -1,0 +1,11 @@
+d6_tops_1 axiom
+dt_k1_tops_1 axiom
+dt_k2_pre_topc axiom
+projectivity_k1_tops_1 axiom
+projectivity_k2_pre_topc axiom
+t1_xboole_1 axiom
+t44_tops_1 axiom
+t48_pre_topc axiom
+t48_tops_1 axiom
+t49_pre_topc axiom
+t111_tops_1 conjecture

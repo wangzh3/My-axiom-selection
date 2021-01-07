@@ -1,0 +1,8 @@
+abstractness_v1_pre_topc axiom
+d11_tmap_1 axiom
+d9_tmap_1 axiom
+dt_k5_tmap_1 axiom
+dt_k6_tmap_1 axiom
+free_g1_pre_topc axiom
+t1_tsep_1 axiom
+t114_tmap_1 conjecture

@@ -1,0 +1,16 @@
+d10_xboole_0 axiom
+d1_connsp_2 axiom
+d3_struct_0 axiom
+d3_tarski axiom
+d4_connsp_2 axiom
+dt_k2_struct_0 axiom
+dt_l1_pre_topc axiom
+fc10_tops_1 axiom
+fc9_tops_1 axiom
+t13_connsp_2 axiom
+t19_connsp_2 axiom
+t3_subset axiom
+t44_tops_1 axiom
+t4_subset axiom
+t5_connsp_2 axiom
+t21_connsp_2 conjecture

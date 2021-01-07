@@ -1,0 +1,3 @@
+l68_mcart_1 axiom
+t59_mcart_1 axiom
+t60_mcart_1 conjecture

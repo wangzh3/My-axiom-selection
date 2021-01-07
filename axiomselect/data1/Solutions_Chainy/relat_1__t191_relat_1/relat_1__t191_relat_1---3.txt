@@ -1,0 +1,8 @@
+t191_relat_1 conjecture
+t100_xboole_1 axiom
+t86_relat_1 axiom
+t2_tarski axiom
+t12_setfam_1 axiom
+t70_enumset1 axiom
+redefinition_k6_subset_1 axiom
+d5_xboole_0 axiom

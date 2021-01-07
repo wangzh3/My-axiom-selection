@@ -1,0 +1,9 @@
+t30_relat_1 conjecture
+t7_xboole_1 axiom
+t69_enumset1 axiom
+d6_relat_1 axiom
+d3_tarski axiom
+t20_relat_1 axiom
+t13_xboole_1 axiom
+t38_zfmisc_1 axiom
+t41_enumset1 axiom

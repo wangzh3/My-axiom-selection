@@ -1,0 +1,16 @@
+t50_waybel_0 conjecture
+d27_waybel_0 axiom
+d28_waybel_0 axiom
+d3_tarski axiom
+dt_k6_domain_1 axiom
+fc1_finset_1 axiom
+fraenkel_a_2_2_waybel_0 axiom
+fraenkel_a_2_3_waybel_0 axiom
+redefinition_k6_domain_1 axiom
+t1_subset axiom
+t37_zfmisc_1 axiom
+t38_yellow_0 axiom
+t39_yellow_0 axiom
+t4_subset axiom
+t5_subset axiom
+t7_boole axiom

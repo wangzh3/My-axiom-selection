@@ -1,0 +1,8 @@
+d10_xboole_0 axiom
+fc1_xboole_0 axiom
+fc9_relat_1 axiom
+t113_zfmisc_1 axiom
+t21_relat_1 axiom
+t2_xboole_1 axiom
+t8_boole axiom
+t64_relat_1 conjecture

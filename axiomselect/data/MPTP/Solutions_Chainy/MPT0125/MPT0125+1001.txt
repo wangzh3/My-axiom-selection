@@ -1,0 +1,5 @@
+d1_tarski axiom
+d2_tarski axiom
+d3_tarski axiom
+d3_xboole_0 axiom
+t41_enumset1 conjecture

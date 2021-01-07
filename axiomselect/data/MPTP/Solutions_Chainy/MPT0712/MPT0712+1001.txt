@@ -1,0 +1,17 @@
+fc2_relat_1 axiom
+l27_zfmisc_1 axiom
+l32_xboole_1 axiom
+l51_zfmisc_1 axiom
+redefinition_k6_subset_1 axiom
+t118_funct_1 axiom
+t148_relat_1 axiom
+t172_relat_1 axiom
+t173_relat_1 axiom
+t187_relat_1 axiom
+t39_zfmisc_1 axiom
+t46_xboole_1 axiom
+t60_relat_1 axiom
+t66_xboole_1 axiom
+t69_enumset1 axiom
+t82_xboole_1 axiom
+t167_funct_1 conjecture

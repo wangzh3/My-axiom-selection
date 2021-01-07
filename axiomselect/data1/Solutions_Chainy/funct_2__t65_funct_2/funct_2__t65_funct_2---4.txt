@@ -1,0 +1,17 @@
+t65_funct_2 conjecture
+t152_zfmisc_1 axiom
+t106_zfmisc_1 axiom
+fc6_relat_1 axiom
+fc13_relat_1 axiom
+t152_relat_1 axiom
+cc2_relat_1 axiom
+t150_relat_1 axiom
+fc1_xboole_0 axiom
+t60_relat_1 axiom
+d1_tarski axiom
+t4_subset_1 axiom
+t51_zfmisc_1 axiom
+l3_subset_1 axiom
+t7_funct_2 axiom
+t17_xboole_1 axiom
+t62_relat_1 axiom

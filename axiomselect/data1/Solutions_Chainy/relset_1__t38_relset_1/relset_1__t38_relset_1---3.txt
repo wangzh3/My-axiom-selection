@@ -1,0 +1,16 @@
+t38_relset_1 conjecture
+t119_relat_1 axiom
+dt_k2_relset_1 axiom
+cc1_relset_1 axiom
+t169_relat_1 axiom
+redefinition_k7_relset_1 axiom
+redefinition_k2_relset_1 axiom
+redefinition_k1_relset_1 axiom
+t48_xboole_1 axiom
+t125_relat_1 axiom
+t97_relat_1 axiom
+dt_k1_relset_1 axiom
+t3_subset axiom
+t168_relat_1 axiom
+redefinition_k8_relset_1 axiom
+t148_relat_1 axiom

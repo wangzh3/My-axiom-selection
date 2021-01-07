@@ -1,0 +1,4 @@
+d3_xboole_0 axiom
+d4_xboole_0 axiom
+d5_xboole_0 axiom
+t51_xboole_1 conjecture

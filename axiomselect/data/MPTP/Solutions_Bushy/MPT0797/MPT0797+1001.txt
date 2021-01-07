@@ -1,0 +1,8 @@
+d5_funct_1 axiom
+d7_wellord1 axiom
+dt_k2_funct_1 axiom
+fc6_funct_1 axiom
+t30_relat_1 axiom
+t55_funct_1 axiom
+t57_funct_1 axiom
+t49_wellord1 conjecture

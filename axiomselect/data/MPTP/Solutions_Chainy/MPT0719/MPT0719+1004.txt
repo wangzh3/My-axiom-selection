@@ -1,0 +1,9 @@
+d20_funct_1 axiom
+fc2_relat_1 axiom
+fc8_funct_1 axiom
+t110_relat_1 axiom
+t142_funct_1 axiom
+t172_relat_1 axiom
+t46_xboole_1 axiom
+t60_relat_1 axiom
+t174_funct_1 conjecture

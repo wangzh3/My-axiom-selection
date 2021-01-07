@@ -1,0 +1,4 @@
+d4_xboole_0 axiom
+t10_mcart_1 axiom
+t22_relat_1 axiom
+t91_mcart_1 conjecture

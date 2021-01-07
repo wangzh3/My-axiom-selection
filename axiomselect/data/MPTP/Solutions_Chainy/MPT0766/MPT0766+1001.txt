@@ -1,0 +1,3 @@
+d4_wellord1 axiom
+l1_wellord1 axiom
+t12_wellord1 conjecture

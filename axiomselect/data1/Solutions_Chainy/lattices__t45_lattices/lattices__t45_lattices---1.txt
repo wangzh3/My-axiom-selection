@@ -1,0 +1,7 @@
+t45_lattices conjecture
+cc1_lattices axiom
+t43_lattices axiom
+dt_k6_lattices axiom
+redefinition_r3_lattices axiom
+dt_l3_lattices axiom
+t23_lattices axiom

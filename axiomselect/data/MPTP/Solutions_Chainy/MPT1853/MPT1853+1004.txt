@@ -1,0 +1,17 @@
+cc1_subset_1 axiom
+cc4_subset_1 axiom
+d3_tex_2 axiom
+d4_tex_2 axiom
+d7_subset_1 axiom
+dt_k1_tex_2 axiom
+dt_k6_domain_1 axiom
+rc1_connsp_1 axiom
+rc7_tex_2 axiom
+redefinition_k6_domain_1 axiom
+t13_tex_2 axiom
+t15_tex_2 axiom
+t1_tsep_1 axiom
+t2_tsep_1 axiom
+t4_subset_1 axiom
+t55_subset_1 axiom
+t20_tex_2 conjecture

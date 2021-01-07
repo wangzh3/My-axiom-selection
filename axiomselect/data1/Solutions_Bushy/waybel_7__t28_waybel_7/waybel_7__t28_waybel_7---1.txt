@@ -1,0 +1,13 @@
+t28_waybel_7 conjecture
+reflexivity_r3_orders_2 axiom
+t27_waybel_7 axiom
+cc2_lattice3 axiom
+d19_waybel_0 axiom
+dt_k6_waybel_0 axiom
+t18_waybel_0 axiom
+t3_xboole_0 axiom
+redefinition_r1_subset_1 axiom
+fc13_waybel_0 axiom
+t4_subset axiom
+redefinition_r3_orders_2 axiom
+fc9_waybel_0 axiom

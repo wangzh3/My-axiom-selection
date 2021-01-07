@@ -1,0 +1,6 @@
+t87_orders_2 conjecture
+t82_orders_2 axiom
+existence_m2_orders_2 axiom
+d17_orders_2 axiom
+t91_orders_1 axiom
+t66_xboole_1 axiom

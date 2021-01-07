@@ -1,0 +1,3 @@
+symmetry_r1_xboole_0 axiom
+t95_relat_1 axiom
+t187_relat_1 conjecture

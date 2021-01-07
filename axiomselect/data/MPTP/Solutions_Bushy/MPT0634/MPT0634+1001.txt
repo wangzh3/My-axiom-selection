@@ -1,0 +1,7 @@
+commutativity_k3_xboole_0 axiom
+d4_xboole_0 axiom
+fc3_funct_1 axiom
+t21_funct_1 axiom
+t2_tarski axiom
+t34_funct_1 axiom
+t37_funct_1 conjecture

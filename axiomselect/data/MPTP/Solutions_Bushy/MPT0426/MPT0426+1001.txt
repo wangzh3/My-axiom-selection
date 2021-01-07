@@ -1,0 +1,7 @@
+d10_setfam_1 axiom
+d1_setfam_1 axiom
+dt_o_0_0_xboole_0 axiom
+redefinition_k6_setfam_1 axiom
+t6_boole axiom
+t7_boole axiom
+t58_setfam_1 conjecture

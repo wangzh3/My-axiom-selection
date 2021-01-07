@@ -1,0 +1,7 @@
+t104_tops_1 conjecture
+t102_tops_1 axiom
+d7_tops_1 axiom
+l78_tops_1 axiom
+d8_tops_1 axiom
+dt_k2_pre_topc axiom
+projectivity_k2_pre_topc axiom

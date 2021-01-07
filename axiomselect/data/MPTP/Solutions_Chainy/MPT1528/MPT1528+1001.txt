@@ -1,0 +1,15 @@
+cc1_relset_1 axiom
+d8_lattice3 axiom
+d9_lattice3 axiom
+l35_zfmisc_1 axiom
+t142_funct_1 axiom
+t172_relat_1 axiom
+t1_boole axiom
+t1_zfmisc_1 axiom
+t21_zfmisc_1 axiom
+t49_zfmisc_1 axiom
+t4_subset axiom
+t60_relat_1 axiom
+t61_setfam_1 axiom
+t9_mcart_1 axiom
+t6_yellow_0 conjecture

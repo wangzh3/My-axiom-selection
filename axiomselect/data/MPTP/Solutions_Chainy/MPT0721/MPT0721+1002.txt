@@ -1,0 +1,5 @@
+d19_relat_1 axiom
+d3_tarski axiom
+t12_funct_1 axiom
+t1_subset axiom
+t176_funct_1 conjecture

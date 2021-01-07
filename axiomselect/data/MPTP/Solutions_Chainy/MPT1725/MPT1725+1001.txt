@@ -1,0 +1,15 @@
+cc1_pre_topc axiom
+dt_k1_tsep_1 axiom
+dt_k2_tsep_1 axiom
+dt_m1_pre_topc axiom
+t22_tmap_1 axiom
+t22_tsep_1 axiom
+t23_tmap_1 axiom
+t25_tmap_1 axiom
+t28_tmap_1 axiom
+t29_tsep_1 axiom
+t2_tsep_1 axiom
+t30_tsep_1 axiom
+t31_tsep_1 axiom
+t32_tmap_1 axiom
+t34_tmap_1 conjecture

@@ -1,0 +1,11 @@
+t57_funct_1 conjecture
+t65_relat_1 axiom
+t55_funct_1 axiom
+d4_funct_1 axiom
+t23_funct_1 axiom
+d1_xboole_0 axiom
+antisymmetry_r2_hidden axiom
+t54_funct_1 axiom
+t7_boole axiom
+t22_funct_1 axiom
+dt_k2_funct_1 axiom

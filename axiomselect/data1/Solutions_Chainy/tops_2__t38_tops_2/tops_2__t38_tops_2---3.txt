@@ -1,0 +1,7 @@
+t38_tops_2 conjecture
+d10_setfam_1 axiom
+t29_pre_topc axiom
+redefinition_k9_subset_1 axiom
+dt_k8_setfam_1 axiom
+t4_subset_1 axiom
+dt_k9_subset_1 axiom

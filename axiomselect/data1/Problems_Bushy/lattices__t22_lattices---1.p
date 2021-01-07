@@ -1,0 +1,6 @@
+fof(t22_lattices,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v5_lattices(A)& v6_lattices(A)& v8_lattices(A)& v9_lattices(A)& l3_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> r1_lattices(A,B,k1_lattices(A,B,C)) ) ) ) )).
+fof(dt_k1_lattices,axiom,(! [A,B,C] :( ( ~ v2_struct_0(A)& l2_lattices(A)& m1_subset_1(B,u1_struct_0(A))& m1_subset_1(C,u1_struct_0(A)) )=> m1_subset_1(k1_lattices(A,B,C),u1_struct_0(A)) ) )).
+fof(dt_l3_lattices,axiom,(! [A] :( l3_lattices(A)=> ( l1_lattices(A)& l2_lattices(A) ) ) )).
+fof(d5_lattices,axiom,(! [A] :( ( ~ v2_struct_0(A)& l2_lattices(A) )=> ( v5_lattices(A)<=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ! [D] :( m1_subset_1(D,u1_struct_0(A))=> k1_lattices(A,B,k1_lattices(A,C,D)) = k1_lattices(A,k1_lattices(A,B,C),D) ) ) ) ) ) )).
+fof(t17_lattices,axiom,(! [A] :( ( ~ v2_struct_0(A)& v6_lattices(A)& v8_lattices(A)& v9_lattices(A)& l3_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> k1_lattices(A,B,B) = B ) ) )).
+fof(d3_lattices,axiom,(! [A] :( ( ~ v2_struct_0(A)& l2_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ( r1_lattices(A,B,C)<=> k1_lattices(A,B,C) = C ) ) ) ) )).

@@ -1,0 +1,15 @@
+t32_relat_1 conjecture
+t93_zfmisc_1 axiom
+t64_zfmisc_1 axiom
+d6_relat_1 axiom
+t69_enumset1 axiom
+d1_tarski axiom
+t82_enumset1 axiom
+fc5_relat_1 axiom
+t41_enumset1 axiom
+t20_zfmisc_1 axiom
+t36_zfmisc_1 axiom
+t24_relat_1 axiom
+commutativity_k2_tarski axiom
+d2_tarski axiom
+t35_zfmisc_1 axiom

@@ -1,0 +1,9 @@
+t59_tmap_1 conjecture
+dt_l1_pre_topc axiom
+t173_funct_2 axiom
+dt_m1_pre_topc axiom
+t1_tsep_1 axiom
+redefinition_k3_funct_2 axiom
+d4_tmap_1 axiom
+reflexivity_r2_funct_2 axiom
+fc2_struct_0 axiom

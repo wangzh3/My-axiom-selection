@@ -1,0 +1,6 @@
+t26_waybel_0 conjecture
+dt_k5_setfam_1 axiom
+t4_subset axiom
+d4_tarski axiom
+d19_waybel_0 axiom
+redefinition_k5_setfam_1 axiom

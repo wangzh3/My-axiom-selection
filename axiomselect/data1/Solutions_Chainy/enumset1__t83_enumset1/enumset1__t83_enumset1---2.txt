@@ -1,0 +1,5 @@
+t83_enumset1 conjecture
+t78_enumset1 axiom
+t41_enumset1 axiom
+t94_xboole_1 axiom
+t70_enumset1 axiom

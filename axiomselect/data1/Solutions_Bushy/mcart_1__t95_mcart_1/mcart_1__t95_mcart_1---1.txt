@@ -1,0 +1,3 @@
+t95_mcart_1 conjecture
+t94_mcart_1 axiom
+t2_subset axiom

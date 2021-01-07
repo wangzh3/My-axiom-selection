@@ -1,0 +1,3 @@
+d2_tarski axiom
+t10_mcart_1 axiom
+t15_mcart_1 conjecture

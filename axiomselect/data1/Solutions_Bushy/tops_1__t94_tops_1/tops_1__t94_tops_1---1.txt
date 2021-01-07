@@ -1,0 +1,9 @@
+t94_tops_1 conjecture
+t38_xboole_1 axiom
+t44_tops_1 axiom
+redefinition_k7_subset_1 axiom
+l78_tops_1 axiom
+t52_pre_topc axiom
+t3_boole axiom
+t84_tops_1 axiom
+d5_tops_1 axiom

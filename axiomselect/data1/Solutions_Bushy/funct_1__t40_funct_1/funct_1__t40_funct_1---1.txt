@@ -1,0 +1,4 @@
+t40_funct_1 conjecture
+t21_funct_1 axiom
+fc3_funct_1 axiom
+t34_funct_1 axiom

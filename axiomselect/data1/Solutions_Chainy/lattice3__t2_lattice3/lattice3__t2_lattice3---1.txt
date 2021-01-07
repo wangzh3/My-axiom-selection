@@ -1,0 +1,8 @@
+t2_lattice3 conjecture
+t12_xboole_1 axiom
+t1_lattice3 axiom
+t7_xboole_1 axiom
+d3_lattices axiom
+dt_k1_lattice3 axiom
+dt_l3_lattices axiom
+fc1_lattice3 axiom

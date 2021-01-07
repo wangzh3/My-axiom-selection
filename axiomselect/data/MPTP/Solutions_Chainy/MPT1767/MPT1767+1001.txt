@@ -1,0 +1,7 @@
+d4_tmap_1 axiom
+d5_tmap_1 axiom
+d9_funct_2 axiom
+dt_k3_tmap_1 axiom
+t2_tsep_1 axiom
+t77_tmap_1 axiom
+t78_tmap_1 conjecture

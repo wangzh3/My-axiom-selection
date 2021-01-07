@@ -1,0 +1,3 @@
+t24_setfam_1 conjecture
+d1_tarski axiom
+d2_setfam_1 axiom

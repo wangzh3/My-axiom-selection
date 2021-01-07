@@ -1,0 +1,12 @@
+t60_setfam_1 conjecture
+d2_subset_1 axiom
+redefinition_k5_setfam_1 axiom
+t95_zfmisc_1 axiom
+d12_setfam_1 axiom
+d4_subset_1 axiom
+fc1_subset_1 axiom
+t1_subset axiom
+t99_zfmisc_1 axiom
+t3_subset axiom
+d10_xboole_0 axiom
+dt_k2_subset_1 axiom

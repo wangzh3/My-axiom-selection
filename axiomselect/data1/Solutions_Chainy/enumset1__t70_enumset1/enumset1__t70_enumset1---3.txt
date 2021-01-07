@@ -1,0 +1,3 @@
+t70_enumset1 conjecture
+d1_enumset1 axiom
+d2_tarski axiom

@@ -1,0 +1,4 @@
+t9_funct_1 conjecture
+d4_relat_1 axiom
+d4_funct_1 axiom
+d2_relat_1 axiom

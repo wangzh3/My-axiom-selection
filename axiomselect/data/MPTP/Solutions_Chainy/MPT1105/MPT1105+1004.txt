@@ -1,0 +1,6 @@
+d2_struct_0 axiom
+d3_struct_0 axiom
+d5_subset_1 axiom
+dt_k1_struct_0 axiom
+t3_boole axiom
+t27_pre_topc conjecture

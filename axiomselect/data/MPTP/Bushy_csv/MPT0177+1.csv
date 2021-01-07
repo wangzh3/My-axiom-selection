@@ -1,0 +1,16 @@
+formla,formula,score
+dt_k6_enumset1,dt_k1_enumset1,0.0
+dt_k6_enumset1,dt_k2_enumset1,0.0
+dt_k1_enumset1,dt_k2_enumset1,0.0
+t93_enumset1,t71_enumset1,4.0
+t90_enumset1,t71_enumset1,8.0
+t90_enumset1,t93_enumset1,10.655215334691986
+dt_k6_enumset1,t90_enumset1,inf
+dt_k6_enumset1,t93_enumset1,inf
+dt_k6_enumset1,t71_enumset1,inf
+dt_k1_enumset1,t90_enumset1,inf
+dt_k1_enumset1,t93_enumset1,inf
+dt_k1_enumset1,t71_enumset1,inf
+t90_enumset1,dt_k2_enumset1,inf
+t93_enumset1,dt_k2_enumset1,inf
+dt_k2_enumset1,t71_enumset1,inf

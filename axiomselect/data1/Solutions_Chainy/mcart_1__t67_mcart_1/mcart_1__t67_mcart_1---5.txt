@@ -1,0 +1,7 @@
+t67_mcart_1 conjecture
+t49_zfmisc_1 axiom
+t69_enumset1 axiom
+t66_mcart_1 axiom
+t48_zfmisc_1 axiom
+t41_enumset1 axiom
+t1_subset axiom

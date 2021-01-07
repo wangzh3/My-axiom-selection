@@ -1,0 +1,9 @@
+t95_relat_1 conjecture
+d4_xboole_0 axiom
+d7_xboole_0 axiom
+cc1_relat_1 axiom
+t7_boole axiom
+dt_k7_relat_1 axiom
+d11_relat_1 axiom
+d4_relat_1 axiom
+fc1_xboole_0 axiom

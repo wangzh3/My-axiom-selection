@@ -1,0 +1,7 @@
+d1_zfmisc_1 axiom
+redefinition_k9_setfam_1 axiom
+t13_yellow_1 axiom
+t2_xboole_1 axiom
+t4_yellow_1 axiom
+t7_boole axiom
+t18_yellow_1 conjecture

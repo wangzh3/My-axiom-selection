@@ -1,0 +1,12 @@
+cc1_relset_1 axiom
+d14_yellow_0 axiom
+d4_xboole_0 axiom
+d6_wellord1 axiom
+d9_orders_2 axiom
+dt_m1_yellow_0 axiom
+dt_u1_orders_2 axiom
+redefinition_k1_toler_1 axiom
+t106_zfmisc_1 axiom
+t2_subset axiom
+t7_boole axiom
+t61_yellow_0 conjecture

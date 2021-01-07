@@ -1,0 +1,10 @@
+t39_waybel_0 conjecture
+fc9_waybel_0 axiom
+t38_yellow_0 axiom
+dt_k6_domain_1 axiom
+cc1_subset_1 axiom
+t37_waybel_0 axiom
+dt_k6_waybel_0 axiom
+d18_waybel_0 axiom
+t39_yellow_0 axiom
+t38_waybel_0 axiom

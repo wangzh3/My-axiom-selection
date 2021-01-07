@@ -1,0 +1,13 @@
+t47_tops_2 conjecture
+d10_pre_topc axiom
+dt_l1_pre_topc axiom
+commutativity_k9_subset_1 axiom
+t4_subset axiom
+t32_tops_2 axiom
+d3_tops_2 axiom
+dt_m1_pre_topc axiom
+dt_k1_tops_2 axiom
+dt_k2_struct_0 axiom
+redefinition_k9_subset_1 axiom
+d1_tops_2 axiom
+dt_k1_pre_topc axiom

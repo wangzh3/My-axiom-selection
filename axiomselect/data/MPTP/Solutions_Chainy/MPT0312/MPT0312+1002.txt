@@ -1,0 +1,4 @@
+commutativity_k3_xboole_0 axiom
+t123_zfmisc_1 axiom
+t28_xboole_1 axiom
+t124_zfmisc_1 conjecture

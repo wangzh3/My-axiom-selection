@@ -1,0 +1,17 @@
+t19_wellord1 conjecture
+t5_subset axiom
+t17_wellord1 axiom
+d4_xboole_0 axiom
+dt_k8_relat_1 axiom
+l29_wellord1 axiom
+d6_relat_1 axiom
+d3_xboole_0 axiom
+t3_subset axiom
+t4_subset axiom
+t99_relat_1 axiom
+t90_relat_1 axiom
+t119_relat_1 axiom
+dt_k7_relat_1 axiom
+t2_subset axiom
+dt_k2_wellord1 axiom
+t18_wellord1 axiom

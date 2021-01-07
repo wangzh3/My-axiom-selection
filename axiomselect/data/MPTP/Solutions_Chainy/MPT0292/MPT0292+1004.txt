@@ -1,0 +1,16 @@
+d1_zfmisc_1 axiom
+d8_xboole_0 axiom
+idempotence_k2_xboole_0 axiom
+l51_zfmisc_1 axiom
+t60_xboole_1 axiom
+t69_enumset1 axiom
+t70_enumset1 axiom
+t71_enumset1 axiom
+t72_enumset1 axiom
+t73_enumset1 axiom
+t74_enumset1 axiom
+t75_enumset1 axiom
+t80_zfmisc_1 axiom
+t94_zfmisc_1 axiom
+t95_zfmisc_1 axiom
+t99_zfmisc_1 conjecture

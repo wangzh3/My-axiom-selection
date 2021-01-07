@@ -1,0 +1,6 @@
+d11_tmap_1 axiom
+d1_tsep_1 axiom
+dt_k6_tmap_1 axiom
+t106_tmap_1 axiom
+t1_tsep_1 axiom
+t116_tmap_1 conjecture

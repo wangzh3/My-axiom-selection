@@ -1,0 +1,5 @@
+redefinition_r3_orders_2 axiom
+reflexivity_r3_orders_2 axiom
+t18_waybel_0 axiom
+t25_orders_2 axiom
+t20_waybel_0 conjecture

@@ -1,0 +1,6 @@
+d7_binop_1 axiom
+dt_k1_domain_1 axiom
+dt_k6_filter_1 axiom
+t25_filter_1 axiom
+t26_filter_1 axiom
+t27_filter_1 conjecture

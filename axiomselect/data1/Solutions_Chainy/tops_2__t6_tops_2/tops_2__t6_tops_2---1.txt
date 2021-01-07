@@ -1,0 +1,11 @@
+t6_tops_2 conjecture
+dt_k5_setfam_1 axiom
+t95_zfmisc_1 axiom
+t7_xboole_1 axiom
+t43_xboole_1 axiom
+t96_zfmisc_1 axiom
+redefinition_k7_subset_1 axiom
+dt_k7_subset_1 axiom
+commutativity_k2_xboole_0 axiom
+redefinition_k5_setfam_1 axiom
+t39_xboole_1 axiom

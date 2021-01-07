@@ -1,0 +1,6 @@
+t19_yellow_0 conjecture
+dt_k11_lattice3 axiom
+t16_yellow_0 axiom
+t8_yellow_0 axiom
+commutativity_k2_tarski axiom
+d14_lattice3 axiom

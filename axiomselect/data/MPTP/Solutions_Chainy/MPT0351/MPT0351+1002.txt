@@ -1,0 +1,15 @@
+d1_zfmisc_1 axiom
+d2_subset_1 axiom
+d4_subset_1 axiom
+dt_k2_subset_1 axiom
+fc1_subset_1 axiom
+redefinition_k4_subset_1 axiom
+t12_xboole_1 axiom
+t70_enumset1 axiom
+t71_enumset1 axiom
+t72_enumset1 axiom
+t73_enumset1 axiom
+t74_enumset1 axiom
+t75_enumset1 axiom
+t93_zfmisc_1 axiom
+t28_subset_1 conjecture

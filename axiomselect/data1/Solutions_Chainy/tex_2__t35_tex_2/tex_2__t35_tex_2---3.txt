@@ -1,0 +1,10 @@
+t35_tex_2 conjecture
+rc10_tex_2 axiom
+t28_tex_2 axiom
+cc3_tex_1 axiom
+t26_tex_2 axiom
+t4_subset_1 axiom
+t1_tsep_1 axiom
+l13_xboole_0 axiom
+dt_m1_pre_topc axiom
+t3_subset axiom

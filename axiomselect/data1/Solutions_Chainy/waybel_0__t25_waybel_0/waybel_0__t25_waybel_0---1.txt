@@ -1,0 +1,4 @@
+t25_waybel_0 conjecture
+t13_waybel_0 axiom
+t23_waybel_0 axiom
+t24_waybel_0 axiom

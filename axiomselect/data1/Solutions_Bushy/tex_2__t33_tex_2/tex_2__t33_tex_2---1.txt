@@ -1,0 +1,6 @@
+t33_tex_2 conjecture
+t5_subset axiom
+d6_tex_2 axiom
+t3_subset axiom
+t37_zfmisc_1 axiom
+t2_subset axiom

@@ -1,0 +1,9 @@
+t5_tops_2 conjecture
+t60_setfam_1 axiom
+cc4_relset_1 axiom
+t25_relset_1 axiom
+t4_subset_1 axiom
+fc2_struct_0 axiom
+redefinition_k5_setfam_1 axiom
+rc2_subset_1 axiom
+t2_zfmisc_1 axiom

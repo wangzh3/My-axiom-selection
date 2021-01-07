@@ -1,0 +1,11 @@
+cc1_relset_1 axiom
+d1_funct_2 axiom
+dt_k3_funct_3 axiom
+fc1_xboole_0 axiom
+fc2_struct_0 axiom
+redefinition_k1_relset_1 axiom
+t144_relat_1 axiom
+t1_xboole_1 axiom
+t25_funct_3 axiom
+t3_subset axiom
+t54_tops_2 conjecture

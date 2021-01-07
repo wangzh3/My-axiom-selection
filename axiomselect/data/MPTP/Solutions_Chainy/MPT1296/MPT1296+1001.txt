@@ -1,0 +1,11 @@
+d4_subset_1 axiom
+d5_subset_1 axiom
+dt_k2_subset_1 axiom
+dt_k4_subset_1 axiom
+dt_k6_setfam_1 axiom
+redefinition_k6_setfam_1 axiom
+redefinition_k7_subset_1 axiom
+t28_subset_1 axiom
+t32_xboole_1 axiom
+t48_setfam_1 axiom
+t12_tops_2 conjecture

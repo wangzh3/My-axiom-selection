@@ -1,0 +1,7 @@
+t59_funct_2 conjecture
+t3_xboole_1 axiom
+redefinition_k7_relset_1 axiom
+t150_relat_1 axiom
+t25_relset_1 axiom
+t113_zfmisc_1 axiom
+t3_subset axiom

@@ -1,0 +1,11 @@
+cc1_partfun1 axiom
+cc4_relset_1 axiom
+cc5_funct_2 axiom
+t113_zfmisc_1 axiom
+t132_funct_2 axiom
+t150_relat_1 axiom
+t162_funct_1 axiom
+t174_partfun1 axiom
+t81_relat_1 axiom
+t87_partfun1 axiom
+t161_funct_2 conjecture

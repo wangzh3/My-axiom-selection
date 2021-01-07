@@ -1,0 +1,7 @@
+t61_tex_2 conjecture
+t47_tex_2 axiom
+d7_subset_1 axiom
+d2_tops_3 axiom
+t23_tdlat_3 axiom
+t52_pre_topc axiom
+t24_tdlat_3 axiom

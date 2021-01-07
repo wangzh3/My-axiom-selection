@@ -1,0 +1,7 @@
+t67_tex_2 conjecture
+t46_tex_2 axiom
+t26_tex_2 axiom
+t4_tsep_1 axiom
+t53_tex_2 axiom
+t1_tsep_1 axiom
+t65_tex_2 axiom

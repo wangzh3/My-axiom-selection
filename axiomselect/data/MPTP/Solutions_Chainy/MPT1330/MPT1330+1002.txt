@@ -1,0 +1,9 @@
+d3_struct_0 axiom
+redefinition_k8_relset_1 axiom
+t113_zfmisc_1 axiom
+t150_relat_1 axiom
+t162_funct_1 axiom
+t172_relat_1 axiom
+t48_funct_2 axiom
+t81_relat_1 axiom
+t52_tops_2 conjecture

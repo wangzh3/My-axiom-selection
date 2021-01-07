@@ -1,0 +1,3 @@
+t18_wellord1 conjecture
+t140_relat_1 axiom
+t17_wellord1 axiom

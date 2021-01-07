@@ -1,0 +1,13 @@
+t171_funct_1 conjecture
+t12_xboole_1 axiom
+t11_xboole_1 axiom
+t112_relat_1 axiom
+t182_relat_1 axiom
+t163_funct_1 axiom
+dt_k5_relat_1 axiom
+t27_funct_1 axiom
+fc8_funct_1 axiom
+t91_relat_1 axiom
+t44_relat_1 axiom
+dt_k7_relat_1 axiom
+t148_relat_1 axiom

@@ -1,0 +1,6 @@
+t89_mcart_1 conjecture
+d14_mcart_1 axiom
+d15_mcart_1 axiom
+d17_mcart_1 axiom
+t7_mcart_1 axiom
+d16_mcart_1 axiom

@@ -1,0 +1,11 @@
+t115_tmap_1 conjecture
+abstractness_v1_pre_topc axiom
+d9_tmap_1 axiom
+dt_k8_tmap_1 axiom
+t104_tmap_1 axiom
+t105_tmap_1 axiom
+t114_tmap_1 axiom
+t16_tsep_1 axiom
+t1_tsep_1 axiom
+t35_borsuk_1 axiom
+t3_subset axiom

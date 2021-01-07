@@ -1,0 +1,4 @@
+t18_mcart_1 conjecture
+t10_mcart_1 axiom
+d1_tarski axiom
+d2_tarski axiom

@@ -1,0 +1,56 @@
+/Users/adminadmin/Documents/mywork/ATP/axiomselect/data1/Chainy/setfam_1__t31_setfam_1.csv
+0.0071174377224199285
+0.0
+0.0
+0.006956521739130435
+0.0
+0.0
+/Users/adminadmin/Documents/mywork/ATP/axiomselect/data1/Chainy/xboole_1__t69_xboole_1.csv
+0.044642857142857144
+0.04878048780487805
+0.04716981132075472
+0.043478260869565216
+0.04672897196261682
+0.05102040816326531
+=====================================================================================
+half&half:
+the selection evaluation in Chainy dataset is 0.025880147432638535
+2 in total, 2 selected enough
+0.025880147432638535 over 2
+Selectivity is 0.9581546629328199
+Selectivity in selected enough is 0.9581546629328199
+=====================================================================================
+greedy search random path:
+the selection evaluation in Chainy dataset is 0.024390243902439025
+2 in total, 1 selected enough
+0.04878048780487805 over 1
+Selectivity is 0.6678334937720602
+Selectivity in selected enough is 0.7008547008547008
+=====================================================================================
+greedy search all path:
+the selection evaluation in Chainy dataset is 0.02358490566037736
+2 in total, 1 selected enough
+0.04716981132075472 over 1
+Selectivity is 0.7610119308071526
+Selectivity in selected enough is 0.905982905982906
+=====================================================================================
+A* search all path:
+the selection evaluation in Chainy dataset is 0.025217391304347827
+2 in total, 2 selected enough
+0.025217391304347827 over 2
+Selectivity is 0.9820673259239812
+Selectivity in selected enough is 0.9820673259239812
+=====================================================================================
+knn search all path:
+the selection evaluation in Chainy dataset is 0.02336448598130841
+2 in total, 1 selected enough
+0.04672897196261682 over 1
+Selectivity is 0.7985618855926023
+Selectivity in selected enough is 0.9145299145299145
+=====================================================================================
+knn search all path pruning:
+the selection evaluation in Chainy dataset is 0.025510204081632654
+2 in total, 1 selected enough
+0.05102040816326531 over 1
+Selectivity is 0.6662436918409614
+Selectivity in selected enough is 0.8376068376068376

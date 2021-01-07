@@ -1,0 +1,6 @@
+antisymmetry_r2_hidden axiom
+d1_setfam_1 axiom
+l22_zfmisc_1 axiom
+t49_zfmisc_1 axiom
+t7_xboole_0 axiom
+t5_setfam_1 conjecture

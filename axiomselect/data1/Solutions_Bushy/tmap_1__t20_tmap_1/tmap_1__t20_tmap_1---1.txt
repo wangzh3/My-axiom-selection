@@ -1,0 +1,8 @@
+t20_tmap_1 conjecture
+t13_xboole_1 axiom
+dt_m1_connsp_2 axiom
+t1_xboole_1 axiom
+t8_connsp_2 axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom
+t19_tmap_1 axiom

@@ -1,0 +1,15 @@
+cc1_relset_1 axiom
+d13_relat_1 axiom
+d14_relat_1 axiom
+d4_relat_1 axiom
+d5_relat_1 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom
+redefinition_k7_relset_1 axiom
+redefinition_k8_relset_1 axiom
+t106_zfmisc_1 axiom
+t2_subset axiom
+t2_tarski axiom
+t4_subset axiom
+t5_subset axiom
+t38_relset_1 conjecture

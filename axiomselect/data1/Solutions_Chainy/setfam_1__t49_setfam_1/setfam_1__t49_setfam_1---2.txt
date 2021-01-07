@@ -1,0 +1,4 @@
+t49_setfam_1 conjecture
+dt_k7_setfam_1 axiom
+involutiveness_k7_setfam_1 axiom
+d8_setfam_1 axiom

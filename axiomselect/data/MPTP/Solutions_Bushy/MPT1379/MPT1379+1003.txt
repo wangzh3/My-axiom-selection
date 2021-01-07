@@ -1,0 +1,10 @@
+commutativity_k9_subset_1 axiom
+d1_connsp_2 axiom
+d4_xboole_0 axiom
+dt_k1_tops_1 axiom
+dt_k9_subset_1 axiom
+dt_m1_connsp_2 axiom
+redefinition_k9_subset_1 axiom
+t46_tops_1 axiom
+t4_subset axiom
+t4_connsp_2 conjecture

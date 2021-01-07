@@ -1,0 +1,4 @@
+l139_zfmisc_1 axiom
+l54_zfmisc_1 axiom
+t7_mcart_1 axiom
+t10_mcart_1 conjecture

@@ -1,0 +1,4 @@
+fc18_relat_1 axiom
+fc1_xboole_0 axiom
+l13_xboole_0 axiom
+t137_relat_1 conjecture

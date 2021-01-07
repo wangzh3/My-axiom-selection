@@ -1,0 +1,5 @@
+t7_yellow19 conjecture
+dt_k4_waybel_9 axiom
+dt_u1_waybel_0 axiom
+dt_k2_relset_1 axiom
+d2_yellow19 axiom

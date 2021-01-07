@@ -1,0 +1,3 @@
+t86_funct_2 conjecture
+cc2_funct_2 axiom
+t76_funct_2 axiom

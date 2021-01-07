@@ -1,0 +1,4 @@
+t57_tex_2 conjecture
+t37_tex_2 axiom
+t24_tdlat_3 axiom
+t4_subset axiom

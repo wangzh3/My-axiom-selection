@@ -1,0 +1,4 @@
+t25_yellow_1 conjecture
+t1_yellow_1 axiom
+t3_subset axiom
+t78_tops_2 axiom

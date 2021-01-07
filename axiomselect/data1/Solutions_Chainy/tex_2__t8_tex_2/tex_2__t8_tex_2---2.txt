@@ -1,0 +1,5 @@
+t8_tex_2 conjecture
+fc5_struct_0 axiom
+t6_tex_2 axiom
+fc7_struct_0 axiom
+d3_struct_0 axiom

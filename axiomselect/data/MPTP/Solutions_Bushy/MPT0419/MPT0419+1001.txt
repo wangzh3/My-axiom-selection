@@ -1,0 +1,6 @@
+d3_tarski axiom
+d8_setfam_1 axiom
+dt_k7_setfam_1 axiom
+involutiveness_k7_setfam_1 axiom
+t4_subset axiom
+t51_setfam_1 conjecture

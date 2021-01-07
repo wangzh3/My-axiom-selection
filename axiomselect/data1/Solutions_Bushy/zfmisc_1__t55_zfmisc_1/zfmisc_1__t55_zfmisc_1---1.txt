@@ -1,0 +1,7 @@
+t55_zfmisc_1 conjecture
+d4_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+d7_xboole_0 axiom
+antisymmetry_r2_hidden axiom
+d2_tarski axiom
+t2_boole axiom

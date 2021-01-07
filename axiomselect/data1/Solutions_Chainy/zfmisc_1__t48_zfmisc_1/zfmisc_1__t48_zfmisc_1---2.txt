@@ -1,0 +1,7 @@
+t48_zfmisc_1 conjecture
+l22_zfmisc_1 axiom
+t48_xboole_1 axiom
+t41_enumset1 axiom
+t4_xboole_1 axiom
+idempotence_k3_xboole_0 axiom
+t18_zfmisc_1 axiom

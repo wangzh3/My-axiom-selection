@@ -1,0 +1,4 @@
+fof(t19_waybel_9,conjecture,(! [A] :( l1_pre_topc(A)=> ! [B] :( l1_pre_topc(B)=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(k1_zfmisc_1(u1_struct_0(A))))=> ! [D] :( m1_subset_1(D,k1_zfmisc_1(k1_zfmisc_1(u1_struct_0(B))))=> ( ( g1_pre_topc(u1_struct_0(A),u1_pre_topc(A)) = g1_pre_topc(u1_struct_0(B),u1_pre_topc(B))& C = D& v1_tops_2(C,A) )=> v1_tops_2(D,B) ) ) ) ) ) )).
+fof(t65_pre_topc,axiom,(! [A] :( l1_pre_topc(A)=> ! [B] :( l1_pre_topc(B)=> ( m1_pre_topc(A,B)<=> m1_pre_topc(A,g1_pre_topc(u1_struct_0(B),u1_pre_topc(B))) ) ) ) )).
+fof(t2_tsep_1,axiom,(! [A] :( l1_pre_topc(A)=> m1_pre_topc(A,A) ) )).
+fof(t35_tops_2,axiom,(! [A] :( l1_pre_topc(A)=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(k1_zfmisc_1(u1_struct_0(A))))=> ! [C] :( m1_pre_topc(C,A)=> ( v1_tops_2(B,A)=> ! [D] :( m1_subset_1(D,k1_zfmisc_1(k1_zfmisc_1(u1_struct_0(C))))=> ( D = B=> v1_tops_2(D,C) ) ) ) ) ) ) )).

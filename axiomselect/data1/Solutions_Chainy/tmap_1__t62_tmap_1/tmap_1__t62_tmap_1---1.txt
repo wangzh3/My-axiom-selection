@@ -1,0 +1,10 @@
+t62_tmap_1 conjecture
+d4_tmap_1 axiom
+fc6_relat_1 axiom
+cc2_relat_1 axiom
+dt_k2_tmap_1 axiom
+dt_l1_pre_topc axiom
+redefinition_k2_partfun1 axiom
+t175_funct_2 axiom
+dt_m1_pre_topc axiom
+redefinition_k8_relset_1 axiom

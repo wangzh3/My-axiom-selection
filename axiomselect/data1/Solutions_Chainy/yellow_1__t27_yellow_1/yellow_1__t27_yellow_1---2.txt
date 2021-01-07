@@ -1,0 +1,10 @@
+t27_yellow_1 conjecture
+fc1_funcop_1 axiom
+t69_enumset1 axiom
+fc17_funcop_1 axiom
+redefinition_k7_funcop_1 axiom
+fc20_funcop_1 axiom
+fc10_yellow_1 axiom
+d5_yellow_1 axiom
+t26_yellow_1 axiom
+t1_zfmisc_1 axiom

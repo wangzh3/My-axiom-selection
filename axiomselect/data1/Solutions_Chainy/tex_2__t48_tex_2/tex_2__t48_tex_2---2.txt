@@ -1,0 +1,6 @@
+t48_tex_2 conjecture
+d2_tops_3 axiom
+d7_tex_2 axiom
+t41_tex_2 axiom
+t79_tops_1 axiom
+d10_xboole_0 axiom

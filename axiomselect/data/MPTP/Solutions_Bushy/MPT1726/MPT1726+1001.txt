@@ -1,0 +1,12 @@
+commutativity_k1_tsep_1 axiom
+dt_k1_tsep_1 axiom
+dt_k2_tsep_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+existence_l1_pre_topc axiom
+existence_m1_pre_topc axiom
+symmetry_r1_tsep_1 axiom
+t22_tsep_1 axiom
+t23_tmap_1 axiom
+t34_tmap_1 axiom
+t35_tmap_1 conjecture

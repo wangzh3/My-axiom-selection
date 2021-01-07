@@ -1,0 +1,3 @@
+t36_tops_1 conjecture
+fc5_tops_1 axiom
+redefinition_k4_subset_1 axiom

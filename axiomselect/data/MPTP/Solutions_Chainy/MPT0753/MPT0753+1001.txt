@@ -1,0 +1,5 @@
+d19_relat_1 axiom
+d7_ordinal1 axiom
+t98_relat_1 axiom
+t99_relat_1 axiom
+t46_ordinal1 conjecture

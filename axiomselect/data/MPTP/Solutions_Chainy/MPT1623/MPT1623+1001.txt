@@ -1,0 +1,5 @@
+d1_waybel_0 axiom
+d9_orders_2 axiom
+dt_u1_orders_2 axiom
+free_g1_orders_2 axiom
+t3_waybel_0 conjecture

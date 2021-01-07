@@ -1,0 +1,6 @@
+t22_lattices conjecture
+dt_k1_lattices axiom
+dt_l3_lattices axiom
+d5_lattices axiom
+t17_lattices axiom
+d3_lattices axiom

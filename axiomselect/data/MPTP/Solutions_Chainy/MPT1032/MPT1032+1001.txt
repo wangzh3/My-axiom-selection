@@ -1,0 +1,5 @@
+d10_xboole_0 axiom
+d2_funct_2 axiom
+d3_tarski axiom
+d5_partfun1 axiom
+t141_funct_2 conjecture

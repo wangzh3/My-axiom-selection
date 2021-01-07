@@ -1,0 +1,5 @@
+commutativity_k2_tarski axiom
+t55_zfmisc_1 axiom
+t57_zfmisc_1 axiom
+t83_xboole_1 axiom
+t72_zfmisc_1 conjecture

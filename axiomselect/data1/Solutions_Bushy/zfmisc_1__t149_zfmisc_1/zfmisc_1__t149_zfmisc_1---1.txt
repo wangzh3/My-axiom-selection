@@ -1,0 +1,11 @@
+t149_zfmisc_1 conjecture
+l1_zfmisc_1 axiom
+t12_xboole_1 axiom
+commutativity_k2_xboole_0 axiom
+d7_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+t16_xboole_1 axiom
+t1_xboole_1 axiom
+t1_boole axiom
+commutativity_k3_xboole_0 axiom
+t23_xboole_1 axiom

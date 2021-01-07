@@ -1,0 +1,14 @@
+t26_tops_2 conjecture
+dt_k5_setfam_1 axiom
+t5_subset axiom
+d1_tops_2 axiom
+t2_subset axiom
+t4_subset_1 axiom
+d1_pre_topc axiom
+t4_subset axiom
+t10_subset_1 axiom
+d5_pre_topc axiom
+t7_subset_1 axiom
+t3_subset axiom
+t48_subset_1 axiom
+dt_u1_pre_topc axiom

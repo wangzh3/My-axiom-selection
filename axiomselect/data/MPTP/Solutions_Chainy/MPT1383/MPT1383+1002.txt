@@ -1,0 +1,6 @@
+d1_connsp_2 axiom
+dt_k1_tops_1 axiom
+fc9_tops_1 axiom
+t44_tops_1 axiom
+t54_tops_1 axiom
+t8_connsp_2 conjecture

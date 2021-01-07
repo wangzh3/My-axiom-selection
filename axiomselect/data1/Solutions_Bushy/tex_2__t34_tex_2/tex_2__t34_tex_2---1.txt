@@ -1,0 +1,3 @@
+t34_tex_2 conjecture
+t26_tex_2 axiom
+t10_tsep_1 axiom

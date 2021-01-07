@@ -1,0 +1,12 @@
+cc1_relset_1 axiom
+d10_xboole_0 axiom
+d12_pre_topc axiom
+dt_k2_pre_topc axiom
+dt_k8_relset_1 axiom
+projectivity_k2_pre_topc axiom
+redefinition_k8_relset_1 axiom
+t178_relat_1 axiom
+t48_pre_topc axiom
+t49_pre_topc axiom
+t52_pre_topc axiom
+t56_tops_2 conjecture

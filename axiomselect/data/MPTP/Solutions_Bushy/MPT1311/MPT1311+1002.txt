@@ -1,0 +1,13 @@
+cc2_pre_topc axiom
+d1_setfam_1 axiom
+dt_k6_setfam_1 axiom
+dt_k7_setfam_1 axiom
+existence_l1_struct_0 axiom
+fc3_struct_0 axiom
+redefinition_k6_setfam_1 axiom
+t12_tops_2 axiom
+t16_tops_2 axiom
+t26_tops_2 axiom
+t29_tops_1 axiom
+t6_boole axiom
+t29_tops_2 conjecture

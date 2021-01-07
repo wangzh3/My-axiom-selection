@@ -1,0 +1,7 @@
+t132_funct_2 conjecture
+cc5_funct_2 axiom
+t2_xboole_1 axiom
+t69_xboole_1 axiom
+l13_xboole_0 axiom
+t65_xboole_1 axiom
+cc1_partfun1 axiom

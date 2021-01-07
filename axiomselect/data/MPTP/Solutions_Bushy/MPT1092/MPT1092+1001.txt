@@ -1,0 +1,3 @@
+fc13_finset_1 axiom
+t146_relat_1 axiom
+t26_finset_1 conjecture

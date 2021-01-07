@@ -1,0 +1,6 @@
+t12_ordinal1 conjecture
+d1_ordinal1 axiom
+d3_xboole_0 axiom
+t10_ordinal1 axiom
+d1_tarski axiom
+antisymmetry_r2_hidden axiom

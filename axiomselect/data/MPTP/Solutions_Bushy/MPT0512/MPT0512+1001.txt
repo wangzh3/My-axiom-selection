@@ -1,0 +1,5 @@
+d2_xboole_0 axiom
+dt_o_0_0_xboole_0 axiom
+fc16_relat_1 axiom
+t6_boole axiom
+t110_relat_1 conjecture

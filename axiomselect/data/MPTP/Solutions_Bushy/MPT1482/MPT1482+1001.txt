@@ -1,0 +1,4 @@
+cc2_lattice3 axiom
+dt_k11_lattice3 axiom
+l28_lattice3 axiom
+t15_lattice3 conjecture

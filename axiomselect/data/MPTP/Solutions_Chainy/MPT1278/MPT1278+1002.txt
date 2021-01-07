@@ -1,0 +1,4 @@
+d10_xboole_0 axiom
+t86_tops_1 axiom
+t92_tops_1 axiom
+t97_tops_1 conjecture

@@ -1,0 +1,2 @@
+t156_funct_2 conjecture
+t155_funct_2 axiom

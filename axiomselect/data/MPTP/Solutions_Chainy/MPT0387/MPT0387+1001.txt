@@ -1,0 +1,4 @@
+d10_xboole_0 axiom
+t2_xboole_1 axiom
+t4_setfam_1 axiom
+t5_setfam_1 conjecture

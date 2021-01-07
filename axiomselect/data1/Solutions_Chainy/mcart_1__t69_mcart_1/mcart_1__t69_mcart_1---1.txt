@@ -1,0 +1,4 @@
+t69_mcart_1 conjecture
+t28_mcart_1 axiom
+l44_mcart_1 axiom
+d5_mcart_1 axiom

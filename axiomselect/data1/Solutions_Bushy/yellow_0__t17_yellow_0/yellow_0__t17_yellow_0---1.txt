@@ -1,0 +1,7 @@
+t17_yellow_0 conjecture
+d9_lattice3 axiom
+fraenkel_a_2_0_yellow_0 axiom
+d12_lattice3 axiom
+t15_yellow_0 axiom
+t16_yellow_0 axiom
+d8_lattice3 axiom

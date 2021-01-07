@@ -1,0 +1,8 @@
+d1_funct_2 axiom
+redefinition_k1_relset_1 axiom
+t21_relat_1 axiom
+t3_subset axiom
+t45_ordinal1 axiom
+t64_relat_1 axiom
+t65_relat_1 axiom
+t3_funct_2 conjecture

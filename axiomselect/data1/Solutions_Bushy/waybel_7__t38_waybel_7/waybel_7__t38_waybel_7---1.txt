@@ -1,0 +1,9 @@
+t38_waybel_7 conjecture
+cc2_lattice3 axiom
+t34_waybel_0 axiom
+fc12_waybel_0 axiom
+d6_waybel_7 axiom
+dt_k1_yellow_0 axiom
+t37_waybel_7 axiom
+fc8_waybel_0 axiom
+dt_k5_waybel_0 axiom

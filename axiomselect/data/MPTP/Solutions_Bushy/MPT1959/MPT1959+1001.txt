@@ -1,0 +1,10 @@
+d20_waybel_0 axiom
+d7_subset_1 axiom
+dt_k3_yellow_0 axiom
+t1_subset axiom
+t2_subset axiom
+t2_tarski axiom
+t44_yellow_0 axiom
+t4_subset axiom
+t5_subset axiom
+t8_waybel_7 conjecture

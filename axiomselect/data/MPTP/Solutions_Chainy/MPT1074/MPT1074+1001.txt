@@ -1,0 +1,6 @@
+d3_tarski axiom
+redefinition_k2_relset_1 axiom
+redefinition_k3_funct_2 axiom
+t17_funct_2 axiom
+t1_subset axiom
+t191_funct_2 conjecture

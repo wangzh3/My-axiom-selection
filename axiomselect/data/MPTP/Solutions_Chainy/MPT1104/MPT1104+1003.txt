@@ -1,0 +1,16 @@
+commutativity_k2_xboole_0 axiom
+d2_xboole_0 axiom
+dt_k4_subset_1 axiom
+redefinition_k4_subset_1 axiom
+redefinition_k7_subset_1 axiom
+redefinition_k9_setfam_1 axiom
+symmetry_r1_xboole_0 axiom
+t1_boole axiom
+t39_xboole_1 axiom
+t40_xboole_1 axiom
+t66_xboole_1 axiom
+t70_xboole_1 axiom
+t79_xboole_1 axiom
+t81_xboole_1 axiom
+t88_xboole_1 axiom
+t25_pre_topc conjecture

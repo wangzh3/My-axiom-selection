@@ -1,0 +1,16 @@
+t48_setfam_1 conjecture
+t47_setfam_1 axiom
+dt_k5_setfam_1 axiom
+d5_subset_1 axiom
+dt_k7_setfam_1 axiom
+redefinition_k7_subset_1 axiom
+redefinition_k6_setfam_1 axiom
+d4_subset_1 axiom
+dt_k6_setfam_1 axiom
+t3_subset axiom
+involutiveness_k3_subset_1 axiom
+involutiveness_k7_setfam_1 axiom
+t46_setfam_1 axiom
+dt_k2_subset_1 axiom
+redefinition_k5_setfam_1 axiom
+d10_xboole_0 axiom

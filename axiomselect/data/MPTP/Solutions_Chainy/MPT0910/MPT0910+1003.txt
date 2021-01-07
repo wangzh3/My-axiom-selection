@@ -1,0 +1,6 @@
+dt_k5_mcart_1 axiom
+dt_k6_mcart_1 axiom
+dt_k7_mcart_1 axiom
+t48_mcart_1 axiom
+t50_mcart_1 axiom
+t70_mcart_1 conjecture

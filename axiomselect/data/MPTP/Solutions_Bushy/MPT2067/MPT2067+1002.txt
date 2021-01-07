@@ -1,0 +1,17 @@
+dt_k2_pre_topc axiom
+dt_k2_struct_0 axiom
+dt_k2_yellow19 axiom
+dt_k3_yellow19 axiom
+dt_l1_pre_topc axiom
+fc2_yellow19 axiom
+fc3_yellow19 axiom
+fc4_yellow19 axiom
+fc5_struct_0 axiom
+fc5_yellow19 axiom
+t11_yellow19 axiom
+t12_yellow19 axiom
+t15_yellow19 axiom
+t23_yellow19 axiom
+t4_subset axiom
+t7_boole axiom
+t27_yellow19 conjecture

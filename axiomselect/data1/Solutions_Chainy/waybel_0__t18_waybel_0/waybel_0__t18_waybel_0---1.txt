@@ -1,0 +1,16 @@
+t18_waybel_0 conjecture
+cc4_relset_1 axiom
+d16_waybel_0 axiom
+d18_waybel_0 axiom
+d1_tarski axiom
+d1_zfmisc_1 axiom
+d2_subset_1 axiom
+d9_orders_2 axiom
+dt_k4_waybel_0 axiom
+dt_k6_waybel_0 axiom
+dt_u1_orders_2 axiom
+redefinition_k6_domain_1 axiom
+t1_subset axiom
+t37_zfmisc_1 axiom
+t5_subset axiom
+t7_boole axiom

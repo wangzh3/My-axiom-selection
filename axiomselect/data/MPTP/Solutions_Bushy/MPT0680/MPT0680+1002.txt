@@ -1,0 +1,13 @@
+antisymmetry_r2_hidden axiom
+d16_relat_1 axiom
+d8_funct_1 axiom
+dt_k6_subset_1 axiom
+existence_m1_subset_1 axiom
+fc2_xboole_0 axiom
+redefinition_k6_subset_1 axiom
+t117_funct_1 axiom
+t1_subset axiom
+t20_zfmisc_1 axiom
+t2_subset axiom
+t7_boole axiom
+t124_funct_1 conjecture

@@ -1,0 +1,12 @@
+t23_zfmisc_1 conjecture
+t77_enumset1 axiom
+t43_xboole_1 axiom
+t40_xboole_1 axiom
+t82_enumset1 axiom
+t36_xboole_1 axiom
+t109_xboole_1 axiom
+t10_xboole_1 axiom
+t41_enumset1 axiom
+t20_zfmisc_1 axiom
+commutativity_k2_xboole_0 axiom
+d10_xboole_0 axiom

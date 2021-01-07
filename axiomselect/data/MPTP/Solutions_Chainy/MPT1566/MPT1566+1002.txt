@@ -1,0 +1,9 @@
+d11_yellow_0 axiom
+d9_lattice3 axiom
+dt_k3_yellow_0 axiom
+rc2_subset_1 axiom
+t30_yellow_0 axiom
+t42_yellow_0 axiom
+t4_subset_1 axiom
+t5_subset axiom
+t44_yellow_0 conjecture

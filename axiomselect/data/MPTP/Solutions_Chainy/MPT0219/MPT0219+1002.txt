@@ -1,0 +1,5 @@
+commutativity_k2_xboole_0 axiom
+t6_zfmisc_1 axiom
+t7_xboole_1 axiom
+t82_enumset1 axiom
+t13_zfmisc_1 conjecture

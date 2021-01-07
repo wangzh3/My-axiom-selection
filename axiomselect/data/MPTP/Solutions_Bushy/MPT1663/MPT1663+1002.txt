@@ -1,0 +1,14 @@
+cc2_lattice3 axiom
+d20_waybel_0 axiom
+dt_k2_yellow_0 axiom
+existence_m1_subset_1 axiom
+t1_xboole_1 axiom
+t2_subset axiom
+t2_waybel_0 axiom
+t31_yellow_0 axiom
+t3_subset axiom
+t4_subset axiom
+t55_yellow_0 axiom
+t6_boole axiom
+t6_yellow_0 axiom
+t43_waybel_0 conjecture

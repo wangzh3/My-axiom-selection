@@ -1,0 +1,8 @@
+t71_funct_1 conjecture
+t70_funct_1 axiom
+t71_relat_1 axiom
+t198_relat_1 axiom
+t43_funct_1 axiom
+fc3_funct_1 axiom
+commutativity_k3_xboole_0 axiom
+t94_relat_1 axiom

@@ -1,0 +1,9 @@
+t39_yellow_0 conjecture
+reflexivity_r3_orders_2 axiom
+dt_l1_orders_2 axiom
+redefinition_k6_domain_1 axiom
+t30_yellow_0 axiom
+t31_yellow_0 axiom
+redefinition_r3_orders_2 axiom
+t7_yellow_0 axiom
+fc2_struct_0 axiom

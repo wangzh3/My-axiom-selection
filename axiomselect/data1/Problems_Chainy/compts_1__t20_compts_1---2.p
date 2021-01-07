@@ -1,0 +1,8 @@
+fof(t20_compts_1,conjecture,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A)))=> ( ( v8_pre_topc(A)& v2_compts_1(B,A)& v2_compts_1(C,A) )=> v2_compts_1(k9_subset_1(u1_struct_0(A),B,C),A) ) ) ) ) )).
+fof(t16_compts_1,axiom,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ( ( v8_pre_topc(A)& v2_compts_1(B,A) )=> v4_pre_topc(B,A) ) ) ) )).
+fof(fc4_tops_1,axiom,(! [A,B,C] :( ( v2_pre_topc(A)& l1_pre_topc(A)& v4_pre_topc(B,A)& m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))& v4_pre_topc(C,A)& m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A))) )=> v4_pre_topc(k3_xboole_0(B,C),A) ) )).
+fof(redefinition_k9_subset_1,axiom,(! [A,B,C] :( m1_subset_1(C,k1_zfmisc_1(A))=> k9_subset_1(A,B,C) = k3_xboole_0(B,C) ) )).
+fof(t18_compts_1,axiom,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A)))=> ( ( v2_compts_1(B,A)& r1_tarski(C,B)& v4_pre_topc(C,A) )=> v2_compts_1(C,A) ) ) ) ) )).
+fof(t42_subset_1,axiom,(! [A,B] :( m1_subset_1(B,k1_zfmisc_1(A))=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(A))=> r1_tarski(k3_subset_1(A,B),k3_subset_1(A,k9_subset_1(A,B,C))) ) ) )).
+fof(t31_subset_1,axiom,(! [A,B] :( m1_subset_1(B,k1_zfmisc_1(A))=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(A))=> ( r1_tarski(B,C)<=> r1_tarski(k3_subset_1(A,C),k3_subset_1(A,B)) ) ) ) )).
+fof(dt_k9_subset_1,axiom,(! [A,B,C] :( m1_subset_1(C,k1_zfmisc_1(A))=> m1_subset_1(k9_subset_1(A,B,C),k1_zfmisc_1(A)) ) )).

@@ -1,0 +1,8 @@
+t25_ordinal1 conjecture
+antisymmetry_r2_hidden axiom
+d9_xboole_0 axiom
+t24_ordinal1 axiom
+d3_tarski axiom
+reflexivity_r3_xboole_0 axiom
+t23_ordinal1 axiom
+t3_ordinal1 axiom

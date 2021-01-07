@@ -1,0 +1,6 @@
+t174_funct_2 conjecture
+t162_funct_1 axiom
+t94_relat_1 axiom
+t3_subset axiom
+t159_relat_1 axiom
+fc3_funct_1 axiom

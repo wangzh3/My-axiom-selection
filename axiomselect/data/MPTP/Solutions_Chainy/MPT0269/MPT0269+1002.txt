@@ -1,0 +1,6 @@
+t2_xboole_1 axiom
+t39_zfmisc_1 axiom
+t41_enumset1 axiom
+t44_xboole_1 axiom
+t69_enumset1 axiom
+t66_zfmisc_1 conjecture

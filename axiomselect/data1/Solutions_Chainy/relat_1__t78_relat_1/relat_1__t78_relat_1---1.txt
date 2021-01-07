@@ -1,0 +1,3 @@
+t78_relat_1 conjecture
+d10_xboole_0 axiom
+t77_relat_1 axiom

@@ -1,0 +1,6 @@
+t84_tmap_1 conjecture
+t5_connsp_2 axiom
+t83_tmap_1 axiom
+t81_tmap_1 axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom

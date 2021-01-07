@@ -1,0 +1,8 @@
+cc2_relat_1 axiom
+cc2_relset_1 axiom
+cc5_funct_2 axiom
+d19_relat_1 axiom
+d4_partfun1 axiom
+fc6_relat_1 axiom
+t46_relat_1 axiom
+t200_funct_2 conjecture

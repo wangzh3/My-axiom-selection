@@ -1,0 +1,5 @@
+t66_tex_2 conjecture
+fc1_xboole_0 axiom
+t65_tex_2 axiom
+t35_tex_2 axiom
+t4_subset_1 axiom

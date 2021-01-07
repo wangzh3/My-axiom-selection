@@ -1,0 +1,9 @@
+t14_relat_1 conjecture
+t13_relat_1 axiom
+d3_tarski axiom
+t48_xboole_1 axiom
+commutativity_k3_xboole_0 axiom
+d3_xboole_0 axiom
+d4_xboole_0 axiom
+t22_xboole_1 axiom
+fc1_relat_1 axiom

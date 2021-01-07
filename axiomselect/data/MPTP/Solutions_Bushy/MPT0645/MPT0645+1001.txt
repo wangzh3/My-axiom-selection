@@ -1,0 +1,2 @@
+fc4_funct_1 axiom
+t52_funct_1 conjecture

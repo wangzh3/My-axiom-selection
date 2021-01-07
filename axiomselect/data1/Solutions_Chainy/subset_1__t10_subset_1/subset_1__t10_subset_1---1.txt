@@ -1,0 +1,7 @@
+t10_subset_1 conjecture
+d2_subset_1 axiom
+t2_xboole_1 axiom
+d3_tarski axiom
+t7_boole axiom
+l3_subset_1 axiom
+d10_xboole_0 axiom

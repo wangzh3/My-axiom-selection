@@ -1,0 +1,8 @@
+d2_tops_3 axiom
+d7_tex_2 axiom
+dt_k2_pre_topc axiom
+redefinition_k9_subset_1 axiom
+t28_xboole_1 axiom
+t3_subset axiom
+t41_tex_2 axiom
+t48_tex_2 conjecture

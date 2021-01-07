@@ -1,0 +1,5 @@
+d3_subset_1 axiom
+d5_subset_1 axiom
+t2_xboole_1 axiom
+t38_xboole_1 axiom
+t38_subset_1 conjecture

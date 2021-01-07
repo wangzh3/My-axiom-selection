@@ -1,0 +1,7 @@
+d12_funct_1 axiom
+d3_tarski axiom
+dt_k2_funct_1 axiom
+t12_funct_1 axiom
+t54_funct_1 axiom
+t55_funct_1 axiom
+t177_funct_1 conjecture

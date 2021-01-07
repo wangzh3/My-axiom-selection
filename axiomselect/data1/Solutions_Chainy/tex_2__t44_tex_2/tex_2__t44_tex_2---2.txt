@@ -1,0 +1,12 @@
+t44_tex_2 conjecture
+d1_tex_2 axiom
+redefinition_k6_domain_1 axiom
+t36_tex_2 axiom
+cc31_tex_2 axiom
+t34_tex_2 axiom
+t2_subset axiom
+dt_l1_pre_topc axiom
+t4_subset axiom
+dt_m1_pre_topc axiom
+fc7_struct_0 axiom
+cc1_subset_1 axiom

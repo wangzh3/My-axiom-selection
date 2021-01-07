@@ -1,0 +1,4 @@
+d7_xboole_0 axiom
+t137_funct_1 axiom
+t171_relat_1 axiom
+t141_funct_1 conjecture

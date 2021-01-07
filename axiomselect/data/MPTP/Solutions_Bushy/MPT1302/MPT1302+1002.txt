@@ -1,0 +1,10 @@
+d1_tops_2 axiom
+d3_xboole_0 axiom
+dt_k4_subset_1 axiom
+redefinition_k4_subset_1 axiom
+t1_boole axiom
+t1_subset axiom
+t2_subset axiom
+t4_subset axiom
+t6_boole axiom
+t20_tops_2 conjecture

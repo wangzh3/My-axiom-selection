@@ -1,0 +1,13 @@
+t164_funct_1 conjecture
+t152_funct_1 axiom
+t139_funct_1 axiom
+t169_relat_1 axiom
+t148_relat_1 axiom
+t91_relat_1 axiom
+t192_relat_1 axiom
+t100_relat_1 axiom
+dt_k7_relat_1 axiom
+t145_relat_1 axiom
+idempotence_k3_xboole_0 axiom
+t18_zfmisc_1 axiom
+t90_relat_1 axiom

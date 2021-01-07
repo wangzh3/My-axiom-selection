@@ -1,0 +1,16 @@
+t129_zfmisc_1 conjecture
+t106_zfmisc_1 axiom
+t69_enumset1 axiom
+d1_zfmisc_1 axiom
+d1_tarski axiom
+t92_zfmisc_1 axiom
+t74_enumset1 axiom
+t72_enumset1 axiom
+t75_enumset1 axiom
+d3_tarski axiom
+t70_enumset1 axiom
+t99_zfmisc_1 axiom
+t71_enumset1 axiom
+t73_enumset1 axiom
+d1_enumset1 axiom
+t42_zfmisc_1 axiom

@@ -1,0 +1,15 @@
+d1_funct_2 axiom
+l222_relat_1 axiom
+redefinition_k1_relset_1 axiom
+t113_zfmisc_1 axiom
+t18_relat_1 axiom
+t202_relat_1 axiom
+t21_relat_1 axiom
+t22_relset_1 axiom
+t3_subset axiom
+t4_subset_1 axiom
+t60_relat_1 axiom
+t64_relat_1 axiom
+t65_relat_1 axiom
+t7_tarski axiom
+t3_funct_2 conjecture

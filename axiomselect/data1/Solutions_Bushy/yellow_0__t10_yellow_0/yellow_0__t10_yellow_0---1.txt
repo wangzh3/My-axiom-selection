@@ -1,0 +1,4 @@
+t10_yellow_0 conjecture
+d9_lattice3 axiom
+d8_lattice3 axiom
+d3_xboole_0 axiom

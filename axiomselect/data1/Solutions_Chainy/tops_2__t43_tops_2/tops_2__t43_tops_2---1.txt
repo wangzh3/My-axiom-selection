@@ -1,0 +1,12 @@
+t43_tops_2 conjecture
+commutativity_k9_subset_1 axiom
+d10_xboole_0 axiom
+dt_k1_tops_2 axiom
+idempotence_k3_xboole_0 axiom
+redefinition_k5_setfam_1 axiom
+redefinition_k9_subset_1 axiom
+t29_pre_topc axiom
+t3_subset axiom
+t42_tops_2 axiom
+t95_zfmisc_1 axiom
+t99_zfmisc_1 axiom

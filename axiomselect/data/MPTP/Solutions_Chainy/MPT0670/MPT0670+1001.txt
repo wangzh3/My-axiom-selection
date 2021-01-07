@@ -1,0 +1,6 @@
+dt_k8_relat_1 axiom
+fc2_funct_1 axiom
+fc3_funct_1 axiom
+t123_relat_1 axiom
+t85_funct_1 axiom
+t87_funct_1 conjecture

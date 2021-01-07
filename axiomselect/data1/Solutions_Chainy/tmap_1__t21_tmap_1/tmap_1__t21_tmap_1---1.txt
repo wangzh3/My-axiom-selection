@@ -1,0 +1,6 @@
+t21_tmap_1 conjecture
+t5_connsp_2 axiom
+t20_tmap_1 axiom
+dt_m1_pre_topc axiom
+fc1_tmap_1 axiom
+dt_k1_tsep_1 axiom

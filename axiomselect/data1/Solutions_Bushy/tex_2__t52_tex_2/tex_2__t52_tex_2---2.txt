@@ -1,0 +1,15 @@
+t52_tex_2 conjecture
+dt_u1_pre_topc axiom
+t51_tex_2 axiom
+t4_tsep_1 axiom
+t26_tex_2 axiom
+cc1_subset_1 axiom
+t34_tex_2 axiom
+t3_subset axiom
+dt_m1_pre_topc axiom
+t1_tsep_1 axiom
+abstractness_v1_pre_topc axiom
+t5_tsep_1 axiom
+free_g1_pre_topc axiom
+d7_tex_2 axiom
+t8_boole axiom

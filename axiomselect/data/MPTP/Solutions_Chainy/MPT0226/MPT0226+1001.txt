@@ -1,0 +1,4 @@
+l32_xboole_1 axiom
+t17_zfmisc_1 axiom
+t6_zfmisc_1 axiom
+t21_zfmisc_1 conjecture

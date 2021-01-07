@@ -1,0 +1,4 @@
+d10_xboole_0 axiom
+d3_tarski axiom
+d5_xboole_0 axiom
+t32_xboole_1 conjecture

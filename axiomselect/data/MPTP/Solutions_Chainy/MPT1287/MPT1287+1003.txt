@@ -1,0 +1,10 @@
+commutativity_k4_subset_1 axiom
+commutativity_k9_subset_1 axiom
+dt_k3_subset_1 axiom
+dt_k9_subset_1 axiom
+involutiveness_k3_subset_1 axiom
+t101_tops_1 axiom
+t108_tops_1 axiom
+t32_subset_1 axiom
+t33_subset_1 axiom
+t109_tops_1 conjecture

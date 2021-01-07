@@ -1,0 +1,4 @@
+t173_relat_1 axiom
+t63_xboole_1 axiom
+t66_xboole_1 axiom
+t174_relat_1 conjecture

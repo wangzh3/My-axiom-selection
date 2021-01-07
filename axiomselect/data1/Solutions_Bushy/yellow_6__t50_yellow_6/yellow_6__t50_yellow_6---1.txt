@@ -1,0 +1,6 @@
+t50_yellow_6 conjecture
+d5_pre_topc axiom
+fraenkel_a_2_1_yellow_6 axiom
+d27_yellow_6 axiom
+t4_subset axiom
+dt_k13_yellow_6 axiom

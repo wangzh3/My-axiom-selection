@@ -1,0 +1,8 @@
+t175_funct_1 conjecture
+t5_subset axiom
+dt_o_0_0_xboole_0 axiom
+d3_tarski axiom
+t3_subset axiom
+d20_funct_1 axiom
+t6_boole axiom
+d4_funct_1 axiom

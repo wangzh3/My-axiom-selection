@@ -1,0 +1,8 @@
+t138_relat_1 conjecture
+t2_xboole_1 axiom
+t117_relat_1 axiom
+fc7_relat_1 axiom
+cc2_relat_1 axiom
+t4_subset_1 axiom
+t41_enumset1 axiom
+d10_xboole_0 axiom

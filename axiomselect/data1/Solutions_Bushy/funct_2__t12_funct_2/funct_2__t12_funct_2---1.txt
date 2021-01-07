@@ -1,0 +1,2 @@
+t12_funct_2 conjecture
+t11_funct_2 axiom

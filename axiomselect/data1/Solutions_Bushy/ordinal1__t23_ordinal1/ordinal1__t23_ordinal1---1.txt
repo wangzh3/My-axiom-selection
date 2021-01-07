@@ -1,0 +1,8 @@
+t23_ordinal1 conjecture
+d3_ordinal1 axiom
+t3_ordinal1 axiom
+d3_tarski axiom
+d2_ordinal1 axiom
+cc1_ordinal1 axiom
+cc2_ordinal1 axiom
+antisymmetry_r2_hidden axiom

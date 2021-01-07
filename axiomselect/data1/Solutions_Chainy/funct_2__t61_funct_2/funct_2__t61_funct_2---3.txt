@@ -1,0 +1,4 @@
+t61_funct_2 conjecture
+t7_funct_2 axiom
+t39_zfmisc_1 axiom
+t37_zfmisc_1 axiom

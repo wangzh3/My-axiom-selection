@@ -1,0 +1,6 @@
+t38_relat_1 conjecture
+d6_relat_1 axiom
+t13_relat_1 axiom
+t37_relat_1 axiom
+dt_k4_relat_1 axiom
+commutativity_k2_xboole_0 axiom

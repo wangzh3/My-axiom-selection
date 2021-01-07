@@ -1,0 +1,8 @@
+t12_waybel_7 conjecture
+dt_k3_yellow_1 axiom
+cc8_waybel_1 axiom
+t40_waybel_0 axiom
+fc1_waybel_7 axiom
+t4_subset axiom
+fc7_yellow_1 axiom
+t17_yellow_1 axiom

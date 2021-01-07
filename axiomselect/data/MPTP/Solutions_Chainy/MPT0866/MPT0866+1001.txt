@@ -1,0 +1,6 @@
+fc10_subset_1 axiom
+l139_zfmisc_1 axiom
+l13_xboole_0 axiom
+t2_subset axiom
+t8_mcart_1 axiom
+t24_mcart_1 conjecture

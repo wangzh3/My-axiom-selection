@@ -1,0 +1,11 @@
+t70_tops_2 conjecture
+cc1_relset_1 axiom
+t65_funct_1 axiom
+dt_k2_tops_2 axiom
+d3_struct_0 axiom
+t63_tops_2 axiom
+dt_l1_pre_topc axiom
+d5_tops_2 axiom
+d4_tops_2 axiom
+t62_tops_2 axiom
+dt_k2_funct_1 axiom

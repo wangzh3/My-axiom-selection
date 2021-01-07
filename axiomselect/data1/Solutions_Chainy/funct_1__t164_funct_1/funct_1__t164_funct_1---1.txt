@@ -1,0 +1,4 @@
+t164_funct_1 conjecture
+t152_funct_1 axiom
+d10_xboole_0 axiom
+t163_funct_1 axiom

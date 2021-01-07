@@ -1,0 +1,6 @@
+t32_orders_2 conjecture
+t30_orders_2 axiom
+t28_orders_2 axiom
+d10_orders_2 axiom
+irreflexivity_r2_orders_2 axiom
+t26_orders_2 axiom

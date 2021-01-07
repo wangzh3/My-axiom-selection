@@ -1,0 +1,13 @@
+commutativity_k2_xboole_0 axiom
+d1_tarski axiom
+d1_zfmisc_1 axiom
+d3_tarski axiom
+d3_xboole_0 axiom
+d5_xboole_0 axiom
+d7_xboole_0 axiom
+t1_xboole_1 axiom
+t28_xboole_1 axiom
+t36_xboole_1 axiom
+t63_xboole_1 axiom
+t79_xboole_1 axiom
+t84_zfmisc_1 conjecture

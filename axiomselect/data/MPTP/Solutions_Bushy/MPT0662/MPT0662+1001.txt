@@ -1,0 +1,12 @@
+commutativity_k3_xboole_0 axiom
+d4_funct_1 axiom
+d4_xboole_0 axiom
+dt_k7_relat_1 axiom
+fc8_funct_1 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t7_boole axiom
+t88_relat_1 axiom
+t90_relat_1 axiom
+t70_funct_1 conjecture

@@ -1,0 +1,3 @@
+t155_funct_1 axiom
+t164_funct_1 axiom
+t177_funct_1 conjecture

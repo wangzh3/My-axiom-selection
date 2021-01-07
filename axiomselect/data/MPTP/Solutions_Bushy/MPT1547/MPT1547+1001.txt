@@ -1,0 +1,6 @@
+cc2_lattice3 axiom
+commutativity_k12_lattice3 axiom
+redefinition_r3_orders_2 axiom
+reflexivity_r3_orders_2 axiom
+t23_yellow_0 axiom
+t25_yellow_0 conjecture

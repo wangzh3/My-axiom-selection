@@ -1,0 +1,14 @@
+fof(t40_tmap_1,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& m1_pre_topc(B,A) )=> ! [C] :( ( ~ v2_struct_0(C)& m1_pre_topc(C,A) )=> ! [D] :( ( ~ v2_struct_0(D)& m1_pre_topc(D,A) )=> ( ( r1_tsep_1(k1_tsep_1(A,B,C),D)=> ( r1_tsep_1(B,D)& r1_tsep_1(C,D) ) )& ( ( r1_tsep_1(B,D)& r1_tsep_1(C,D) )=> r1_tsep_1(k1_tsep_1(A,B,C),D) )& ( r1_tsep_1(D,k1_tsep_1(A,B,C))=> ( r1_tsep_1(D,B)& r1_tsep_1(D,C) ) )& ( ( r1_tsep_1(D,B)& r1_tsep_1(D,C) )=> r1_tsep_1(D,k1_tsep_1(A,B,C)) ) ) ) ) ) ) )).
+fof(symmetry_r1_tsep_1,axiom,(! [A,B] :( ( l1_struct_0(A)& l1_struct_0(B) )=> ( r1_tsep_1(A,B)=> r1_tsep_1(B,A) ) ) )).
+fof(t22_tsep_1,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& m1_pre_topc(B,A) )=> ! [C] :( ( ~ v2_struct_0(C)& m1_pre_topc(C,A) )=> m1_pre_topc(B,k1_tsep_1(A,B,C)) ) ) ) )).
+fof(rc11_pre_topc,axiom,(? [A] :( l1_pre_topc(A)& v2_struct_0(A)& v1_pre_topc(A) ) )).
+fof(rc2_pre_topc,axiom,(? [A] :( l1_pre_topc(A)& ~ v2_struct_0(A)& v1_pre_topc(A)& v2_pre_topc(A) ) )).
+fof(fc7_pre_topc,axiom,(! [A] :( ( ~ v2_struct_0(A)& l1_pre_topc(A) )=> ( ~ v2_struct_0(g1_pre_topc(u1_struct_0(A),u1_pre_topc(A)))& v1_pre_topc(g1_pre_topc(u1_struct_0(A),u1_pre_topc(A))) ) ) )).
+fof(t11_tmap_1,axiom,(! [A] :( l1_pre_topc(A)=> ! [B] :( m1_pre_topc(B,A)=> ( v1_pre_topc(g1_pre_topc(u1_struct_0(B),u1_pre_topc(B)))& m1_pre_topc(g1_pre_topc(u1_struct_0(B),u1_pre_topc(B)),A) ) ) ) )).
+fof(fc6_pre_topc,axiom,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ( v1_pre_topc(g1_pre_topc(u1_struct_0(A),u1_pre_topc(A)))& v2_pre_topc(g1_pre_topc(u1_struct_0(A),u1_pre_topc(A))) ) ) )).
+fof(t25_tmap_1,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& m1_pre_topc(B,A) )=> k1_tsep_1(A,B,B) = g1_pre_topc(u1_struct_0(B),u1_pre_topc(B)) ) ) )).
+fof(existence_l1_pre_topc,axiom,(? [A] : l1_pre_topc(A) )).
+fof(t39_tmap_1,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& m1_pre_topc(B,A) )=> ! [C] :( ( ~ v2_struct_0(C)& m1_pre_topc(C,A) )=> ! [D] :( ( ~ v2_struct_0(D)& m1_pre_topc(D,A) )=> ( ~ ( ~ r1_tsep_1(k1_tsep_1(A,B,C),D)& r1_tsep_1(B,D)& r1_tsep_1(C,D) )& ~ ( ~ ( r1_tsep_1(B,D)& r1_tsep_1(C,D) )& r1_tsep_1(k1_tsep_1(A,B,C),D) )& ~ ( ~ r1_tsep_1(D,k1_tsep_1(A,B,C))& r1_tsep_1(D,B)& r1_tsep_1(D,C) )& ~ ( ~ ( r1_tsep_1(D,B)& r1_tsep_1(D,C) )& r1_tsep_1(D,k1_tsep_1(A,B,C)) ) ) ) ) ) ) )).
+fof(t59_pre_topc,axiom,(! [A] :( l1_pre_topc(A)=> ! [B] :( m1_pre_topc(B,g1_pre_topc(u1_struct_0(A),u1_pre_topc(A)))=> m1_pre_topc(B,A) ) ) )).
+fof(dt_m1_pre_topc,axiom,(! [A] :( l1_pre_topc(A)=> ! [B] :( m1_pre_topc(B,A)=> l1_pre_topc(B) ) ) )).
+fof(cc1_pre_topc,axiom,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_pre_topc(B,A)=> v2_pre_topc(B) ) ) )).

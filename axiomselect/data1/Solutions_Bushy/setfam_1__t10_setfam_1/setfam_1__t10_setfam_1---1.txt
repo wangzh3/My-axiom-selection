@@ -1,0 +1,12 @@
+t10_setfam_1 conjecture
+commutativity_k2_xboole_0 axiom
+d1_setfam_1 axiom
+d3_tarski axiom
+d3_xboole_0 axiom
+d4_xboole_0 axiom
+dt_o_0_0_xboole_0 axiom
+fc5_xboole_0 axiom
+t1_boole axiom
+t6_boole axiom
+t7_setfam_1 axiom
+t7_xboole_1 axiom

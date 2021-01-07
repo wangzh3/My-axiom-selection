@@ -1,0 +1,6 @@
+commutativity_k3_xboole_0 axiom
+d1_tops_2 axiom
+d4_xboole_0 axiom
+dt_k9_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t21_tops_2 conjecture

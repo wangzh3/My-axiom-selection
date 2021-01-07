@@ -1,0 +1,6 @@
+t106_tmap_1 conjecture
+dt_u1_pre_topc axiom
+d5_pre_topc axiom
+t103_tmap_1 axiom
+free_g1_pre_topc axiom
+d9_tmap_1 axiom

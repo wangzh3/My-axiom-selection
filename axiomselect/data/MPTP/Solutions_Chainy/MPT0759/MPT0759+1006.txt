@@ -1,0 +1,7 @@
+commutativity_k2_xboole_0 axiom
+d1_ordinal1 axiom
+redefinition_k6_subset_1 axiom
+t141_zfmisc_1 axiom
+t14_ordinal1 axiom
+t46_zfmisc_1 axiom
+t52_ordinal1 conjecture

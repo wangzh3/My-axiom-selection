@@ -1,0 +1,10 @@
+commutativity_k2_xboole_0 axiom
+d3_tarski axiom
+d4_subset_1 axiom
+d5_subset_1 axiom
+l3_subset_1 axiom
+t12_xboole_1 axiom
+t22_subset_1 axiom
+t36_xboole_1 axiom
+t45_xboole_1 axiom
+t39_subset_1 conjecture

@@ -1,0 +1,5 @@
+t36_connsp_2 conjecture
+t44_tops_1 axiom
+d2_connsp_2 axiom
+t1_xboole_1 axiom
+dt_m2_connsp_2 axiom

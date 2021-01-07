@@ -1,0 +1,2 @@
+d3_tarski axiom
+t1_xboole_1 conjecture

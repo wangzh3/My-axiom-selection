@@ -1,0 +1,11 @@
+d10_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+t12_xboole_1 axiom
+t37_xboole_1 axiom
+t66_xboole_1 axiom
+t70_xboole_1 axiom
+t79_xboole_1 axiom
+t80_xboole_1 axiom
+t81_xboole_1 axiom
+t85_xboole_1 axiom
+t106_xboole_1 conjecture

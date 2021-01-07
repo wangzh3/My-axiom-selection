@@ -1,0 +1,6 @@
+t45_yellow_6 conjecture
+dt_k4_yellow_6 axiom
+t42_yellow_6 axiom
+cc4_yellow_6 axiom
+dt_l1_pre_topc axiom
+d20_yellow_6 axiom

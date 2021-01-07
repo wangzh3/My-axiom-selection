@@ -1,0 +1,6 @@
+t35_waybel_0 conjecture
+t26_orders_2 axiom
+d16_waybel_0 axiom
+d2_waybel_0 axiom
+t24_orders_2 axiom
+dt_k4_waybel_0 axiom

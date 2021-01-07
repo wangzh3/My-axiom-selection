@@ -1,0 +1,16 @@
+t132_funct_2 conjecture
+cc5_funct_2 axiom
+t69_enumset1 axiom
+t74_enumset1 axiom
+t72_enumset1 axiom
+t75_enumset1 axiom
+l13_xboole_0 axiom
+t70_enumset1 axiom
+t71_enumset1 axiom
+d6_enumset1 axiom
+t1_zfmisc_1 axiom
+t73_enumset1 axiom
+cc1_partfun1 axiom
+t1_subset axiom
+rc2_subset_1 axiom
+cc1_subset_1 axiom

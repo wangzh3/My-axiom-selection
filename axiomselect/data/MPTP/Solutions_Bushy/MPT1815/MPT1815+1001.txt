@@ -1,0 +1,3 @@
+t129_tmap_1 axiom
+t88_tsep_1 axiom
+t131_tmap_1 conjecture

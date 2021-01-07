@@ -1,0 +1,17 @@
+d1_relat_1 axiom
+d4_xboole_0 axiom
+d5_xboole_0 axiom
+d7_xboole_0 axiom
+dt_k8_relat_1 axiom
+t116_relat_1 axiom
+t12_xboole_1 axiom
+t137_relat_1 axiom
+t138_relat_1 axiom
+t151_relat_1 axiom
+t37_xboole_1 axiom
+t40_xboole_1 axiom
+t4_boole axiom
+t56_relat_1 axiom
+t60_relat_1 axiom
+t64_zfmisc_1 axiom
+t152_relat_1 conjecture

@@ -1,0 +1,8 @@
+t80_tmap_1 conjecture
+dt_k3_tmap_1 axiom
+d4_tmap_1 axiom
+redefinition_r1_funct_2 axiom
+d5_tmap_1 axiom
+rc7_pre_topc axiom
+redefinition_r2_funct_2 axiom
+cc1_subset_1 axiom

@@ -1,0 +1,12 @@
+t19_zfmisc_1 conjecture
+t45_enumset1 axiom
+t77_enumset1 axiom
+t7_xboole_1 axiom
+idempotence_k2_xboole_0 axiom
+t82_enumset1 axiom
+t17_xboole_1 axiom
+t19_xboole_1 axiom
+t26_xboole_1 axiom
+commutativity_k3_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+d10_xboole_0 axiom

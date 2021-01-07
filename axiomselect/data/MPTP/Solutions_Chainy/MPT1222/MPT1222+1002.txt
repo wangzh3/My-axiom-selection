@@ -1,0 +1,9 @@
+d10_setfam_1 axiom
+d5_subset_1 axiom
+dt_k7_subset_1 axiom
+dt_k8_setfam_1 axiom
+involutiveness_k3_subset_1 axiom
+redefinition_k7_subset_1 axiom
+t29_tops_1 axiom
+t4_subset_1 axiom
+t30_tops_1 conjecture

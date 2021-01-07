@@ -1,0 +1,5 @@
+d3_tex_2 axiom
+d4_tex_2 axiom
+dt_k1_tex_2 axiom
+l17_tex_2 axiom
+t20_tex_2 conjecture

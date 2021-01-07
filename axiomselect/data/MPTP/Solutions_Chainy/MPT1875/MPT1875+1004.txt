@@ -1,0 +1,9 @@
+cc1_tdlat_3 axiom
+cc5_tdlat_3 axiom
+dt_k1_pre_topc axiom
+fc2_pre_topc axiom
+l17_tex_2 axiom
+t26_tex_2 axiom
+t29_pre_topc axiom
+t35_tex_2 axiom
+t43_tex_2 conjecture

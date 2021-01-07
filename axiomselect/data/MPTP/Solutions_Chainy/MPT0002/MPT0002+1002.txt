@@ -1,0 +1,4 @@
+antisymmetry_r2_hidden axiom
+t1_xboole_0 axiom
+t2_tarski axiom
+t2_xboole_0 conjecture

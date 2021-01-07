@@ -1,0 +1,9 @@
+d10_xboole_0 axiom
+d3_tarski axiom
+dt_k2_pre_topc axiom
+t23_yellow19 axiom
+t3_subset axiom
+t48_pre_topc axiom
+t4_subset axiom
+t52_pre_topc axiom
+t25_yellow19 conjecture

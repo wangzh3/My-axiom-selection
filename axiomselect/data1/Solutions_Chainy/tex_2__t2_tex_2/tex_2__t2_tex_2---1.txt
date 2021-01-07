@@ -1,0 +1,7 @@
+t2_tex_2 conjecture
+t18_xboole_1 axiom
+t1_tex_2 axiom
+d10_xboole_0 axiom
+t26_xboole_1 axiom
+commutativity_k3_xboole_0 axiom
+t17_xboole_1 axiom

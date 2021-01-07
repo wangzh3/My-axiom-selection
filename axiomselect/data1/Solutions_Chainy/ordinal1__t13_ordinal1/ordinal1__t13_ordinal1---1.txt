@@ -1,0 +1,5 @@
+t13_ordinal1 conjecture
+d3_xboole_0 axiom
+d1_ordinal1 axiom
+d1_tarski axiom
+t10_ordinal1 axiom

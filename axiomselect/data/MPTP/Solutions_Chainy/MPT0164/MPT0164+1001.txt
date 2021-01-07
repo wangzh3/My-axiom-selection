@@ -1,0 +1,5 @@
+t47_enumset1 axiom
+t49_enumset1 axiom
+t60_enumset1 axiom
+t78_enumset1 axiom
+t80_enumset1 conjecture

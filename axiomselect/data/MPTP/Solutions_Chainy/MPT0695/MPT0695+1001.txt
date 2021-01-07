@@ -1,0 +1,12 @@
+commutativity_k3_xboole_0 axiom
+d10_xboole_0 axiom
+dt_k7_relat_1 axiom
+fc8_funct_1 axiom
+t139_funct_1 axiom
+t146_relat_1 axiom
+t148_funct_1 axiom
+t148_relat_1 axiom
+t162_relat_1 axiom
+t17_xboole_1 axiom
+t6_zfmisc_1 axiom
+t150_funct_1 conjecture

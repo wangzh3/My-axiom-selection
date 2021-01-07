@@ -1,0 +1,7 @@
+t58_zfmisc_1 conjecture
+l31_zfmisc_1 axiom
+l35_zfmisc_1 axiom
+t56_zfmisc_1 axiom
+commutativity_k3_xboole_0 axiom
+t3_xboole_0 axiom
+t66_xboole_1 axiom

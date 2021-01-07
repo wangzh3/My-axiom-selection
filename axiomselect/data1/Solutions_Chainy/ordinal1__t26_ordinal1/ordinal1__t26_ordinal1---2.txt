@@ -1,0 +1,5 @@
+t26_ordinal1 conjecture
+t24_ordinal1 axiom
+t7_ordinal1 axiom
+redefinition_r1_ordinal1 axiom
+connectedness_r1_ordinal1 axiom

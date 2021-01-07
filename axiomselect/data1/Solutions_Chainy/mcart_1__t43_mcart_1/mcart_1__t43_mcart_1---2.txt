@@ -1,0 +1,8 @@
+t43_mcart_1 conjecture
+d3_zfmisc_1 axiom
+l53_enumset1 axiom
+t120_zfmisc_1 axiom
+t41_enumset1 axiom
+t40_mcart_1 axiom
+commutativity_k2_xboole_0 axiom
+d3_mcart_1 axiom

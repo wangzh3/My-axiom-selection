@@ -1,0 +1,4 @@
+t137_funct_1 conjecture
+d4_xboole_0 axiom
+t2_tarski axiom
+d13_funct_1 axiom

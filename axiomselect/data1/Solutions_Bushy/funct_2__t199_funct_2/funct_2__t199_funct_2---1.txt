@@ -1,0 +1,5 @@
+t199_funct_2 conjecture
+t2_subset axiom
+t121_funct_2 axiom
+d13_funct_2 axiom
+fc1_funct_2 axiom

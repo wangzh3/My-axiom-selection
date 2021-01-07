@@ -1,0 +1,9 @@
+t5_tops_2 conjecture
+redefinition_k5_setfam_1 axiom
+t60_setfam_1 axiom
+d4_tarski axiom
+t7_boole axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+fc1_xboole_0 axiom
+fc2_struct_0 axiom

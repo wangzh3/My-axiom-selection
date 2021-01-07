@@ -1,0 +1,10 @@
+t20_funct_2 conjecture
+dt_k1_partfun1 axiom
+t47_relat_1 axiom
+d1_funct_2 axiom
+t3_subset axiom
+dt_k1_relset_1 axiom
+redefinition_k1_partfun1 axiom
+cc1_relset_1 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom

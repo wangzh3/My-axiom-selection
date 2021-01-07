@@ -1,0 +1,9 @@
+d10_xboole_0 axiom
+t12_xboole_1 axiom
+t13_xboole_1 axiom
+t20_xboole_1 axiom
+t2_xboole_1 axiom
+t30_xboole_1 axiom
+t7_xboole_1 axiom
+t9_xboole_1 axiom
+t31_xboole_1 conjecture

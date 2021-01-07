@@ -1,0 +1,14 @@
+t106_tmap_1 conjecture
+cc1_tops_1 axiom
+redefinition_k6_numbers axiom
+d2_xboole_0 axiom
+rc1_connsp_1 axiom
+cc3_tops_1 axiom
+t103_tmap_1 axiom
+d9_tmap_1 axiom
+t104_tmap_1 axiom
+t97_tops_1 axiom
+t102_tmap_1 axiom
+redefinition_k9_setfam_1 axiom
+d5_pre_topc axiom
+t5_pre_topc axiom

@@ -1,0 +1,6 @@
+t12_waybel_9 conjecture
+d3_tarski axiom
+d10_xboole_0 axiom
+fraenkel_a_3_0_waybel_9 axiom
+dt_k4_waybel_9 axiom
+d7_waybel_9 axiom

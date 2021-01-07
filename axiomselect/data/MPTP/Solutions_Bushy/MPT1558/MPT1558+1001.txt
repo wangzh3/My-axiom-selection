@@ -1,0 +1,11 @@
+commutativity_k2_tarski axiom
+commutativity_k2_xboole_0 axiom
+dt_k10_lattice3 axiom
+dt_k1_yellow_0 axiom
+t10_yellow_0 axiom
+t18_yellow_0 axiom
+t30_yellow_0 axiom
+t34_yellow_0 axiom
+t4_yellow_0 axiom
+t7_xboole_1 axiom
+t36_yellow_0 conjecture

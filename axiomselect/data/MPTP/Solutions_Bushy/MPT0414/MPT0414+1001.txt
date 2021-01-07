@@ -1,0 +1,5 @@
+d10_xboole_0 axiom
+d3_tarski axiom
+t1_subset axiom
+t3_subset axiom
+t44_setfam_1 conjecture

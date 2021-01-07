@@ -1,0 +1,3 @@
+t8_setfam_1 conjecture
+t1_xboole_1 axiom
+t4_setfam_1 axiom

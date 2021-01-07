@@ -1,0 +1,8 @@
+d4_wellord1 axiom
+dt_k1_wellord2 axiom
+t2_wellord2 axiom
+t3_wellord2 axiom
+t4_wellord2 axiom
+t5_wellord2 axiom
+t6_wellord2 axiom
+t7_wellord2 conjecture

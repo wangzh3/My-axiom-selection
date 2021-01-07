@@ -1,0 +1,5 @@
+fc3_funct_1 axiom
+fc7_funct_1 axiom
+t123_relat_1 axiom
+t52_funct_1 axiom
+t99_funct_1 conjecture

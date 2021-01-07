@@ -1,0 +1,4 @@
+d3_tarski axiom
+d4_relat_1 axiom
+t106_zfmisc_1 axiom
+t193_relat_1 conjecture

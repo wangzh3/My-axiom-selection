@@ -1,0 +1,4 @@
+t17_waybel_0 axiom
+t24_orders_2 axiom
+t25_orders_2 axiom
+t19_waybel_0 conjecture

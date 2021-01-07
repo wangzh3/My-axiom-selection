@@ -1,0 +1,4 @@
+fc22_relat_1 axiom
+fc5_ordinal1 axiom
+fc8_funct_1 axiom
+t48_ordinal1 conjecture

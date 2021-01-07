@@ -1,0 +1,11 @@
+d19_relat_1 axiom
+l222_relat_1 axiom
+rc3_ordinal1 axiom
+s3_funct_1__e7_25__funct_1 axiom
+t173_relat_1 axiom
+t174_relat_1 axiom
+t209_relat_1 axiom
+t64_relat_1 axiom
+t65_relat_1 axiom
+t95_relat_1 axiom
+t45_ordinal1 conjecture

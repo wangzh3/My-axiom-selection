@@ -1,0 +1,13 @@
+t129_zfmisc_1 conjecture
+t106_zfmisc_1 axiom
+l54_zfmisc_1 axiom
+t10_zfmisc_1 axiom
+t69_enumset1 axiom
+t45_zfmisc_1 axiom
+l22_zfmisc_1 axiom
+t46_zfmisc_1 axiom
+t120_zfmisc_1 axiom
+t41_enumset1 axiom
+t36_zfmisc_1 axiom
+commutativity_k2_xboole_0 axiom
+d10_xboole_0 axiom

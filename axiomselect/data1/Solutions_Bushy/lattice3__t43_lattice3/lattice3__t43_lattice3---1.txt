@@ -1,0 +1,16 @@
+t43_lattice3 conjecture
+reflexivity_r3_lattices axiom
+t42_lattice3 axiom
+dt_k15_lattice3 axiom
+dt_l1_lattices axiom
+d16_lattice3 axiom
+redefinition_k6_domain_1 axiom
+d1_tarski axiom
+dt_l3_lattices axiom
+redefinition_r3_lattices axiom
+t7_boole axiom
+cc1_lattices axiom
+t2_subset axiom
+t41_lattice3 axiom
+d17_lattice3 axiom
+fc2_struct_0 axiom

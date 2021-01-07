@@ -1,0 +1,5 @@
+cc5_tdlat_3 axiom
+t10_tsep_1 axiom
+t26_tex_2 axiom
+t35_tex_2 axiom
+t43_tex_2 conjecture

@@ -1,0 +1,5 @@
+commutativity_k2_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+t42_xboole_1 axiom
+t83_xboole_1 axiom
+t87_xboole_1 conjecture

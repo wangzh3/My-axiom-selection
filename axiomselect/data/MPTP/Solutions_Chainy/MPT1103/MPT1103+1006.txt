@@ -1,0 +1,10 @@
+d10_xboole_0 axiom
+d2_xboole_0 axiom
+d3_struct_0 axiom
+dt_k2_struct_0 axiom
+l32_xboole_1 axiom
+redefinition_k7_subset_1 axiom
+redefinition_k9_setfam_1 axiom
+t22_pre_topc axiom
+t3_boole axiom
+t23_pre_topc conjecture

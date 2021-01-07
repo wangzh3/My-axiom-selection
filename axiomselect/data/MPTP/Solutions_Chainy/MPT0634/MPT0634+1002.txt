@@ -1,0 +1,4 @@
+commutativity_k3_xboole_0 axiom
+t90_relat_1 axiom
+t94_relat_1 axiom
+t37_funct_1 conjecture

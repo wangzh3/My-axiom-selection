@@ -1,0 +1,3 @@
+t19_funct_1 conjecture
+d3_tarski axiom
+t12_funct_1 axiom

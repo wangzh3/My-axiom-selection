@@ -1,0 +1,10 @@
+t50_tex_2 conjecture
+cc1_tex_2 axiom
+t35_tex_2 axiom
+cc1_zfmisc_1 axiom
+t44_tex_2 axiom
+d7_subset_1 axiom
+d7_tex_2 axiom
+cc2_tdlat_3 axiom
+t3_subset axiom
+cc1_subset_1 axiom

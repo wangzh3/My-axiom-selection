@@ -1,0 +1,11 @@
+t33_wellord1 conjecture
+t2_xboole_1 axiom
+d3_tarski axiom
+d1_wellord1 axiom
+reflexivity_r3_xboole_0 axiom
+l4_wellord1 axiom
+l3_wellord1 axiom
+l2_wellord1 axiom
+t2_wellord1 axiom
+d4_wellord1 axiom
+d9_xboole_0 axiom

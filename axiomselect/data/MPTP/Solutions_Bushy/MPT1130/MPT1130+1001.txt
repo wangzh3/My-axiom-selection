@@ -1,0 +1,12 @@
+abstractness_v1_pre_topc axiom
+d3_struct_0 axiom
+d5_pre_topc axiom
+d6_pre_topc axiom
+dt_g1_pre_topc axiom
+dt_k2_struct_0 axiom
+dt_k7_subset_1 axiom
+dt_l1_pre_topc axiom
+dt_u1_pre_topc axiom
+free_g1_pre_topc axiom
+redefinition_k7_subset_1 axiom
+t61_pre_topc conjecture

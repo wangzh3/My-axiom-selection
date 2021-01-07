@@ -1,0 +1,10 @@
+t195_relat_1 conjecture
+t193_relat_1 axiom
+fc6_relat_1 axiom
+t194_relat_1 axiom
+t139_zfmisc_1 axiom
+t8_boole axiom
+fc1_xboole_0 axiom
+t21_relat_1 axiom
+t6_boole axiom
+d10_xboole_0 axiom

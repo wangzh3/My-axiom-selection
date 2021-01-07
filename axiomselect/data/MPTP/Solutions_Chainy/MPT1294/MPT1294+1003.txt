@@ -1,0 +1,9 @@
+d8_setfam_1 axiom
+t2_xboole_1 axiom
+t43_subset_1 axiom
+t46_setfam_1 axiom
+t48_xboole_1 axiom
+t4_boole axiom
+t4_subset_1 axiom
+t4_xboole_0 axiom
+t10_tops_2 conjecture

@@ -1,0 +1,10 @@
+t22_waybel_9 conjecture
+t1_xboole_1 axiom
+t3_subset axiom
+t38_yellow_6 axiom
+t17_xboole_1 axiom
+d4_xboole_0 axiom
+commutativity_k3_xboole_0 axiom
+fc6_tops_1 axiom
+t39_yellow_6 axiom
+t1_subset axiom

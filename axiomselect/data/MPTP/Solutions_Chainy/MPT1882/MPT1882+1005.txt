@@ -1,0 +1,8 @@
+cc1_realset1 axiom
+cc1_subset_1 axiom
+cc2_tdlat_3 axiom
+d7_tex_2 axiom
+t1_tex_2 axiom
+t3_subset axiom
+t44_tex_2 axiom
+t50_tex_2 conjecture

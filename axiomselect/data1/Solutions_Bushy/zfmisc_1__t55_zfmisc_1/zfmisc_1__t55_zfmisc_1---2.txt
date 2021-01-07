@@ -1,0 +1,8 @@
+t55_zfmisc_1 conjecture
+d4_xboole_0 axiom
+dt_o_0_0_xboole_0 axiom
+commutativity_k3_xboole_0 axiom
+d7_xboole_0 axiom
+t7_boole axiom
+t6_boole axiom
+d2_tarski axiom

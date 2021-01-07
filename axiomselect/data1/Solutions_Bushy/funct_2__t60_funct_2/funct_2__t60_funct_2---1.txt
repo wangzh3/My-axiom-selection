@@ -1,0 +1,12 @@
+t60_funct_2 conjecture
+dt_o_0_0_xboole_0 axiom
+dt_k8_relset_1 axiom
+t8_boole axiom
+d2_xboole_0 axiom
+t4_subset axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+cc1_subset_1 axiom
+redefinition_k8_relset_1 axiom
+t6_boole axiom
+antisymmetry_r2_hidden axiom

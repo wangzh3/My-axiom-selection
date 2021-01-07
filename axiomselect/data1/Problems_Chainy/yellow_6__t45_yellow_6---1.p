@@ -1,0 +1,6 @@
+fof(t45_yellow_6,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& v8_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& v1_yellow_6(B,A)& l1_waybel_0(B,A) )=> k11_yellow_6(A,B) = k4_yellow_6(A,B) ) ) )).
+fof(dt_k4_yellow_6,axiom,(! [A,B] :( ( ~ v2_struct_0(A)& l1_struct_0(A)& l1_waybel_0(B,A) )=> m1_subset_1(k4_yellow_6(A,B),u1_struct_0(A)) ) )).
+fof(t42_yellow_6,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& v1_yellow_6(B,A)& l1_waybel_0(B,A) )=> r2_hidden(k4_yellow_6(A,B),k10_yellow_6(A,B)) ) ) )).
+fof(cc4_yellow_6,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( l1_waybel_0(B,A)=> ( ( ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& v1_yellow_6(B,A) )=> ( ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& v3_yellow_6(B,A) ) ) ) ) )).
+fof(dt_l1_pre_topc,axiom,(! [A] :( l1_pre_topc(A)=> l1_struct_0(A) ) )).
+fof(d20_yellow_6,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& v8_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& v3_yellow_6(B,A)& l1_waybel_0(B,A) )=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ( C = k11_yellow_6(A,B)<=> r2_hidden(C,k10_yellow_6(A,B)) ) ) ) ) )).

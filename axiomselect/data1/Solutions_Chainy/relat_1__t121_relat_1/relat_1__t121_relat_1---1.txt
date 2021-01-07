@@ -1,0 +1,5 @@
+t121_relat_1 conjecture
+t117_relat_1 axiom
+t50_relat_1 axiom
+d10_xboole_0 axiom
+dt_k8_relat_1 axiom

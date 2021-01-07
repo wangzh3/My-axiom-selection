@@ -1,0 +1,4 @@
+d2_subset_1 axiom
+d3_tarski axiom
+t7_boole axiom
+t48_subset_1 conjecture

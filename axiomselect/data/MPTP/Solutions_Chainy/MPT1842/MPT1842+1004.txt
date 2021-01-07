@@ -1,0 +1,7 @@
+cc1_realset1 axiom
+d1_tex_2 axiom
+d2_subset_1 axiom
+d7_subset_1 axiom
+redefinition_k6_domain_1 axiom
+t63_subset_1 axiom
+t7_tex_2 conjecture

@@ -1,0 +1,9 @@
+t159_funct_1 conjecture
+t2_xboole_1 axiom
+t28_zfmisc_1 axiom
+t36_xboole_1 axiom
+t39_zfmisc_1 axiom
+t1_xboole_1 axiom
+t142_funct_1 axiom
+t144_funct_1 axiom
+d10_xboole_0 axiom

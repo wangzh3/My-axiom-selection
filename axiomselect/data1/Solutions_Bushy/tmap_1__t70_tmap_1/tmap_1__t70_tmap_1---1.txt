@@ -1,0 +1,12 @@
+t70_tmap_1 conjecture
+dt_k2_tmap_1 axiom
+fc8_funct_2 axiom
+dt_k1_partfun1 axiom
+redefinition_r2_funct_2 axiom
+dt_l1_pre_topc axiom
+t69_tmap_1 axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom
+fc1_borsuk_1 axiom
+redefinition_k1_partfun1 axiom
+fc2_struct_0 axiom

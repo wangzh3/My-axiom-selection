@@ -1,0 +1,4 @@
+d12_funct_1 axiom
+d3_tarski axiom
+d8_funct_1 axiom
+t157_funct_1 conjecture

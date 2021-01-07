@@ -1,0 +1,5 @@
+d13_funct_2 axiom
+d1_tarski axiom
+fc2_xboole_0 axiom
+t2_subset axiom
+t198_funct_2 conjecture

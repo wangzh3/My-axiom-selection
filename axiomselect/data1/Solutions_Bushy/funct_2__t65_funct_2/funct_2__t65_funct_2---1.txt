@@ -1,0 +1,6 @@
+t65_funct_2 conjecture
+fc2_xboole_0 axiom
+dt_o_0_0_xboole_0 axiom
+d1_tarski axiom
+t7_funct_2 axiom
+t6_boole axiom

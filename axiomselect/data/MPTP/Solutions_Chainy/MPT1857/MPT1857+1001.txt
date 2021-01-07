@@ -1,0 +1,5 @@
+d5_pre_topc axiom
+d5_tex_2 axiom
+dt_u1_pre_topc axiom
+free_g1_pre_topc axiom
+t25_tex_2 conjecture

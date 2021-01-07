@@ -1,0 +1,7 @@
+t21_setfam_1 conjecture
+d2_setfam_1 axiom
+dt_o_0_0_xboole_0 axiom
+dt_o_1_0_setfam_1 axiom
+t7_boole axiom
+t2_subset axiom
+t6_boole axiom

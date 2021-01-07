@@ -1,0 +1,7 @@
+t46_subset_1 conjecture
+t43_subset_1 axiom
+dt_k3_subset_1 axiom
+symmetry_r1_xboole_0 axiom
+involutiveness_k3_subset_1 axiom
+d10_xboole_0 axiom
+t44_subset_1 axiom

@@ -1,0 +1,5 @@
+t40_tmap_1 conjecture
+t39_tmap_1 axiom
+t25_tmap_1 axiom
+t23_tsep_1 axiom
+t23_tmap_1 axiom

@@ -1,0 +1,3 @@
+t104_xboole_1 axiom
+t25_ordinal1 axiom
+t50_ordinal1 conjecture

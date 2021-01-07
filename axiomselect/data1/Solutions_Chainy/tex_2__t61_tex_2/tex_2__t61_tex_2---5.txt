@@ -1,0 +1,12 @@
+t61_tex_2 conjecture
+t47_tex_2 axiom
+fc1_tex_2 axiom
+dt_k3_subset_1 axiom
+t29_tops_1 axiom
+cc4_subset_1 axiom
+t24_tdlat_3 axiom
+involutiveness_k3_subset_1 axiom
+t23_tdlat_3 axiom
+t93_tops_1 axiom
+cc6_tops_1 axiom
+d4_tops_1 axiom

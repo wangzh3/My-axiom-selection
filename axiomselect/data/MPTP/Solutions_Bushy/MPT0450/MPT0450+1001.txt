@@ -1,0 +1,10 @@
+commutativity_k3_xboole_0 axiom
+d3_tarski axiom
+d3_xboole_0 axiom
+d4_xboole_0 axiom
+d6_relat_1 axiom
+fc1_relat_1 axiom
+idempotence_k3_xboole_0 axiom
+t14_relat_1 axiom
+t27_relat_1 axiom
+t34_relat_1 conjecture

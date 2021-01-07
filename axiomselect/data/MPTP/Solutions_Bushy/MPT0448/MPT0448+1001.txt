@@ -1,0 +1,5 @@
+d6_relat_1 axiom
+fc5_relat_1 axiom
+t23_relat_1 axiom
+t41_enumset1 axiom
+t32_relat_1 conjecture

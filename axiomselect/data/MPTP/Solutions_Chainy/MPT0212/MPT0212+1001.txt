@@ -1,0 +1,14 @@
+antisymmetry_r2_hidden axiom
+d10_xboole_0 axiom
+d1_tarski axiom
+d1_zfmisc_1 axiom
+d3_tarski axiom
+idempotence_k2_xboole_0 axiom
+t3_xboole_1 axiom
+t65_xboole_1 axiom
+t67_xboole_1 axiom
+t69_enumset1 axiom
+t70_enumset1 axiom
+t7_xboole_0 axiom
+t7_xboole_1 axiom
+t1_zfmisc_1 conjecture

@@ -1,0 +1,12 @@
+t12_waybel_9 conjecture
+t5_subset axiom
+d10_xboole_0 axiom
+fraenkel_a_3_0_waybel_9 axiom
+dt_k4_waybel_9 axiom
+t3_subset axiom
+t2_tarski axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+t1_subset axiom
+t6_boole axiom
+d7_waybel_9 axiom

@@ -1,0 +1,14 @@
+t11_wellord2 conjecture
+cc1_ordinal1 axiom
+d10_xboole_0 axiom
+d1_wellord2 axiom
+d8_xboole_0 axiom
+dt_k1_wellord2 axiom
+t10_wellord2 axiom
+t21_ordinal1 axiom
+t23_ordinal1 axiom
+t50_ordinal1 axiom
+t50_wellord1 axiom
+t57_wellord1 axiom
+t7_wellord2 axiom
+t8_wellord2 axiom

@@ -1,0 +1,7 @@
+t108_enumset1 conjecture
+d1_tarski axiom
+t98_enumset1 axiom
+t46_enumset1 axiom
+t107_enumset1 axiom
+commutativity_k2_xboole_0 axiom
+t44_enumset1 axiom

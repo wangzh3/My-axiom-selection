@@ -1,0 +1,4 @@
+t162_funct_2 conjecture
+fc9_funct_2 axiom
+t87_partfun1 axiom
+t174_partfun1 axiom

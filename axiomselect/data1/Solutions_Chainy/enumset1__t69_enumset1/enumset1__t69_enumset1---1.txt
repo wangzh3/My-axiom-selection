@@ -1,0 +1,8 @@
+t69_enumset1 conjecture
+t100_xboole_1 axiom
+d2_xboole_0 axiom
+t92_xboole_1 axiom
+t98_xboole_1 axiom
+t41_enumset1 axiom
+idempotence_k3_xboole_0 axiom
+t5_boole axiom

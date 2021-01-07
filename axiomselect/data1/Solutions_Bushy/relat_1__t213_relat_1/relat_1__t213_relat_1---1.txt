@@ -1,0 +1,5 @@
+t213_relat_1 conjecture
+t212_relat_1 axiom
+t47_xboole_1 axiom
+t90_relat_1 axiom
+redefinition_k6_subset_1 axiom

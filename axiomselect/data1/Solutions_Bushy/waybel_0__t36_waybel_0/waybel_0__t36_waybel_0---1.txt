@@ -1,0 +1,8 @@
+t36_waybel_0 conjecture
+d16_waybel_0 axiom
+reflexivity_r3_orders_2 axiom
+t26_orders_2 axiom
+t4_subset axiom
+dt_k4_waybel_0 axiom
+redefinition_r3_orders_2 axiom
+d8_lattice3 axiom

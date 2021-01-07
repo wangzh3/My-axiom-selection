@@ -1,0 +1,13 @@
+d19_yellow_6 axiom
+d2_xboole_0 axiom
+dt_l1_pre_topc axiom
+dt_m2_yellow_6 axiom
+dt_o_0_0_xboole_0 axiom
+t1_subset axiom
+t21_yellow19 axiom
+t23_yellow19 axiom
+t29_waybel_9 axiom
+t2_subset axiom
+t32_waybel_9 axiom
+t7_boole axiom
+t24_yellow19 conjecture

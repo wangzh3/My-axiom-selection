@@ -1,0 +1,7 @@
+t200_funct_2 conjecture
+d1_funct_2 axiom
+d19_relat_1 axiom
+t3_subset axiom
+t46_relat_1 axiom
+cc1_relset_1 axiom
+redefinition_k1_relset_1 axiom

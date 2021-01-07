@@ -1,0 +1,7 @@
+t8_lattice3 conjecture
+abstractness_v1_orders_2 axiom
+dt_k7_lattice3 axiom
+involutiveness_k3_relset_1 axiom
+d5_lattice3 axiom
+free_g1_orders_2 axiom
+dt_u1_orders_2 axiom

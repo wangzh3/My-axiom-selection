@@ -1,0 +1,12 @@
+commutativity_k3_xboole_0 axiom
+d5_tsep_1 axiom
+dt_k2_tsep_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+symmetry_r1_tsep_1 axiom
+t1_tsep_1 axiom
+t23_tmap_1 axiom
+t26_xboole_1 axiom
+t3_subset axiom
+t4_tsep_1 axiom
+t32_tmap_1 conjecture

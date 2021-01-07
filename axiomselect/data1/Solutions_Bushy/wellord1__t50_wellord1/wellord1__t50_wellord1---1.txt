@@ -1,0 +1,4 @@
+t50_wellord1 conjecture
+dt_k2_funct_1 axiom
+d8_wellord1 axiom
+t49_wellord1 axiom

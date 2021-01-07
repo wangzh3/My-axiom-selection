@@ -1,0 +1,8 @@
+t63_pre_topc conjecture
+dt_u1_pre_topc axiom
+d12_pre_topc axiom
+t61_pre_topc axiom
+abstractness_v1_pre_topc axiom
+free_g1_pre_topc axiom
+redefinition_k8_relset_1 axiom
+dt_g1_pre_topc axiom

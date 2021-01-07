@@ -1,0 +1,17 @@
+d1_tops_1 axiom
+dt_k1_tops_1 axiom
+dt_k2_pre_topc axiom
+dt_k2_tops_1 axiom
+dt_k3_subset_1 axiom
+dt_k7_subset_1 axiom
+idempotence_k9_subset_1 axiom
+involutiveness_k3_subset_1 axiom
+redefinition_k7_subset_1 axiom
+t106_xboole_1 axiom
+t31_subset_1 axiom
+t33_subset_1 axiom
+t42_subset_1 axiom
+t49_pre_topc axiom
+t62_tops_1 axiom
+t65_tops_1 axiom
+t73_tops_1 conjecture

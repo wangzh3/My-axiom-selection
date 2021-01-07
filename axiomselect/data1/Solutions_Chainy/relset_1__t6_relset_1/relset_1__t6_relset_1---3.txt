@@ -1,0 +1,4 @@
+t6_relset_1 conjecture
+d3_tarski axiom
+t3_subset axiom
+d2_zfmisc_1 axiom

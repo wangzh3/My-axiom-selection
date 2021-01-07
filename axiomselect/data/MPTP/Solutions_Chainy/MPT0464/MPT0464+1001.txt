@@ -1,0 +1,6 @@
+commutativity_k3_xboole_0 axiom
+fc1_relat_1 axiom
+t17_xboole_1 axiom
+t19_xboole_1 axiom
+t48_relat_1 axiom
+t52_relat_1 conjecture

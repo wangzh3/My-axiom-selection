@@ -1,0 +1,14 @@
+abstractness_v1_pre_topc axiom
+d12_pre_topc axiom
+dt_g1_pre_topc axiom
+dt_k8_relset_1 axiom
+dt_u1_pre_topc axiom
+existence_l1_pre_topc axiom
+existence_m1_subset_1 axiom
+redefinition_k8_relset_1 axiom
+t2_subset axiom
+t4_subset axiom
+t5_subset axiom
+t61_pre_topc axiom
+t8_boole axiom
+t63_pre_topc conjecture

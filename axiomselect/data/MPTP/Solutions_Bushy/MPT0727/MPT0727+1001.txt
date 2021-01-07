@@ -1,0 +1,6 @@
+antisymmetry_r2_hidden axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t5_subset axiom
+t7_ordinal1 conjecture

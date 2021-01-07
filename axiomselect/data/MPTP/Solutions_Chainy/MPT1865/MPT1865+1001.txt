@@ -1,0 +1,11 @@
+commutativity_k3_xboole_0 axiom
+commutativity_k9_subset_1 axiom
+d3_tarski axiom
+d6_tex_2 axiom
+dt_k9_subset_1 axiom
+l1_zfmisc_1 axiom
+redefinition_k9_subset_1 axiom
+t28_xboole_1 axiom
+t3_subset axiom
+t63_subset_1 axiom
+t33_tex_2 conjecture

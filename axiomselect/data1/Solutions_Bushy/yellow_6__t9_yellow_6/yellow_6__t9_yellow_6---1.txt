@@ -1,0 +1,5 @@
+t9_yellow_6 conjecture
+dt_k12_pralg_1 axiom
+d13_pralg_1 axiom
+t2_subset axiom
+redefinition_k10_pralg_1 axiom

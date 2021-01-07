@@ -1,0 +1,6 @@
+d5_relat_1 axiom
+d7_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+t166_relat_1 axiom
+t3_xboole_0 axiom
+t173_relat_1 conjecture

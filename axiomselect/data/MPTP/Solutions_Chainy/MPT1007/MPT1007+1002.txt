@@ -1,0 +1,5 @@
+l54_zfmisc_1 axiom
+t153_zfmisc_1 axiom
+t69_enumset1 axiom
+t7_funct_2 axiom
+t61_funct_2 conjecture

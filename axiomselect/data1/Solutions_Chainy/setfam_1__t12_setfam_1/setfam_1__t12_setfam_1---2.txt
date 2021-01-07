@@ -1,0 +1,16 @@
+t12_setfam_1 conjecture
+t20_zfmisc_1 axiom
+t17_zfmisc_1 axiom
+t72_xboole_1 axiom
+t4_boole axiom
+t10_setfam_1 axiom
+t48_xboole_1 axiom
+t1_boole axiom
+t4_xboole_0 axiom
+t41_enumset1 axiom
+t11_setfam_1 axiom
+d7_xboole_0 axiom
+t51_zfmisc_1 axiom
+commutativity_k3_xboole_0 axiom
+t22_xboole_1 axiom
+t89_xboole_1 axiom

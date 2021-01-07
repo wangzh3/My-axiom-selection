@@ -1,0 +1,4 @@
+t180_relat_1 conjecture
+t179_relat_1 axiom
+t1_xboole_1 axiom
+t178_relat_1 axiom

@@ -1,0 +1,7 @@
+t34_connsp_2 conjecture
+symmetry_r1_xboole_0 axiom
+t54_pre_topc axiom
+t8_connsp_2 axiom
+dt_m1_connsp_2 axiom
+t63_xboole_1 axiom
+t5_connsp_2 axiom

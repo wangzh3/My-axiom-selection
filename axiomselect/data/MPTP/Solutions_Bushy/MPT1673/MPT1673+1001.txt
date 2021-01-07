@@ -1,0 +1,5 @@
+d2_xboole_0 axiom
+t46_yellow_0 axiom
+t4_subset axiom
+t52_waybel_0 axiom
+t53_waybel_0 conjecture

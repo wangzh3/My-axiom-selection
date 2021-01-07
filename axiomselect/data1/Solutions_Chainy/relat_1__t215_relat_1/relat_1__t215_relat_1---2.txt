@@ -1,0 +1,8 @@
+t215_relat_1 conjecture
+t64_relat_1 axiom
+t27_relat_1 axiom
+t67_xboole_1 axiom
+symmetry_r1_xboole_0 axiom
+t65_xboole_1 axiom
+d7_xboole_0 axiom
+fc1_relat_1 axiom

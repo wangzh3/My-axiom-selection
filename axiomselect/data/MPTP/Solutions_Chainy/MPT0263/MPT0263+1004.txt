@@ -1,0 +1,15 @@
+commutativity_k2_tarski axiom
+commutativity_k5_xboole_0 axiom
+l27_zfmisc_1 axiom
+l31_zfmisc_1 axiom
+l51_zfmisc_1 axiom
+t69_enumset1 axiom
+t70_enumset1 axiom
+t71_enumset1 axiom
+t72_enumset1 axiom
+t73_enumset1 axiom
+t74_enumset1 axiom
+t75_enumset1 axiom
+t91_xboole_1 axiom
+t95_xboole_1 axiom
+t58_zfmisc_1 conjecture

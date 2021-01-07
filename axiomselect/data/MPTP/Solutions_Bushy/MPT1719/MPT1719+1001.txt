@@ -1,0 +1,10 @@
+d3_tsep_1 axiom
+d5_tsep_1 axiom
+d7_xboole_0 axiom
+dt_k2_tsep_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+t27_xboole_1 axiom
+t3_xboole_1 axiom
+t4_tsep_1 axiom
+t28_tmap_1 conjecture

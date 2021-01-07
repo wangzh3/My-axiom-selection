@@ -1,0 +1,7 @@
+t155_funct_1 conjecture
+t65_funct_1 axiom
+d9_funct_1 axiom
+fc6_funct_1 axiom
+fc5_funct_1 axiom
+t154_funct_1 axiom
+dt_k2_funct_1 axiom

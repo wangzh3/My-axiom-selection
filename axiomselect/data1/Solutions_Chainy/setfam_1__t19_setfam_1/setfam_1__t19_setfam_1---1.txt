@@ -1,0 +1,4 @@
+t19_setfam_1 conjecture
+d3_setfam_1 axiom
+t6_setfam_1 axiom
+t8_setfam_1 axiom

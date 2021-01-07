@@ -1,0 +1,7 @@
+t33_waybel_7 conjecture
+fc7_yellow_1 axiom
+d1_xboole_0 axiom
+dt_k3_yellow_1 axiom
+t31_waybel_7 axiom
+t32_waybel_7 axiom
+cc1_waybel_7 axiom

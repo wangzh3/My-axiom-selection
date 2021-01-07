@@ -1,0 +1,5 @@
+t87_tmap_1 conjecture
+t4_tsep_1 axiom
+t86_tmap_1 axiom
+t19_tsep_1 axiom
+t81_tmap_1 axiom

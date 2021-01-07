@@ -1,0 +1,12 @@
+t130_tmap_1 conjecture
+symmetry_r4_tsep_1 axiom
+rc2_borsuk_1 axiom
+dt_k2_tmap_1 axiom
+t87_tsep_1 axiom
+commutativity_k1_tsep_1 axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom
+existence_l1_pre_topc axiom
+dt_k2_partfun1 axiom
+existence_m1_pre_topc axiom
+t129_tmap_1 axiom

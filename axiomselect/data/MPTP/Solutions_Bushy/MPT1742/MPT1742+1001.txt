@@ -1,0 +1,8 @@
+d5_pre_topc axiom
+redefinition_r1_funct_2 axiom
+t2_subset axiom
+t3_subset axiom
+t48_tmap_1 axiom
+t4_subset axiom
+t5_subset axiom
+t51_tmap_1 conjecture

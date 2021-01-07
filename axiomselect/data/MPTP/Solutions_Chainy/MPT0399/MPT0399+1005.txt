@@ -1,0 +1,9 @@
+d2_setfam_1 axiom
+t1_boole axiom
+t2_boole axiom
+t3_boole axiom
+t46_zfmisc_1 axiom
+t51_zfmisc_1 axiom
+t65_zfmisc_1 axiom
+t7_xboole_0 axiom
+t21_setfam_1 conjecture

@@ -1,0 +1,5 @@
+t22_tops_2 conjecture
+dt_k7_subset_1 axiom
+d1_tops_2 axiom
+d5_xboole_0 axiom
+redefinition_k7_subset_1 axiom

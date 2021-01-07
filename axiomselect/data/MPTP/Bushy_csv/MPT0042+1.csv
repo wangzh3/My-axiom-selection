@@ -1,0 +1,11 @@
+formla,formula,score
+t1_xboole_1,t35_xboole_1,1.3333333333333333
+t34_xboole_1,t1_xboole_1,2.0
+t1_xboole_1,t33_xboole_1,2.0
+t33_xboole_1,t35_xboole_1,2.0133016833582427
+t34_xboole_1,t35_xboole_1,2.052689619219753
+t34_xboole_1,t33_xboole_1,2.4334773587754635
+t34_xboole_1,dt_k4_xboole_0,inf
+dt_k4_xboole_0,t1_xboole_1,inf
+dt_k4_xboole_0,t33_xboole_1,inf
+dt_k4_xboole_0,t35_xboole_1,inf

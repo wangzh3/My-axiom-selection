@@ -1,0 +1,4 @@
+t16_finset_1 conjecture
+redefinition_k6_subset_1 axiom
+dt_k6_subset_1 axiom
+cc2_finset_1 axiom

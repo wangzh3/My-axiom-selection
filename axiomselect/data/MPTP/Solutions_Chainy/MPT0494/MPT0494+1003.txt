@@ -1,0 +1,5 @@
+cc2_relat_1 axiom
+t3_subset axiom
+t49_relat_1 axiom
+t88_relat_1 axiom
+t92_relat_1 conjecture

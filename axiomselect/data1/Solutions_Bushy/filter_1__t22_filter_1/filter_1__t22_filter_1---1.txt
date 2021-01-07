@@ -1,0 +1,15 @@
+t22_filter_1 conjecture
+redefinition_k1_domain_1 axiom
+dt_o_0_0_xboole_0 axiom
+fc10_subset_1 axiom
+d1_funct_2 axiom
+redefinition_k4_binop_1 axiom
+t58_funct_4 axiom
+dt_k6_filter_1 axiom
+dt_k1_domain_1 axiom
+dt_k4_binop_1 axiom
+d2_xboole_0 axiom
+t2_subset axiom
+redefinition_k6_filter_1 axiom
+cc1_relset_1 axiom
+redefinition_k1_relset_1 axiom

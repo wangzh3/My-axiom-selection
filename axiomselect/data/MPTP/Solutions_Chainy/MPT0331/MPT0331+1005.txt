@@ -1,0 +1,14 @@
+commutativity_k2_xboole_0 axiom
+t111_xboole_1 axiom
+t3_boole axiom
+t41_xboole_1 axiom
+t46_xboole_1 axiom
+t47_xboole_1 axiom
+t48_xboole_1 axiom
+t50_xboole_1 axiom
+t52_xboole_1 axiom
+t65_zfmisc_1 axiom
+t69_enumset1 axiom
+t72_zfmisc_1 axiom
+t77_enumset1 axiom
+t144_zfmisc_1 conjecture

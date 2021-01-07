@@ -1,0 +1,2 @@
+t67_funct_2 conjecture
+d1_funct_2 axiom

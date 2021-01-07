@@ -1,0 +1,5 @@
+d11_waybel_0 axiom
+d12_waybel_0 axiom
+d5_yellow_6 axiom
+dt_l1_waybel_0 axiom
+t28_yellow_6 conjecture

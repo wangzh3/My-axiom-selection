@@ -1,0 +1,10 @@
+t155_funct_1 conjecture
+t77_enumset1 axiom
+t65_funct_1 axiom
+t45_enumset1 axiom
+t69_enumset1 axiom
+fc6_funct_1 axiom
+t13_zfmisc_1 axiom
+t118_enumset1 axiom
+t154_funct_1 axiom
+dt_k2_funct_1 axiom

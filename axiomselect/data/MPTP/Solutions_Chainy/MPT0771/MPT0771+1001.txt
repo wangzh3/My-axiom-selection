@@ -1,0 +1,3 @@
+d3_tarski axiom
+t19_wellord1 axiom
+t20_wellord1 conjecture

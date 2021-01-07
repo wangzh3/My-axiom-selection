@@ -1,0 +1,6 @@
+d10_funct_2 axiom
+d3_tarski axiom
+dt_k6_funct_2 axiom
+dt_k8_relset_1 axiom
+t4_subset axiom
+t179_funct_2 conjecture

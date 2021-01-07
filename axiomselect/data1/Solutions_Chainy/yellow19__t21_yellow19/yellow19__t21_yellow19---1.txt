@@ -1,0 +1,4 @@
+t21_yellow19 conjecture
+dt_m2_yellow_6 axiom
+t27_yellow_6 axiom
+t9_waybel_0 axiom

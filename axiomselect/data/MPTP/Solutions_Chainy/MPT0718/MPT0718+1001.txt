@@ -1,0 +1,14 @@
+d15_funct_1 axiom
+d20_funct_1 axiom
+dt_k7_relat_1 axiom
+fc8_funct_1 axiom
+l13_xboole_0 axiom
+t110_relat_1 axiom
+t118_funct_1 axiom
+t150_relat_1 axiom
+t41_enumset1 axiom
+t49_zfmisc_1 axiom
+t60_relat_1 axiom
+t82_enumset1 axiom
+t94_xboole_1 axiom
+t173_funct_1 conjecture

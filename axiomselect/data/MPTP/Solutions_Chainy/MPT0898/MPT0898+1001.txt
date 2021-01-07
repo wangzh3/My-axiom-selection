@@ -1,0 +1,7 @@
+d3_zfmisc_1 axiom
+t113_zfmisc_1 axiom
+t35_mcart_1 axiom
+t37_mcart_1 axiom
+t53_mcart_1 axiom
+t55_mcart_1 axiom
+t58_mcart_1 conjecture

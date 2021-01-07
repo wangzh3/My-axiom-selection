@@ -1,0 +1,3 @@
+t102_relat_1 axiom
+t103_relat_1 axiom
+t82_funct_1 conjecture

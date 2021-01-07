@@ -1,0 +1,8 @@
+t79_relat_1 conjecture
+t72_relat_1 axiom
+t37_relat_1 axiom
+dt_k4_relat_1 axiom
+involutiveness_k4_relat_1 axiom
+dt_k6_relat_1 axiom
+t77_relat_1 axiom
+t54_relat_1 axiom

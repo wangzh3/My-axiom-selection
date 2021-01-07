@@ -1,0 +1,8 @@
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+fc2_struct_0 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t4_tsep_1 axiom
+t15_tmap_1 conjecture

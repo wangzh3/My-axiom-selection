@@ -1,0 +1,5 @@
+t10_subset_1 conjecture
+d1_xboole_0 axiom
+t6_boole axiom
+d2_subset_1 axiom
+l3_subset_1 axiom

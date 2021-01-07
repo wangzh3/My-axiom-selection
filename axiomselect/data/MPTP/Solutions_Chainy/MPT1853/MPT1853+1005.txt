@@ -1,0 +1,8 @@
+cc10_tex_2 axiom
+cc12_tex_2 axiom
+dt_k1_tex_2 axiom
+dt_l1_pre_topc axiom
+fc2_tex_2 axiom
+t8_tex_2 axiom
+t9_tex_2 axiom
+t20_tex_2 conjecture

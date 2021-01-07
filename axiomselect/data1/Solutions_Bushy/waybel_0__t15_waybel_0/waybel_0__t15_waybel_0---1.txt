@@ -1,0 +1,6 @@
+t15_waybel_0 conjecture
+d16_waybel_0 axiom
+t2_tarski axiom
+t4_subset axiom
+dt_k4_waybel_0 axiom
+fraenkel_a_2_1_waybel_0 axiom

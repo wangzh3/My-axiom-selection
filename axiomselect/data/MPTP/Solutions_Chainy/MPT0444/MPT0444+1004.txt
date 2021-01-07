@@ -1,0 +1,12 @@
+cc2_relat_1 axiom
+d10_xboole_0 axiom
+t11_xboole_1 axiom
+t17_xboole_1 axiom
+t19_xboole_1 axiom
+t25_relat_1 axiom
+t2_xboole_1 axiom
+t31_xboole_1 axiom
+t3_subset axiom
+t7_xboole_1 axiom
+t8_xboole_1 axiom
+t27_relat_1 conjecture

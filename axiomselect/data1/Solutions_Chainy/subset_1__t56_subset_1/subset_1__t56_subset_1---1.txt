@@ -1,0 +1,6 @@
+t56_subset_1 conjecture
+d2_subset_1 axiom
+d1_zfmisc_1 axiom
+t38_zfmisc_1 axiom
+fc1_subset_1 axiom
+t6_boole axiom

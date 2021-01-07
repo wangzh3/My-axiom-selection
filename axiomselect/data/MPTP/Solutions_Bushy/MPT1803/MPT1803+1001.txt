@@ -1,0 +1,12 @@
+d11_tmap_1 axiom
+d12_tmap_1 axiom
+dt_k7_tmap_1 axiom
+dt_k8_tmap_1 axiom
+dt_k9_tmap_1 axiom
+dt_l1_pre_topc axiom
+fc2_struct_0 axiom
+fc5_tmap_1 axiom
+redefinition_r1_funct_2 axiom
+t110_tmap_1 axiom
+t1_tsep_1 axiom
+t119_tmap_1 conjecture

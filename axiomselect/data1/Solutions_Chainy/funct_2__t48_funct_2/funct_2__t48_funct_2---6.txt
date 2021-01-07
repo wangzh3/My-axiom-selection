@@ -1,0 +1,11 @@
+t48_funct_2 conjecture
+d1_funct_2 axiom
+d2_xboole_0 axiom
+t31_relset_1 axiom
+t150_relat_1 axiom
+t113_zfmisc_1 axiom
+t38_relset_1 axiom
+t81_relat_1 axiom
+t162_funct_1 axiom
+redefinition_k1_relset_1 axiom
+d10_xboole_0 axiom

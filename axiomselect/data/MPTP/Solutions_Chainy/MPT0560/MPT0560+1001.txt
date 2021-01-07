@@ -1,0 +1,8 @@
+commutativity_k3_xboole_0 axiom
+dt_k7_relat_1 axiom
+idempotence_k3_xboole_0 axiom
+t100_relat_1 axiom
+t148_relat_1 axiom
+t18_zfmisc_1 axiom
+t28_xboole_1 axiom
+t162_relat_1 conjecture

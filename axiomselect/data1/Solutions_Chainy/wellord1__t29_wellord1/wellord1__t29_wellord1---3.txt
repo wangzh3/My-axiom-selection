@@ -1,0 +1,9 @@
+t29_wellord1 conjecture
+l32_xboole_1 axiom
+t31_xboole_1 axiom
+idempotence_k2_xboole_0 axiom
+t26_wellord1 axiom
+t45_xboole_1 axiom
+t1_boole axiom
+t19_xboole_1 axiom
+d10_xboole_0 axiom

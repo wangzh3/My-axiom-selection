@@ -1,0 +1,6 @@
+t97_relat_1 conjecture
+t1_xboole_1 axiom
+t28_xboole_1 axiom
+t96_relat_1 axiom
+t21_relat_1 axiom
+t118_zfmisc_1 axiom

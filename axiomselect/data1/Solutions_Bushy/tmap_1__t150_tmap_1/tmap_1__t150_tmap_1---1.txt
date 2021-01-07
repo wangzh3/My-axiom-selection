@@ -1,0 +1,7 @@
+t150_tmap_1 conjecture
+t145_tmap_1 axiom
+redefinition_r2_funct_2 axiom
+t85_tsep_1 axiom
+t138_tmap_1 axiom
+dt_k10_tmap_1 axiom
+t135_tmap_1 axiom

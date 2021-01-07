@@ -1,0 +1,16 @@
+commutativity_k9_subset_1 axiom
+d1_tops_1 axiom
+d2_tops_1 axiom
+d3_tarski axiom
+d4_xboole_0 axiom
+dt_k1_tops_1 axiom
+dt_k2_pre_topc axiom
+dt_k3_subset_1 axiom
+dt_k9_subset_1 axiom
+involutiveness_k3_subset_1 axiom
+projectivity_k2_pre_topc axiom
+redefinition_k9_subset_1 axiom
+t3_subset axiom
+t44_tops_1 axiom
+t49_pre_topc axiom
+t71_tops_1 conjecture

@@ -1,0 +1,12 @@
+t54_tops_2 conjecture
+cc1_relset_1 axiom
+cc2_relset_1 axiom
+cc5_funct_2 axiom
+d3_struct_0 axiom
+d4_partfun1 axiom
+dt_k3_funct_3 axiom
+fc5_struct_0 axiom
+t144_relat_1 axiom
+t25_funct_3 axiom
+t3_subset axiom
+t3_tops_2 axiom

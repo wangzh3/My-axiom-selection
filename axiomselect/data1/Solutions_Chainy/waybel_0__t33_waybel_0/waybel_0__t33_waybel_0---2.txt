@@ -1,0 +1,5 @@
+t33_waybel_0 conjecture
+dt_k1_yellow_0 axiom
+d9_yellow_0 axiom
+t31_waybel_0 axiom
+t32_waybel_0 axiom

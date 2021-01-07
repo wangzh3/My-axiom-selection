@@ -1,0 +1,5 @@
+d11_tmap_1 axiom
+dt_k8_tmap_1 axiom
+t104_tmap_1 axiom
+t1_tsep_1 axiom
+t114_tmap_1 conjecture

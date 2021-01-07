@@ -1,0 +1,6 @@
+t8_yellow_0 conjecture
+t69_enumset1 axiom
+d8_lattice3 axiom
+d9_lattice3 axiom
+t7_yellow_0 axiom
+d2_tarski axiom

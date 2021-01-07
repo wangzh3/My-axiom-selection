@@ -1,0 +1,6 @@
+t67_funct_2 conjecture
+t31_relset_1 axiom
+d1_funct_2 axiom
+t2_xboole_1 axiom
+d1_zfmisc_1 axiom
+t81_relat_1 axiom

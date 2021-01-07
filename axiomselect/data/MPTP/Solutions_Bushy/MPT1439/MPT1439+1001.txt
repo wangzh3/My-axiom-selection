@@ -1,0 +1,4 @@
+d9_filter_1 axiom
+dt_k8_filter_1 axiom
+t52_wellord1 axiom
+t34_filter_1 conjecture

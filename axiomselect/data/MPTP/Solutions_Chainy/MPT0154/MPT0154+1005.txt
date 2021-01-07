@@ -1,0 +1,9 @@
+commutativity_k3_xboole_0 axiom
+idempotence_k2_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+t100_xboole_1 axiom
+t41_enumset1 axiom
+t43_enumset1 axiom
+t53_xboole_1 axiom
+t98_xboole_1 axiom
+t70_enumset1 conjecture

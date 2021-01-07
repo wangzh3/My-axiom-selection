@@ -1,0 +1,9 @@
+commutativity_k3_xboole_0 axiom
+d2_relat_1 axiom
+d4_xboole_0 axiom
+d7_relat_1 axiom
+dt_k4_relat_1 axiom
+fc1_relat_1 axiom
+idempotence_k3_xboole_0 axiom
+involutiveness_k4_relat_1 axiom
+t39_relat_1 conjecture

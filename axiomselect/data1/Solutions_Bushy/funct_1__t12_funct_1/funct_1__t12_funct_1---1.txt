@@ -1,0 +1,2 @@
+t12_funct_1 conjecture
+d5_funct_1 axiom

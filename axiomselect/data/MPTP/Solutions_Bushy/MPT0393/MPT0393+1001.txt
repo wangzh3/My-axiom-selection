@@ -1,0 +1,10 @@
+d10_xboole_0 axiom
+d1_setfam_1 axiom
+d1_tarski axiom
+d3_tarski axiom
+dt_o_0_0_xboole_0 axiom
+t3_subset axiom
+t4_setfam_1 axiom
+t5_subset axiom
+t6_boole axiom
+t11_setfam_1 conjecture

@@ -1,0 +1,11 @@
+t176_funct_2 conjecture
+d2_subset_1 axiom
+d1_funct_2 axiom
+d8_partfun1 axiom
+cc1_relset_1 axiom
+rc1_xboole_0 axiom
+fc5_xboole_0 axiom
+redefinition_k1_relset_1 axiom
+t1_boole axiom
+cc2_relset_1 axiom
+redefinition_k3_funct_2 axiom

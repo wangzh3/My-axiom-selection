@@ -1,0 +1,13 @@
+abstractness_v1_orders_2 axiom
+cc1_relset_1 axiom
+d13_yellow_0 axiom
+d14_yellow_0 axiom
+d6_wellord1 axiom
+dt_g1_orders_2 axiom
+dt_k1_toler_1 axiom
+dt_u1_orders_2 axiom
+free_g1_orders_2 axiom
+redefinition_k1_toler_1 axiom
+t17_xboole_1 axiom
+t3_subset axiom
+t57_yellow_0 conjecture

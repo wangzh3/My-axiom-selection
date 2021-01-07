@@ -1,0 +1,10 @@
+d3_struct_0 axiom
+dt_k2_struct_0 axiom
+dt_k9_subset_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+redefinition_k9_subset_1 axiom
+t28_xboole_1 axiom
+t32_tops_2 axiom
+t3_subset axiom
+t33_tops_2 conjecture

@@ -1,0 +1,8 @@
+d10_pre_topc axiom
+dt_k1_pre_topc axiom
+dt_m1_pre_topc axiom
+t11_compts_1 axiom
+t12_compts_1 axiom
+t17_compts_1 axiom
+t34_tops_2 axiom
+t18_compts_1 conjecture

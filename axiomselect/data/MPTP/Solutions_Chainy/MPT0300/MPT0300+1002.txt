@@ -1,0 +1,17 @@
+antisymmetry_r2_hidden axiom
+d10_xboole_0 axiom
+d1_tarski axiom
+d1_xboole_0 axiom
+d2_zfmisc_1 axiom
+d3_tarski axiom
+fc1_xboole_0 axiom
+l44_zfmisc_1 axiom
+l54_zfmisc_1 axiom
+rc1_xboole_0 axiom
+t106_zfmisc_1 axiom
+t107_zfmisc_1 axiom
+t41_zfmisc_1 axiom
+t6_boole axiom
+t7_boole axiom
+t7_xboole_0 axiom
+t108_zfmisc_1 conjecture

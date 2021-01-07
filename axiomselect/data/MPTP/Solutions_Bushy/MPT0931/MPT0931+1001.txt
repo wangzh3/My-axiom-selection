@@ -1,0 +1,13 @@
+d13_relat_1 axiom
+d16_relat_1 axiom
+d1_mcart_1 axiom
+d1_tarski axiom
+d2_mcart_1 axiom
+existence_m1_subset_1 axiom
+fraenkel_a_2_0_mcart_1 axiom
+t1_subset axiom
+t23_mcart_1 axiom
+t2_subset axiom
+t2_tarski axiom
+t7_boole axiom
+t92_mcart_1 conjecture

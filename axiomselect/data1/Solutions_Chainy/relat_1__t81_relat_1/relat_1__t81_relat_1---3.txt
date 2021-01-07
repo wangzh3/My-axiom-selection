@@ -1,0 +1,9 @@
+t81_relat_1 conjecture
+t77_enumset1 axiom
+d1_relat_1 axiom
+d10_relat_1 axiom
+t75_zfmisc_1 axiom
+t113_zfmisc_1 axiom
+t82_enumset1 axiom
+t129_zfmisc_1 axiom
+t65_zfmisc_1 axiom

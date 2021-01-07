@@ -1,0 +1,7 @@
+t24_mcart_1 conjecture
+fc6_relat_1 axiom
+t60_relat_1 axiom
+t2_subset axiom
+t23_mcart_1 axiom
+t195_relat_1 axiom
+l13_xboole_0 axiom

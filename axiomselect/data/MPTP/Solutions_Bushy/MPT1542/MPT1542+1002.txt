@@ -1,0 +1,4 @@
+d10_lattice3 axiom
+dt_k10_lattice3 axiom
+t18_yellow_0 axiom
+t20_yellow_0 conjecture

@@ -1,0 +1,4 @@
+fof(t40_lattice3,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v10_lattices(A)& v4_lattice3(A)& l3_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( r3_lattice3(A,B,C)=> r3_lattices(A,B,k16_lattice3(A,C)) ) ) ) )).
+fof(t38_lattice3,axiom,(! [A] :( ( ~ v2_struct_0(A)& v10_lattices(A)& v4_lattice3(A)& l3_lattices(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( r2_hidden(B,C)=> ( r3_lattices(A,B,k15_lattice3(A,C))& r3_lattices(A,k16_lattice3(A,C),B) ) ) ) ) )).
+fof(d22_lattice3,axiom,(! [A] :( ( ~ v2_struct_0(A)& l3_lattices(A) )=> ! [B] : k16_lattice3(A,B) = k15_lattice3(A,a_2_1_lattice3(A,B)) ) )).
+fof(fraenkel_a_2_1_lattice3,axiom,(! [A,B,C] :( ( ~ v2_struct_0(B)& l3_lattices(B) )=> ( r2_hidden(A,a_2_1_lattice3(B,C))<=> ? [D] :( m1_subset_1(D,u1_struct_0(B))& A = D& r3_lattice3(B,D,C) ) ) ) )).

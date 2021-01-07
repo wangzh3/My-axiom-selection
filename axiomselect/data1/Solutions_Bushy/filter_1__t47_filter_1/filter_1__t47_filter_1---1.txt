@@ -1,0 +1,8 @@
+t47_filter_1 conjecture
+dt_k7_filter_1 axiom
+fc3_filter_1 axiom
+fc2_filter_1 axiom
+cc5_lattices axiom
+t46_filter_1 axiom
+t39_filter_1 axiom
+cc6_lattices axiom

@@ -1,0 +1,7 @@
+antisymmetry_r2_hidden axiom
+cc1_ordinal1 axiom
+d2_ordinal1 axiom
+d8_xboole_0 axiom
+l58_xboole_1 axiom
+t21_ordinal1 axiom
+t22_ordinal1 conjecture

@@ -1,0 +1,5 @@
+t47_orders_2 conjecture
+d12_orders_2 axiom
+fraenkel_a_2_0_orders_2 axiom
+t28_orders_2 axiom
+t4_subset axiom

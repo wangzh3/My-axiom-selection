@@ -1,0 +1,7 @@
+t5_ordinal1 conjecture
+d3_enumset1 axiom
+t7_tarski axiom
+t7_boole axiom
+t2_subset axiom
+t1_subset axiom
+antisymmetry_r2_hidden axiom

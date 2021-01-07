@@ -1,0 +1,6 @@
+commutativity_k3_xboole_0 axiom
+d14_orders_2 axiom
+d3_tarski axiom
+d4_xboole_0 axiom
+redefinition_k9_subset_1 axiom
+t65_orders_2 conjecture

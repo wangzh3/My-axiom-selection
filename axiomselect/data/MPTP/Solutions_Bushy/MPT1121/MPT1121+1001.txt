@@ -1,0 +1,9 @@
+d10_xboole_0 axiom
+d3_tarski axiom
+dt_k2_pre_topc axiom
+t3_subset axiom
+t44_pre_topc axiom
+t45_pre_topc axiom
+t46_pre_topc axiom
+t48_pre_topc axiom
+t52_pre_topc conjecture

@@ -1,0 +1,4 @@
+t5_connsp_2 axiom
+t64_tmap_1 axiom
+t65_tmap_1 axiom
+t66_tmap_1 conjecture

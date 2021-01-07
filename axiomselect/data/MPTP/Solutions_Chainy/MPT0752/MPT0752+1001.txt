@@ -1,0 +1,8 @@
+cc1_funct_1 axiom
+cc2_relat_1 axiom
+cc4_ordinal1 axiom
+fc1_xboole_0 axiom
+fc7_relat_1 axiom
+t206_relat_1 axiom
+t4_subset_1 axiom
+t45_ordinal1 conjecture

@@ -1,0 +1,15 @@
+fc24_relat_1 axiom
+fc3_funct_1 axiom
+fc4_funct_1 axiom
+idempotence_k3_xboole_0 axiom
+t123_relat_1 axiom
+t147_funct_1 axiom
+t148_relat_1 axiom
+t155_funct_1 axiom
+t16_xboole_1 axiom
+t3_subset axiom
+t43_funct_1 axiom
+t67_funct_1 axiom
+t71_relat_1 axiom
+t94_relat_1 axiom
+t162_funct_1 conjecture

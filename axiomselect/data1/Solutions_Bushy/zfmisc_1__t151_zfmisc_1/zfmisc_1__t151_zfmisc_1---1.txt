@@ -1,0 +1,3 @@
+t151_zfmisc_1 conjecture
+t98_zfmisc_1 axiom
+symmetry_r1_xboole_0 axiom

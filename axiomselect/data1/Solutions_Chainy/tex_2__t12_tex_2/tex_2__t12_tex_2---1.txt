@@ -1,0 +1,3 @@
+t12_tex_2 conjecture
+t58_pre_topc axiom
+fc6_pre_topc axiom

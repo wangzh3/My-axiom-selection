@@ -1,0 +1,8 @@
+t106_tmap_1 conjecture
+t103_tmap_1 axiom
+t105_tmap_1 axiom
+abstractness_v1_pre_topc axiom
+t104_tmap_1 axiom
+dt_k6_tmap_1 axiom
+t60_pre_topc axiom
+d5_pre_topc axiom

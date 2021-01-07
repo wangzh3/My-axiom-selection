@@ -1,0 +1,12 @@
+t45_mcart_1 conjecture
+t20_zfmisc_1 axiom
+d3_zfmisc_1 axiom
+t77_enumset1 axiom
+t75_zfmisc_1 axiom
+t82_enumset1 axiom
+l53_enumset1 axiom
+t50_zfmisc_1 axiom
+t104_enumset1 axiom
+t36_zfmisc_1 axiom
+t25_mcart_1 axiom
+d3_mcart_1 axiom

@@ -1,0 +1,7 @@
+t172_funct_1 conjecture
+t5_subset axiom
+d19_relat_1 axiom
+d5_funct_1 axiom
+t3_subset axiom
+t4_subset axiom
+t2_subset axiom

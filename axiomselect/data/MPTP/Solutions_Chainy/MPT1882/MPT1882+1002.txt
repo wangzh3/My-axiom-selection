@@ -1,0 +1,12 @@
+cc1_subset_1 axiom
+cc1_zfmisc_1 axiom
+d1_zfmisc_1 axiom
+d7_tex_2 axiom
+rc1_connsp_1 axiom
+t10_subset_1 axiom
+t1_subset axiom
+t1_tex_2 axiom
+t44_tex_2 axiom
+t6_boole axiom
+t7_boole axiom
+t50_tex_2 conjecture

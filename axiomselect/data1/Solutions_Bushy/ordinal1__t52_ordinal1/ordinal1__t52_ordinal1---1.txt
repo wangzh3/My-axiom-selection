@@ -1,0 +1,6 @@
+t52_ordinal1 conjecture
+antisymmetry_r2_hidden axiom
+d1_tarski axiom
+d5_xboole_0 axiom
+redefinition_k6_subset_1 axiom
+t13_ordinal1 axiom

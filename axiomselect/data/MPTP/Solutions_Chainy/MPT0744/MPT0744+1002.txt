@@ -1,0 +1,12 @@
+antisymmetry_r2_hidden axiom
+commutativity_k2_tarski axiom
+d10_xboole_0 axiom
+d1_ordinal1 axiom
+redefinition_r1_ordinal1 axiom
+t10_ordinal1 axiom
+t12_xboole_1 axiom
+t13_ordinal1 axiom
+t26_ordinal1 axiom
+t69_enumset1 axiom
+t93_zfmisc_1 axiom
+t34_ordinal1 conjecture

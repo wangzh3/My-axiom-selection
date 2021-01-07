@@ -1,0 +1,5 @@
+t14_xboole_1 conjecture
+commutativity_k2_xboole_0 axiom
+t7_xboole_1 axiom
+d10_xboole_0 axiom
+t8_xboole_1 axiom

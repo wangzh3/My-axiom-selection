@@ -1,0 +1,14 @@
+cc1_ordinal1 axiom
+d2_ordinal1 axiom
+dt_o_1_0_ordinal1 axiom
+redefinition_r1_ordinal1 axiom
+reflexivity_r1_ordinal1 axiom
+t23_ordinal1 axiom
+t24_ordinal1 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t5_subset axiom
+t6_boole axiom
+t7_tarski axiom
+t32_ordinal1 conjecture

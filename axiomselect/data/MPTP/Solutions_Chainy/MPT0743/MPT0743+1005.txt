@@ -1,0 +1,10 @@
+antisymmetry_r2_hidden axiom
+fc2_ordinal1 axiom
+redefinition_r1_ordinal1 axiom
+reflexivity_r1_ordinal1 axiom
+t10_ordinal1 axiom
+t13_ordinal1 axiom
+t24_ordinal1 axiom
+t26_ordinal1 axiom
+t7_ordinal1 axiom
+t33_ordinal1 conjecture

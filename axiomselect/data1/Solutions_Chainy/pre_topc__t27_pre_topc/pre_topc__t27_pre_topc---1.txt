@@ -1,0 +1,13 @@
+t27_pre_topc conjecture
+t2_xboole_1 axiom
+d5_subset_1 axiom
+dt_k2_struct_0 axiom
+t43_subset_1 axiom
+t72_xboole_1 axiom
+d3_struct_0 axiom
+t4_subset_1 axiom
+t1_boole axiom
+t88_xboole_1 axiom
+involutiveness_k3_subset_1 axiom
+d2_struct_0 axiom
+t65_xboole_1 axiom

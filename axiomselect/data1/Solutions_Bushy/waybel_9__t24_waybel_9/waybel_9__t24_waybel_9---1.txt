@@ -1,0 +1,12 @@
+t24_waybel_9 conjecture
+t5_subset axiom
+d13_pre_topc axiom
+dt_l1_pre_topc axiom
+t8_waybel_9 axiom
+dt_k10_yellow_6 axiom
+dt_k2_pre_topc axiom
+t26_yellow_6 axiom
+t2_subset axiom
+t55_tops_1 axiom
+d18_yellow_6 axiom
+d1_connsp_2 axiom

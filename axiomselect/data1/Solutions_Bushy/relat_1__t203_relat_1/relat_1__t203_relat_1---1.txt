@@ -1,0 +1,6 @@
+t203_relat_1 conjecture
+fc6_relat_1 axiom
+t106_zfmisc_1 axiom
+d16_relat_1 axiom
+d1_tarski axiom
+d13_relat_1 axiom

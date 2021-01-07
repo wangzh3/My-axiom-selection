@@ -1,0 +1,12 @@
+d4_tmap_1 axiom
+dt_k1_tsep_1 axiom
+dt_k2_partfun1 axiom
+dt_k2_tmap_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+fc2_tmap_1 axiom
+redefinition_k2_partfun1 axiom
+t132_tmap_1 axiom
+t136_tmap_1 axiom
+t85_tsep_1 axiom
+t137_tmap_1 conjecture

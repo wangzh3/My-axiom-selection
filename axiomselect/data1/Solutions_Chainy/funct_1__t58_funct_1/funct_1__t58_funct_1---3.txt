@@ -1,0 +1,8 @@
+t58_funct_1 conjecture
+t169_relat_1 axiom
+d9_funct_1 axiom
+t160_relat_1 axiom
+t37_relat_1 axiom
+t182_relat_1 axiom
+t146_relat_1 axiom
+dt_k2_funct_1 axiom

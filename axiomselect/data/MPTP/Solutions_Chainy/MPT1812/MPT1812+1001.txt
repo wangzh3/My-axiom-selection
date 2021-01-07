@@ -1,0 +1,9 @@
+commutativity_k1_tsep_1 axiom
+d2_tsep_1 axiom
+dt_k1_tsep_1 axiom
+dt_k3_tmap_1 axiom
+t126_tmap_1 axiom
+t22_tsep_1 axiom
+t88_tsep_1 axiom
+t89_tmap_1 axiom
+t128_tmap_1 conjecture

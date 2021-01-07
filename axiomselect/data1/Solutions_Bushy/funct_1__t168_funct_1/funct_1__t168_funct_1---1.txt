@@ -1,0 +1,10 @@
+t168_funct_1 conjecture
+d3_tarski axiom
+d10_xboole_0 axiom
+t167_funct_1 axiom
+d5_funct_1 axiom
+t86_relat_1 axiom
+d1_tarski axiom
+dt_k7_relat_1 axiom
+fc8_funct_1 axiom
+t70_funct_1 axiom

@@ -1,0 +1,9 @@
+d7_xboole_0 axiom
+l32_xboole_1 axiom
+l3_zfmisc_1 axiom
+t20_xboole_1 axiom
+t3_boole axiom
+t48_xboole_1 axiom
+t6_zfmisc_1 axiom
+t82_enumset1 axiom
+t17_zfmisc_1 conjecture

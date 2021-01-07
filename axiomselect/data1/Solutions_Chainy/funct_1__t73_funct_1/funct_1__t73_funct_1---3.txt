@@ -1,0 +1,5 @@
+t73_funct_1 conjecture
+dt_k7_relat_1 axiom
+d11_relat_1 axiom
+d5_relat_1 axiom
+t8_funct_1 axiom

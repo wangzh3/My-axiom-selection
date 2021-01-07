@@ -1,0 +1,10 @@
+antisymmetry_r2_hidden axiom
+d1_setfam_1 axiom
+d3_tarski axiom
+d5_xboole_0 axiom
+l32_xboole_1 axiom
+t1_zfmisc_1 axiom
+t39_zfmisc_1 axiom
+t68_zfmisc_1 axiom
+t7_xboole_0 axiom
+t5_setfam_1 conjecture

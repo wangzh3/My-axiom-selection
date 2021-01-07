@@ -1,0 +1,5 @@
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+symmetry_r1_tsep_1 axiom
+t23_tmap_1 axiom
+t24_tmap_1 conjecture

@@ -1,0 +1,5 @@
+t11_xboole_1 axiom
+t12_xboole_1 axiom
+t146_funct_1 axiom
+t178_relat_1 axiom
+t163_funct_1 conjecture

@@ -1,0 +1,8 @@
+t67_orders_2 conjecture
+dt_m1_orders_2 axiom
+d15_orders_2 axiom
+redefinition_k9_subset_1 axiom
+t17_xboole_1 axiom
+commutativity_k3_xboole_0 axiom
+d14_orders_2 axiom
+t2_boole axiom

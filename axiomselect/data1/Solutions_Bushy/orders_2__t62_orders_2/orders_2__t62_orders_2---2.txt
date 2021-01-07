@@ -1,0 +1,16 @@
+t62_orders_2 conjecture
+t5_subset axiom
+d4_xboole_0 axiom
+irreflexivity_r2_orders_2 axiom
+fraenkel_a_2_1_orders_2 axiom
+d13_orders_2 axiom
+dt_k3_orders_2 axiom
+redefinition_k6_domain_1 axiom
+t4_subset axiom
+d1_tarski axiom
+t7_boole axiom
+t2_subset axiom
+dt_k6_domain_1 axiom
+existence_m1_subset_1 axiom
+redefinition_k9_subset_1 axiom
+d14_orders_2 axiom

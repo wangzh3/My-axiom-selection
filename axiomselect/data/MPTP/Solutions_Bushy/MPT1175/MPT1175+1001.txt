@@ -1,0 +1,3 @@
+t3_xboole_0 axiom
+t79_orders_2 axiom
+t82_orders_2 conjecture

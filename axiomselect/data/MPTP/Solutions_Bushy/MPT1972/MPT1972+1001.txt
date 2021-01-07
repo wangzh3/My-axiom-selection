@@ -1,0 +1,11 @@
+abstractness_v1_orders_2 axiom
+dt_k7_lattice3 axiom
+fc1_yellow_7 axiom
+fc2_yellow_7 axiom
+fc3_yellow_7 axiom
+fc5_yellow_7 axiom
+fc6_yellow_7 axiom
+t19_waybel_7 axiom
+t20_waybel_7 axiom
+t8_lattice3 axiom
+t21_waybel_7 conjecture

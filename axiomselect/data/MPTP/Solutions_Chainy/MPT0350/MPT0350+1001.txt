@@ -1,0 +1,14 @@
+commutativity_k2_xboole_0 axiom
+d3_subset_1 axiom
+d4_subset_1 axiom
+d5_subset_1 axiom
+dt_k2_subset_1 axiom
+dt_k3_subset_1 axiom
+dt_k4_subset_1 axiom
+involutiveness_k3_subset_1 axiom
+redefinition_k4_subset_1 axiom
+t115_zfmisc_1 axiom
+t22_subset_1 axiom
+t39_xboole_1 axiom
+t46_xboole_1 axiom
+t25_subset_1 conjecture

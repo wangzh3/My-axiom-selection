@@ -1,0 +1,13 @@
+commutativity_k3_xboole_0 axiom
+d1_tex_2 axiom
+d1_xboole_0 axiom
+existence_m1_subset_1 axiom
+redefinition_k6_domain_1 axiom
+t17_xboole_1 axiom
+t24_zfmisc_1 axiom
+t2_subset axiom
+t37_zfmisc_1 axiom
+t3_subset axiom
+t4_subset axiom
+t5_subset axiom
+t2_tex_2 conjecture

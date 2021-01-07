@@ -1,0 +1,5 @@
+t43_enumset1 conjecture
+t4_xboole_1 axiom
+t41_enumset1 axiom
+commutativity_k2_xboole_0 axiom
+t42_enumset1 axiom

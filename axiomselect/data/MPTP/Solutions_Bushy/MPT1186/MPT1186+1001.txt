@@ -1,0 +1,16 @@
+cc1_orders_2 axiom
+cc1_relset_1 axiom
+d10_orders_2 axiom
+d12_orders_1 axiom
+d9_orders_2 axiom
+dt_l1_orders_2 axiom
+dt_u1_orders_2 axiom
+fc2_orders_2 axiom
+fc2_struct_0 axiom
+fc3_orders_2 axiom
+fc4_orders_2 axiom
+fc5_orders_2 axiom
+t100_orders_1 axiom
+t1_subset axiom
+t2_subset axiom
+t158_orders_2 conjecture

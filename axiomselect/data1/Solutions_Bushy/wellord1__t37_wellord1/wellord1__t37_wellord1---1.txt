@@ -1,0 +1,8 @@
+t37_wellord1 conjecture
+d3_tarski axiom
+d1_wellord1 axiom
+l4_wellord1 axiom
+l3_wellord1 axiom
+l2_wellord1 axiom
+d4_wellord1 axiom
+l1_wellord1 axiom

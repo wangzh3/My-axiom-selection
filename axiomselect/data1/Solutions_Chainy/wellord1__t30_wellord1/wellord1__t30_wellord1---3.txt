@@ -1,0 +1,10 @@
+t30_wellord1 conjecture
+t46_xboole_1 axiom
+t93_zfmisc_1 axiom
+d2_xboole_0 axiom
+t37_xboole_1 axiom
+d6_relat_1 axiom
+t18_wellord1 axiom
+t125_relat_1 axiom
+commutativity_k2_tarski axiom
+t97_relat_1 axiom

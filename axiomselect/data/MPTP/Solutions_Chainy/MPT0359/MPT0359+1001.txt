@@ -1,0 +1,12 @@
+d10_xboole_0 axiom
+d3_subset_1 axiom
+d4_subset_1 axiom
+d5_subset_1 axiom
+dt_k1_subset_1 axiom
+idempotence_k2_xboole_0 axiom
+t22_subset_1 axiom
+t2_xboole_1 axiom
+t35_subset_1 axiom
+t36_xboole_1 axiom
+t44_xboole_1 axiom
+t39_subset_1 conjecture

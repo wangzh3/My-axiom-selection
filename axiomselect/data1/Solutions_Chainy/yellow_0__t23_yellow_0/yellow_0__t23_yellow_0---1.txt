@@ -1,0 +1,6 @@
+t23_yellow_0 conjecture
+t15_lattice3 axiom
+redefinition_k12_lattice3 axiom
+dt_k11_lattice3 axiom
+cc2_lattice3 axiom
+l28_lattice3 axiom

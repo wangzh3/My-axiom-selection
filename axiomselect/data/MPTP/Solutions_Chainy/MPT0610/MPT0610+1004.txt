@@ -1,0 +1,13 @@
+d7_xboole_0 axiom
+fc1_relat_1 axiom
+symmetry_r1_xboole_0 axiom
+t143_relat_1 axiom
+t14_relat_1 axiom
+t151_relat_1 axiom
+t3_xboole_0 axiom
+t64_relat_1 axiom
+t67_xboole_1 axiom
+t87_relat_1 axiom
+t89_relat_1 axiom
+t90_relat_1 axiom
+t214_relat_1 conjecture

@@ -1,0 +1,12 @@
+commutativity_k3_xboole_0 axiom
+d16_relat_1 axiom
+d7_xboole_0 axiom
+d8_funct_1 axiom
+fc2_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+irreflexivity_r1_subset_1 axiom
+redefinition_r1_subset_1 axiom
+t117_funct_1 axiom
+t149_relat_1 axiom
+t17_zfmisc_1 axiom
+t122_funct_1 conjecture

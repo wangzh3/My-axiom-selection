@@ -1,0 +1,6 @@
+d2_subset_1 axiom
+d5_xboole_0 axiom
+l35_zfmisc_1 axiom
+t55_subset_1 axiom
+t7_boole axiom
+t63_subset_1 conjecture

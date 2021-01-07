@@ -1,0 +1,11 @@
+commutativity_k1_tsep_1 axiom
+commutativity_k2_xboole_0 axiom
+d2_tsep_1 axiom
+d3_xboole_0 axiom
+dt_k1_tsep_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+fc2_struct_0 axiom
+t1_subset axiom
+t2_subset axiom
+t16_tmap_1 conjecture

@@ -1,0 +1,9 @@
+t34_tmap_1 conjecture
+t32_tmap_1 axiom
+t30_tsep_1 axiom
+symmetry_r1_tsep_1 axiom
+t24_tmap_1 axiom
+t22_tmap_1 axiom
+dt_k2_tsep_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom

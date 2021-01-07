@@ -1,0 +1,5 @@
+d11_relat_1 axiom
+d13_relat_1 axiom
+d3_tarski axiom
+dt_k7_relat_1 axiom
+t162_relat_1 conjecture

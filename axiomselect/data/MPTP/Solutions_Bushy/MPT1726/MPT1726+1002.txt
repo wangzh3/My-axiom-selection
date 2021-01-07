@@ -1,0 +1,7 @@
+commutativity_k1_tsep_1 axiom
+dt_k1_tsep_1 axiom
+dt_k2_tsep_1 axiom
+t22_tsep_1 axiom
+t24_tmap_1 axiom
+t34_tmap_1 axiom
+t35_tmap_1 conjecture

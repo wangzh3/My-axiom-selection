@@ -1,0 +1,4 @@
+t13_yellow_1 axiom
+t5_pre_topc axiom
+t7_boole axiom
+t23_yellow_1 conjecture

@@ -1,0 +1,6 @@
+commutativity_k3_xboole_0 axiom
+d12_funct_1 axiom
+d13_funct_1 axiom
+d3_tarski axiom
+d4_xboole_0 axiom
+t149_funct_1 conjecture

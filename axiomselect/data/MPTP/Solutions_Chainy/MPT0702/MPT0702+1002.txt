@@ -1,0 +1,11 @@
+d10_xboole_0 axiom
+d1_zfmisc_1 axiom
+d9_funct_1 axiom
+dt_k2_funct_1 axiom
+t146_funct_1 axiom
+t152_funct_1 axiom
+t155_funct_1 axiom
+t156_relat_1 axiom
+t56_setfam_1 axiom
+t99_zfmisc_1 axiom
+t157_funct_1 conjecture

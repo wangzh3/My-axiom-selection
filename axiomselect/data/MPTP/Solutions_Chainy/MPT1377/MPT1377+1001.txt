@@ -1,0 +1,14 @@
+abstractness_v1_pre_topc axiom
+d10_setfam_1 axiom
+dt_g1_pre_topc axiom
+dt_k1_pre_topc axiom
+dt_k8_setfam_1 axiom
+dt_m1_pre_topc axiom
+dt_u1_pre_topc axiom
+free_g1_pre_topc axiom
+t28_compts_1 axiom
+t29_pre_topc axiom
+t39_pre_topc axiom
+t4_subset_1 axiom
+t65_pre_topc axiom
+t33_compts_1 conjecture

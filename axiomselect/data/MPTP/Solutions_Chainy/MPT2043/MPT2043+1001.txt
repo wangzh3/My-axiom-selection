@@ -1,0 +1,15 @@
+d2_yellow_1 axiom
+dt_k1_lattice3 axiom
+dt_k3_yellow_1 axiom
+fc1_lattice3 axiom
+fc2_lattice3 axiom
+fc3_yellow_1 axiom
+fc7_yellow_1 axiom
+l13_xboole_0 axiom
+redefinition_k9_setfam_1 axiom
+t18_yellow_1 axiom
+t3_lattice3 axiom
+t4_waybel_7 axiom
+t7_boole axiom
+t8_waybel_7 axiom
+t2_yellow19 conjecture

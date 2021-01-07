@@ -1,0 +1,15 @@
+t24_yellow_1 conjecture
+d10_xboole_0 axiom
+d1_pre_topc axiom
+d5_pre_topc axiom
+dt_k5_setfam_1 axiom
+dt_u1_pre_topc axiom
+fc1_pre_topc axiom
+fc5_compts_1 axiom
+l49_zfmisc_1 axiom
+redefinition_k5_setfam_1 axiom
+t14_yellow_1 axiom
+t26_tops_2 axiom
+t3_subset axiom
+t95_zfmisc_1 axiom
+t99_zfmisc_1 axiom

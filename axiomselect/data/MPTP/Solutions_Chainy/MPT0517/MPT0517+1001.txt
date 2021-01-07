@@ -1,0 +1,4 @@
+d12_relat_1 axiom
+d3_relat_1 axiom
+dt_k8_relat_1 axiom
+t117_relat_1 conjecture

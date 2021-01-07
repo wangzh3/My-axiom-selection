@@ -1,0 +1,8 @@
+abstractness_v1_orders_2 axiom
+d1_yellow_1 axiom
+dt_k3_yellow_1 axiom
+dt_u1_orders_2 axiom
+free_g1_orders_2 axiom
+redefinition_k9_setfam_1 axiom
+t4_yellow_1 axiom
+t4_waybel_7 conjecture

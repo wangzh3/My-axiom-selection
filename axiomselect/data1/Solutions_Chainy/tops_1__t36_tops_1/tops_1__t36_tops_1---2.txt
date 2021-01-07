@@ -1,0 +1,6 @@
+t36_tops_1 conjecture
+dt_k4_subset_1 axiom
+commutativity_k4_subset_1 axiom
+t50_pre_topc axiom
+fc1_tops_1 axiom
+t52_pre_topc axiom

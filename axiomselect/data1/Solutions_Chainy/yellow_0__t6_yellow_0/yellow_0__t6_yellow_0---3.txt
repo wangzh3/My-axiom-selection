@@ -1,0 +1,6 @@
+t6_yellow_0 conjecture
+rc1_relset_1 axiom
+t5_subset axiom
+d8_lattice3 axiom
+d9_lattice3 axiom
+t4_subset_1 axiom

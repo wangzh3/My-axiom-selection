@@ -1,0 +1,8 @@
+t53_pre_topc conjecture
+dt_l1_pre_topc axiom
+redefinition_k7_subset_1 axiom
+dt_k7_subset_1 axiom
+t22_pre_topc axiom
+t52_pre_topc axiom
+d6_pre_topc axiom
+dt_k2_struct_0 axiom

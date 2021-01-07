@@ -1,0 +1,4 @@
+d1_zfmisc_1 axiom
+t2_xboole_1 axiom
+t63_subset_1 axiom
+t61_setfam_1 conjecture

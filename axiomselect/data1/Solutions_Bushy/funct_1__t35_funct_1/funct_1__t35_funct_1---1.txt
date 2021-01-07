@@ -1,0 +1,3 @@
+t35_funct_1 conjecture
+t34_funct_1 axiom
+fc3_funct_1 axiom

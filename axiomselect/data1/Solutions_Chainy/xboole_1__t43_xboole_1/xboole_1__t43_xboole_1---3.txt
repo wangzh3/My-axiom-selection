@@ -1,0 +1,6 @@
+t43_xboole_1 conjecture
+t40_xboole_1 axiom
+t36_xboole_1 axiom
+commutativity_k2_xboole_0 axiom
+t1_xboole_1 axiom
+t33_xboole_1 axiom

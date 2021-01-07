@@ -1,0 +1,12 @@
+t42_xboole_1 conjecture
+t39_xboole_1 axiom
+t41_xboole_1 axiom
+t40_xboole_1 axiom
+t7_xboole_1 axiom
+t8_xboole_1 axiom
+d8_xboole_0 axiom
+antisymmetry_r2_xboole_0 axiom
+commutativity_k2_xboole_0 axiom
+d10_xboole_0 axiom
+t33_xboole_1 axiom
+t4_xboole_1 axiom

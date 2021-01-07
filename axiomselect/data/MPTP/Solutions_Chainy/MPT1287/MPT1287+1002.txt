@@ -1,0 +1,13 @@
+commutativity_k2_xboole_0 axiom
+d10_xboole_0 axiom
+d5_subset_1 axiom
+dt_k9_subset_1 axiom
+l36_xboole_1 axiom
+redefinition_k4_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t101_tops_1 axiom
+t108_tops_1 axiom
+t36_xboole_1 axiom
+t3_subset axiom
+t48_xboole_1 axiom
+t109_tops_1 conjecture

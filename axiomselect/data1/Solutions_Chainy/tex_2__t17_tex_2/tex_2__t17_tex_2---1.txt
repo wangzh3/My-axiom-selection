@@ -1,0 +1,4 @@
+t17_tex_2 conjecture
+dt_u1_pre_topc axiom
+d1_tdlat_3 axiom
+free_g1_pre_topc axiom

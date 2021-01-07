@@ -1,0 +1,4 @@
+t8_relset_1 conjecture
+t37_zfmisc_1 axiom
+t106_zfmisc_1 axiom
+t3_subset axiom

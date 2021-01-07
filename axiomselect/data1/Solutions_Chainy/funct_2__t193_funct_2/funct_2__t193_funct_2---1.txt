@@ -1,0 +1,10 @@
+t193_funct_2 conjecture
+d2_subset_1 axiom
+cc5_funct_2 axiom
+cc1_relset_1 axiom
+d8_partfun1 axiom
+t192_funct_2 axiom
+t172_funct_1 axiom
+d4_partfun1 axiom
+cc2_relset_1 axiom
+redefinition_k3_funct_2 axiom

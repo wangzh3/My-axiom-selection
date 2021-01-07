@@ -1,0 +1,7 @@
+d3_tarski axiom
+d5_subset_1 axiom
+l3_subset_1 axiom
+t106_xboole_1 axiom
+t33_xboole_1 axiom
+t83_xboole_1 axiom
+t43_subset_1 conjecture

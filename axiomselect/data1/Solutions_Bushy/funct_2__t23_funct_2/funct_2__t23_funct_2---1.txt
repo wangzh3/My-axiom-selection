@@ -1,0 +1,13 @@
+t23_funct_2 conjecture
+redefinition_k4_relset_1 axiom
+redefinition_k6_partfun1 axiom
+dt_k2_relset_1 axiom
+t3_subset axiom
+redefinition_r2_relset_1 axiom
+t79_relat_1 axiom
+dt_k1_relset_1 axiom
+dt_k6_partfun1 axiom
+t77_relat_1 axiom
+cc1_relset_1 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom

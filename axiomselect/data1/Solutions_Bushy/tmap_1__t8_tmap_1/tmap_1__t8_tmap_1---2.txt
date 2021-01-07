@@ -1,0 +1,8 @@
+t8_tmap_1 conjecture
+redefinition_r2_funct_2 axiom
+dt_k1_tmap_1 axiom
+reflexivity_r1_funct_2 axiom
+commutativity_k4_subset_1 axiom
+d1_tmap_1 axiom
+t7_tmap_1 axiom
+dt_k2_partfun1 axiom

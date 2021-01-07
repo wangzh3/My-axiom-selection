@@ -1,0 +1,3 @@
+t88_xboole_1 conjecture
+t83_xboole_1 axiom
+t40_xboole_1 axiom

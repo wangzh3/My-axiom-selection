@@ -1,0 +1,14 @@
+t76_mcart_1 conjecture
+t5_subset axiom
+dt_k6_mcart_1 axiom
+dt_o_0_0_xboole_0 axiom
+d2_xboole_0 axiom
+t35_mcart_1 axiom
+dt_k7_mcart_1 axiom
+t7_boole axiom
+t2_subset axiom
+dt_k5_mcart_1 axiom
+existence_m1_subset_1 axiom
+t1_subset axiom
+t6_boole axiom
+t75_mcart_1 axiom

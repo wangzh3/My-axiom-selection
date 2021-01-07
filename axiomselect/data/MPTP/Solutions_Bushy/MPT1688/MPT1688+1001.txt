@@ -1,0 +1,5 @@
+cc1_relset_1 axiom
+d38_waybel_0 axiom
+t62_funct_1 axiom
+t65_funct_1 axiom
+t68_waybel_0 conjecture

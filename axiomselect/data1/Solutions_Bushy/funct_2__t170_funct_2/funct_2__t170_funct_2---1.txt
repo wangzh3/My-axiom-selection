@@ -1,0 +1,10 @@
+t170_funct_2 conjecture
+dt_o_0_0_xboole_0 axiom
+t3_subset axiom
+d4_subset_1 axiom
+t7_funct_2 axiom
+fc1_subset_1 axiom
+t1_subset axiom
+t6_boole axiom
+s3_relset_1__e2_192__funct_2 axiom
+redefinition_k9_setfam_1 axiom

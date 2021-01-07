@@ -1,0 +1,9 @@
+t2_wellord1 conjecture
+t60_relat_1 axiom
+d3_tarski axiom
+t30_relat_1 axiom
+d1_wellord1 axiom
+t2_boole axiom
+t196_relat_1 axiom
+fc1_relat_1 axiom
+t18_funct_1 axiom

@@ -1,0 +1,4 @@
+t66_relat_1 conjecture
+t6_boole axiom
+fc14_relat_1 axiom
+fc1_xboole_0 axiom

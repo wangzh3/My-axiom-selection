@@ -1,0 +1,4 @@
+t21_waybel_9 conjecture
+t38_yellow_6 axiom
+t5_connsp_2 axiom
+t4_subset axiom

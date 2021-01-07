@@ -1,0 +1,5 @@
+cc2_ordinal1 axiom
+d2_ordinal1 axiom
+d3_ordinal1 axiom
+t24_ordinal1 axiom
+t31_ordinal1 conjecture

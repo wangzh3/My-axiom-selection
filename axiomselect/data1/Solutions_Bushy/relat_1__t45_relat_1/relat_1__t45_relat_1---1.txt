@@ -1,0 +1,5 @@
+t45_relat_1 conjecture
+d8_relat_1 axiom
+d5_relat_1 axiom
+d3_tarski axiom
+dt_k5_relat_1 axiom

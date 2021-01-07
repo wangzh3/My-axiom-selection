@@ -1,0 +1,6 @@
+t25_mcart_1 conjecture
+t45_enumset1 axiom
+commutativity_k2_xboole_0 axiom
+t132_zfmisc_1 axiom
+commutativity_k2_tarski axiom
+t36_zfmisc_1 axiom

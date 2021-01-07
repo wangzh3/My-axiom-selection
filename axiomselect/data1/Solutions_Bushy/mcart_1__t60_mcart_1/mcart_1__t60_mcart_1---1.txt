@@ -1,0 +1,10 @@
+t60_mcart_1 conjecture
+d8_mcart_1 axiom
+d11_mcart_1 axiom
+dt_k11_mcart_1 axiom
+d10_mcart_1 axiom
+l68_mcart_1 axiom
+dt_k8_mcart_1 axiom
+dt_k10_mcart_1 axiom
+d9_mcart_1 axiom
+dt_k9_mcart_1 axiom

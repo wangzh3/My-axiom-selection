@@ -1,0 +1,6 @@
+t99_funct_1 conjecture
+t52_funct_1 axiom
+dt_k6_relat_1 axiom
+t123_relat_1 axiom
+t46_funct_1 axiom
+fc3_funct_1 axiom

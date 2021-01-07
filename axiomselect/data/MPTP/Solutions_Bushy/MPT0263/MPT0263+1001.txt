@@ -1,0 +1,4 @@
+commutativity_k3_xboole_0 axiom
+l27_zfmisc_1 axiom
+l31_zfmisc_1 axiom
+t58_zfmisc_1 conjecture

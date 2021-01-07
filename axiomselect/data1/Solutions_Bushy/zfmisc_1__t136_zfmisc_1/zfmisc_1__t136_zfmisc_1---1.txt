@@ -1,0 +1,4 @@
+t136_zfmisc_1 conjecture
+t9_tarski axiom
+d1_zfmisc_1 axiom
+d3_tarski axiom

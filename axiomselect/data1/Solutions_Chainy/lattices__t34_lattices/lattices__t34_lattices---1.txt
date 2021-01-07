@@ -1,0 +1,13 @@
+t34_lattices conjecture
+cc1_lattices axiom
+commutativity_k3_lattices axiom
+commutativity_k4_lattices axiom
+d11_lattices axiom
+d9_lattices axiom
+dt_k3_lattices axiom
+dt_k4_lattices axiom
+dt_l3_lattices axiom
+redefinition_k3_lattices axiom
+redefinition_k4_lattices axiom
+t17_lattices axiom
+t31_lattices axiom

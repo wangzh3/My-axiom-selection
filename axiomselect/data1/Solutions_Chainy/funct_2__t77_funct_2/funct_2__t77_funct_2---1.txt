@@ -1,0 +1,17 @@
+t77_funct_2 conjecture
+cc1_relset_1 axiom
+d8_funct_1 axiom
+fc1_relat_1 axiom
+l3_subset_1 axiom
+s3_funct_1__e9_44_1__funct_1 axiom
+t106_zfmisc_1 axiom
+t111_relat_1 axiom
+t12_funct_1 axiom
+t25_funct_2 axiom
+t2_boole axiom
+t5_xboole_0 axiom
+t60_relat_1 axiom
+t65_relat_1 axiom
+t86_relat_1 axiom
+t8_funct_1 axiom
+t95_relat_1 axiom

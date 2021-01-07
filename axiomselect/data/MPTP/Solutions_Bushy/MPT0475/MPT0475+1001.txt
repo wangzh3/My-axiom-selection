@@ -1,0 +1,11 @@
+d4_relat_1 axiom
+d4_xboole_0 axiom
+d5_relat_1 axiom
+d7_xboole_0 axiom
+d8_relat_1 axiom
+dt_k5_relat_1 axiom
+dt_o_0_0_xboole_0 axiom
+t56_relat_1 axiom
+t6_boole axiom
+t7_boole axiom
+t67_relat_1 conjecture

@@ -1,0 +1,8 @@
+d18_relat_1 axiom
+d19_relat_1 axiom
+d7_ordinal1 axiom
+dt_k6_relat_1 axiom
+fc24_relat_1 axiom
+fc3_funct_1 axiom
+t34_funct_1 axiom
+t46_ordinal1 conjecture

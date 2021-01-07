@@ -1,0 +1,7 @@
+fof(t45_ordinal1,conjecture,(! [A] :( v1_relat_1(k1_xboole_0)& v5_relat_1(k1_xboole_0,A)& v1_funct_1(k1_xboole_0)& v5_ordinal1(k1_xboole_0) ) )).
+fof(t206_relat_1,axiom,(! [A,B] :( v4_relat_1(k1_xboole_0,A)& v5_relat_1(k1_xboole_0,B) ) )).
+fof(cc1_relat_1,axiom,(! [A] :( v1_xboole_0(A)=> v1_relat_1(A) ) )).
+fof(d3_subset_1,axiom,(! [A] : k1_subset_1(A) = k1_xboole_0 )).
+fof(cc1_funct_1,axiom,(! [A] :( v1_xboole_0(A)=> v1_funct_1(A) ) )).
+fof(fc13_subset_1,axiom,(! [A] : v1_xboole_0(k1_subset_1(A)) )).
+fof(cc4_ordinal1,axiom,(! [A] :( v1_xboole_0(A)=> v5_ordinal1(A) ) )).

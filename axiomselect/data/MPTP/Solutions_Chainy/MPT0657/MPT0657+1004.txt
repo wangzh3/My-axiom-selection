@@ -1,0 +1,8 @@
+d9_funct_1 axiom
+involutiveness_k4_relat_1 axiom
+t169_relat_1 axiom
+t182_relat_1 axiom
+t53_funct_1 axiom
+t63_funct_1 axiom
+t71_relat_1 axiom
+t64_funct_1 conjecture

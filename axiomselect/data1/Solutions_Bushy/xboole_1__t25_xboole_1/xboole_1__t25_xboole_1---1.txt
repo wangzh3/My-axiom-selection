@@ -1,0 +1,8 @@
+t25_xboole_1 conjecture
+idempotence_k2_xboole_0 axiom
+commutativity_k2_xboole_0 axiom
+t24_xboole_1 axiom
+t16_xboole_1 axiom
+t4_xboole_1 axiom
+commutativity_k3_xboole_0 axiom
+t22_xboole_1 axiom

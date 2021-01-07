@@ -1,0 +1,10 @@
+commutativity_k3_xboole_0 axiom
+d11_waybel_0 axiom
+d12_waybel_0 axiom
+d5_xboole_0 axiom
+redefinition_k6_subset_1 axiom
+t17_xboole_1 axiom
+t48_xboole_1 axiom
+t8_waybel_0 axiom
+t9_waybel_0 axiom
+t10_waybel_0 conjecture

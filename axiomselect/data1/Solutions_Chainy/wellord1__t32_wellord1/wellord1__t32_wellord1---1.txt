@@ -1,0 +1,8 @@
+t32_wellord1 conjecture
+dt_k2_wellord1 axiom
+d4_wellord1 axiom
+t25_wellord1 axiom
+t22_wellord1 axiom
+t24_wellord1 axiom
+t23_wellord1 axiom
+t31_wellord1 axiom

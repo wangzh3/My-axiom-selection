@@ -1,0 +1,7 @@
+dt_l1_pre_topc axiom
+existence_m1_subset_1 axiom
+fc3_struct_0 axiom
+t2_subset axiom
+t4_subset axiom
+t8_boole axiom
+t41_pre_topc conjecture

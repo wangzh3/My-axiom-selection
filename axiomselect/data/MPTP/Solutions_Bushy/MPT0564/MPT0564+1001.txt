@@ -1,0 +1,5 @@
+commutativity_k3_xboole_0 axiom
+d14_relat_1 axiom
+d4_xboole_0 axiom
+t166_relat_1 axiom
+t168_relat_1 conjecture

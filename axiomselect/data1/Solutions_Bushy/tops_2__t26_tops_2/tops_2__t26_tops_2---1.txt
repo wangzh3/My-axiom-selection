@@ -1,0 +1,7 @@
+t26_tops_2 conjecture
+d5_pre_topc axiom
+d3_tarski axiom
+t4_subset axiom
+d1_pre_topc axiom
+d1_tops_2 axiom
+dt_k5_setfam_1 axiom

@@ -1,0 +1,8 @@
+t20_compts_1 conjecture
+t18_compts_1 axiom
+dt_k9_subset_1 axiom
+t16_compts_1 axiom
+redefinition_k9_subset_1 axiom
+t17_xboole_1 axiom
+commutativity_k3_xboole_0 axiom
+fc4_tops_1 axiom

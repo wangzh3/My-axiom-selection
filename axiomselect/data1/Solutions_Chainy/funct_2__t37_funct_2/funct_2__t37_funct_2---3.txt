@@ -1,0 +1,16 @@
+t37_funct_2 conjecture
+t86_relat_1 axiom
+fc6_relat_1 axiom
+dt_k1_partfun1 axiom
+cc2_relat_1 axiom
+t29_relset_1 axiom
+t60_relat_1 axiom
+t52_funct_1 axiom
+t4_subset_1 axiom
+redefinition_r2_relset_1 axiom
+t25_funct_2 axiom
+redefinition_k1_partfun1 axiom
+t111_relat_1 axiom
+redefinition_k6_partfun1 axiom
+t152_zfmisc_1 axiom
+t26_funct_2 axiom

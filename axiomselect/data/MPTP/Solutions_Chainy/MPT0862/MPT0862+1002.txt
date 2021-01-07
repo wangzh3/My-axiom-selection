@@ -1,0 +1,11 @@
+commutativity_k2_tarski axiom
+d2_tarski axiom
+t10_mcart_1 axiom
+t12_mcart_1 axiom
+t15_funct_1 axiom
+t1_zfmisc_1 axiom
+t20_zfmisc_1 axiom
+t69_enumset1 axiom
+t75_zfmisc_1 axiom
+t95_enumset1 axiom
+t18_mcart_1 conjecture

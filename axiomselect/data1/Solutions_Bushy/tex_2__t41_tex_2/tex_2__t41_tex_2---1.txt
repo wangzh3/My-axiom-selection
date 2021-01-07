@@ -1,0 +1,13 @@
+t41_tex_2 conjecture
+t17_xboole_1 axiom
+t31_tops_1 axiom
+t48_pre_topc axiom
+d10_xboole_0 axiom
+d6_tex_2 axiom
+fc1_tops_1 axiom
+dt_k2_pre_topc axiom
+t19_xboole_1 axiom
+commutativity_k9_subset_1 axiom
+redefinition_k9_subset_1 axiom
+commutativity_k3_xboole_0 axiom
+t26_xboole_1 axiom

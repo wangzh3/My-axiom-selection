@@ -1,0 +1,8 @@
+d1_funct_2 axiom
+d1_relat_1 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom
+t14_funct_1 axiom
+t6_relset_1 axiom
+t82_enumset1 axiom
+t62_funct_2 conjecture

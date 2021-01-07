@@ -1,0 +1,6 @@
+t31_waybel_0 conjecture
+d15_waybel_0 axiom
+d9_lattice3 axiom
+dt_k3_waybel_0 axiom
+t24_orders_2 axiom
+t26_orders_2 axiom

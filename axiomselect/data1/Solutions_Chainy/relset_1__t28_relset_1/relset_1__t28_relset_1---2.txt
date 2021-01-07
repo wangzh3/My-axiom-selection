@@ -1,0 +1,4 @@
+t28_relset_1 conjecture
+t71_relat_1 axiom
+t21_relat_1 axiom
+dt_k6_relat_1 axiom

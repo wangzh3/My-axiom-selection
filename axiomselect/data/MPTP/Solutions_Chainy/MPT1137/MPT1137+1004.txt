@@ -1,0 +1,8 @@
+cc1_relset_1 axiom
+d2_subset_1 axiom
+d4_relat_2 axiom
+d6_orders_2 axiom
+d9_orders_2 axiom
+dt_u1_orders_2 axiom
+t8_boole axiom
+t25_orders_2 conjecture

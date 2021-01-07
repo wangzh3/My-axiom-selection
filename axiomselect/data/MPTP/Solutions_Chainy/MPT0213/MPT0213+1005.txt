@@ -1,0 +1,12 @@
+d4_tarski axiom
+d4_xboole_0 axiom
+d5_xboole_0 axiom
+d8_xboole_0 axiom
+t100_xboole_1 axiom
+t16_xboole_1 axiom
+t28_xboole_1 axiom
+t2_boole axiom
+t5_boole axiom
+t61_xboole_1 axiom
+t7_xboole_0 axiom
+t2_zfmisc_1 conjecture

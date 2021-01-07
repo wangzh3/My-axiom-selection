@@ -1,0 +1,9 @@
+t159_funct_2 conjecture
+dt_o_0_0_xboole_0 axiom
+fc2_partfun1 axiom
+d3_tarski axiom
+t8_boole axiom
+t11_funct_2 axiom
+t7_boole axiom
+t158_funct_2 axiom
+t6_boole axiom

@@ -1,0 +1,8 @@
+t40_funct_2 conjecture
+fc6_relat_1 axiom
+redefinition_k2_partfun1 axiom
+cc2_relat_1 axiom
+reflexivity_r2_relset_1 axiom
+cc2_relset_1 axiom
+t217_relat_1 axiom
+t209_relat_1 axiom

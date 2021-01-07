@@ -1,0 +1,11 @@
+cc1_subset_1 axiom
+cc1_tops_1 axiom
+d5_tex_2 axiom
+dt_k9_subset_1 axiom
+idempotence_k9_subset_1 axiom
+rc2_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t3_subset axiom
+t6_boole axiom
+t8_boole axiom
+t35_tex_2 conjecture

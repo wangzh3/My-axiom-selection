@@ -1,0 +1,9 @@
+d15_waybel_0 axiom
+d1_waybel_0 axiom
+dt_k3_waybel_0 axiom
+existence_m1_subset_1 axiom
+redefinition_r3_orders_2 axiom
+reflexivity_r3_orders_2 axiom
+t26_orders_2 axiom
+t4_subset axiom
+t30_waybel_0 conjecture

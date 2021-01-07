@@ -1,0 +1,5 @@
+t12_xboole_1 conjecture
+t10_xboole_1 axiom
+t9_xboole_1 axiom
+idempotence_k2_xboole_0 axiom
+d10_xboole_0 axiom

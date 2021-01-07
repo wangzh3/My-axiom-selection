@@ -1,0 +1,15 @@
+d2_xboole_0 axiom
+dt_k10_mcart_1 axiom
+dt_k11_mcart_1 axiom
+dt_k8_mcart_1 axiom
+dt_k9_mcart_1 axiom
+dt_o_0_0_xboole_0 axiom
+existence_m1_subset_1 axiom
+t1_subset axiom
+t2_subset axiom
+t55_mcart_1 axiom
+t5_subset axiom
+t6_boole axiom
+t7_boole axiom
+t86_mcart_1 axiom
+t87_mcart_1 conjecture

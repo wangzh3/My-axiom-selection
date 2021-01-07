@@ -1,0 +1,5 @@
+commutativity_k3_xboole_0 axiom
+d2_setfam_1 axiom
+d5_setfam_1 axiom
+t17_xboole_1 axiom
+t30_setfam_1 conjecture

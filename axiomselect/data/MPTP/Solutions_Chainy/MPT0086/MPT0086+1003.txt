@@ -1,0 +1,11 @@
+d7_xboole_0 axiom
+idempotence_k2_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+t2_boole axiom
+t36_xboole_1 axiom
+t3_boole axiom
+t41_xboole_1 axiom
+t48_xboole_1 axiom
+t63_xboole_1 axiom
+t65_xboole_1 axiom
+t79_xboole_1 conjecture

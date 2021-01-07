@@ -1,0 +1,5 @@
+d3_tarski axiom
+l139_zfmisc_1 axiom
+t21_relat_1 axiom
+t7_mcart_1 axiom
+t23_mcart_1 conjecture

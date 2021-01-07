@@ -1,0 +1,16 @@
+t7_lattice3 conjecture
+abstractness_v1_orders_2 axiom
+cc1_subset_1 axiom
+d2_lattice3 axiom
+d3_lattice3 axiom
+d9_orders_2 axiom
+dt_k2_lattice3 axiom
+dt_k3_lattice3 axiom
+dt_k4_lattice3 axiom
+fc4_lattice3 axiom
+free_g1_orders_2 axiom
+rc14_lattices axiom
+redefinition_k1_domain_1 axiom
+redefinition_k2_lattice3 axiom
+redefinition_r3_orders_2 axiom
+t32_filter_1 axiom

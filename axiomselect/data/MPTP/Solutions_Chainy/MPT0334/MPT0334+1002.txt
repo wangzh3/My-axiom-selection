@@ -1,0 +1,6 @@
+commutativity_k2_xboole_0 axiom
+d1_tarski axiom
+t141_zfmisc_1 axiom
+t40_xboole_1 axiom
+t42_xboole_1 axiom
+t147_zfmisc_1 conjecture

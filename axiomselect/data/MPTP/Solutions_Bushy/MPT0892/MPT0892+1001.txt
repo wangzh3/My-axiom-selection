@@ -1,0 +1,4 @@
+d3_zfmisc_1 axiom
+symmetry_r1_xboole_0 axiom
+t127_zfmisc_1 axiom
+t52_mcart_1 conjecture

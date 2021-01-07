@@ -1,0 +1,13 @@
+t3_setfam_1 conjecture
+t2_xboole_1 axiom
+t7_xboole_0 axiom
+l51_zfmisc_1 axiom
+t69_enumset1 axiom
+d1_setfam_1 axiom
+t73_xboole_1 axiom
+d3_tarski axiom
+d4_tarski axiom
+t65_xboole_1 axiom
+commutativity_k2_xboole_0 axiom
+t31_zfmisc_1 axiom
+t2_zfmisc_1 axiom

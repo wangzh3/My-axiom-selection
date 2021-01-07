@@ -1,0 +1,6 @@
+d1_tarski axiom
+dt_o_0_0_xboole_0 axiom
+fc2_xboole_0 axiom
+l3_zfmisc_1 axiom
+t6_boole axiom
+t6_zfmisc_1 conjecture

@@ -1,0 +1,6 @@
+d1_wellord1 axiom
+d3_tarski axiom
+d4_xboole_0 axiom
+d6_wellord1 axiom
+dt_k2_wellord1 axiom
+t21_wellord1 conjecture

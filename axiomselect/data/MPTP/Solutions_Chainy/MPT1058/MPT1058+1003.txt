@@ -1,0 +1,4 @@
+commutativity_k3_xboole_0 axiom
+t139_funct_1 axiom
+t28_xboole_1 axiom
+t175_funct_2 conjecture

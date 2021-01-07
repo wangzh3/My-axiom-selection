@@ -1,0 +1,7 @@
+t75_xboole_1 conjecture
+t16_xboole_1 axiom
+idempotence_k2_xboole_0 axiom
+t48_xboole_1 axiom
+t42_xboole_1 axiom
+t4_xboole_0 axiom
+t54_xboole_1 axiom

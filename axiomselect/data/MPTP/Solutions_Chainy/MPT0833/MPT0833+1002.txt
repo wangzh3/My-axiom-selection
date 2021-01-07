@@ -1,0 +1,8 @@
+cc1_relset_1 axiom
+cc2_relset_1 axiom
+d19_relat_1 axiom
+redefinition_k6_relset_1 axiom
+redefinition_r2_relset_1 axiom
+t125_relat_1 axiom
+t1_xboole_1 axiom
+t36_relset_1 conjecture

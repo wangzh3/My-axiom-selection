@@ -1,0 +1,4 @@
+t4_yellow_0 conjecture
+d9_lattice3 axiom
+d8_lattice3 axiom
+t26_orders_2 axiom

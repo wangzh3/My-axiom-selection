@@ -1,0 +1,5 @@
+t78_mcart_1 conjecture
+t7_mcart_1 axiom
+t61_mcart_1 axiom
+t31_mcart_1 axiom
+t53_mcart_1 axiom

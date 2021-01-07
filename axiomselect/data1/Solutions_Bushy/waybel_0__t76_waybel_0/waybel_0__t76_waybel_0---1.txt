@@ -1,0 +1,4 @@
+t76_waybel_0 conjecture
+d40_waybel_0 axiom
+t25_orders_2 axiom
+d8_yellow_0 axiom

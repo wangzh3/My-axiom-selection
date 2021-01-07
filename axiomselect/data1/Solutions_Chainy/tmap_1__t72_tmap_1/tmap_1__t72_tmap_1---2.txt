@@ -1,0 +1,10 @@
+t72_tmap_1 conjecture
+cc1_relset_1 axiom
+t72_funct_1 axiom
+d5_tmap_1 axiom
+t7_boole axiom
+t1_tsep_1 axiom
+cc1_subset_1 axiom
+redefinition_k2_partfun1 axiom
+dt_m1_pre_topc axiom
+redefinition_k3_funct_2 axiom

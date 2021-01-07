@@ -1,0 +1,6 @@
+commutativity_k12_lattice3 axiom
+d11_lattice3 axiom
+d14_lattice3 axiom
+dt_k11_lattice3 axiom
+redefinition_k12_lattice3 axiom
+t23_yellow_0 conjecture

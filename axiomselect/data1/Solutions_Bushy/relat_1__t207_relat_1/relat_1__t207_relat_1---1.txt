@@ -1,0 +1,6 @@
+t207_relat_1 conjecture
+dt_o_0_0_xboole_0 axiom
+t100_relat_1 axiom
+fc16_relat_1 axiom
+d7_xboole_0 axiom
+t6_boole axiom

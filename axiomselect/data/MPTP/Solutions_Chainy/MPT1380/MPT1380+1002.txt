@@ -1,0 +1,5 @@
+d10_xboole_0 axiom
+d1_connsp_2 axiom
+d3_tarski axiom
+t56_tops_1 axiom
+t5_connsp_2 conjecture

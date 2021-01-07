@@ -1,0 +1,3 @@
+d3_tarski axiom
+t142_funct_1 axiom
+t143_funct_1 conjecture

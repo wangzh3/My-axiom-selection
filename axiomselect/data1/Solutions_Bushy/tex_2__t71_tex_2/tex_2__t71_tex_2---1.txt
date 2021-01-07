@@ -1,0 +1,17 @@
+t71_tex_2 conjecture
+redefinition_k6_partfun1 axiom
+dt_k2_tex_1 axiom
+dt_l1_pre_topc axiom
+d12_pre_topc axiom
+dt_k1_tex_1 axiom
+cc1_funct_2 axiom
+fc2_tex_1 axiom
+t21_tdlat_3 axiom
+abstractness_v1_pre_topc axiom
+fc3_tex_1 axiom
+dt_k6_partfun1 axiom
+free_g1_pre_topc axiom
+t171_funct_2 axiom
+fc3_funct_1 axiom
+d3_tex_1 axiom
+fc2_struct_0 axiom

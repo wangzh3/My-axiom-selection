@@ -1,0 +1,8 @@
+t151_relat_1 conjecture
+d4_xboole_0 axiom
+t3_xboole_0 axiom
+d7_xboole_0 axiom
+t143_relat_1 axiom
+commutativity_k3_xboole_0 axiom
+d4_relat_1 axiom
+t2_boole axiom

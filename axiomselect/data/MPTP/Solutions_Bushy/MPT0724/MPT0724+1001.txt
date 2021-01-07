@@ -1,0 +1,3 @@
+d2_enumset1 axiom
+t7_tarski axiom
+t4_ordinal1 conjecture

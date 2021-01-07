@@ -1,0 +1,7 @@
+d4_relat_1 axiom
+d5_relat_1 axiom
+existence_m1_subset_1 axiom
+t106_zfmisc_1 axiom
+t2_subset axiom
+t6_boole axiom
+t195_relat_1 conjecture

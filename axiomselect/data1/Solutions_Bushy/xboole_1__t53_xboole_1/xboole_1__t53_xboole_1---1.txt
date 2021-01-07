@@ -1,0 +1,8 @@
+t53_xboole_1 conjecture
+d4_xboole_0 axiom
+d5_xboole_0 axiom
+d3_tarski axiom
+idempotence_k3_xboole_0 axiom
+t7_xboole_1 axiom
+d3_xboole_0 axiom
+t34_xboole_1 axiom

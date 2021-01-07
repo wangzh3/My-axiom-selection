@@ -1,0 +1,5 @@
+antisymmetry_r2_xboole_0 axiom
+d8_xboole_0 axiom
+t11_xboole_1 axiom
+t12_xboole_1 axiom
+t59_xboole_1 conjecture

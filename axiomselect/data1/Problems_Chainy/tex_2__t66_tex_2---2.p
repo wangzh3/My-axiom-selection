@@ -1,0 +1,5 @@
+fof(t66_tex_2,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& v3_tdlat_3(A)& l1_pre_topc(A) )=> ? [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))& v3_tex_2(B,A) ) ) )).
+fof(fc1_xboole_0,axiom,(v1_xboole_0(k1_xboole_0) )).
+fof(t65_tex_2,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& v3_tdlat_3(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ~ ( v2_tex_2(B,A)& ! [C] :( m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A)))=> ~ ( r1_tarski(B,C)& v3_tex_2(C,A) ) ) ) ) ) )).
+fof(t35_tex_2,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( v1_xboole_0(B)& m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A))) )=> v2_tex_2(B,A) ) ) )).
+fof(t4_subset_1,axiom,(! [A] : m1_subset_1(k1_xboole_0,k1_zfmisc_1(A)) )).

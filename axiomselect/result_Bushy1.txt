@@ -1,0 +1,42 @@
+=====================================================================================
+half&half:
+the selection evaluation in Bushy dataset is 0.28769841269841273
+3 in total, 3 selected enough
+0.28769841269841273 over 3
+Selectivity is 0.7666666666666666
+Selectivity in selected enough is 0.7666666666666666
+=====================================================================================
+greedy search random path:
+the selection evaluation in Bushy dataset is 0.3055555555555556
+3 in total, 2 selected enough
+0.45833333333333337 over 2
+Selectivity is 0.4750000000000001
+Selectivity in selected enough is 0.45
+=====================================================================================
+greedy search all path:
+the selection evaluation in Bushy dataset is 0.4055555555555556
+3 in total, 3 selected enough
+0.4055555555555556 over 3
+Selectivity is 0.6333333333333334
+Selectivity in selected enough is 0.6333333333333334
+=====================================================================================
+A* search all path:
+the selection evaluation in Bushy dataset is 0.1626984126984127
+3 in total, 2 selected enough
+0.24404761904761907 over 2
+Selectivity is 0.725
+Selectivity in selected enough is 0.75
+=====================================================================================
+knn search all path:
+the selection evaluation in Bushy dataset is 0.23611111111111108
+3 in total, 2 selected enough
+0.35416666666666663 over 2
+Selectivity is 0.42777777777777776
+Selectivity in selected enough is 0.47500000000000003
+=====================================================================================
+knn search all path pruning:
+the selection evaluation in Bushy dataset is 0.23611111111111108
+3 in total, 2 selected enough
+0.35416666666666663 over 2
+Selectivity is 0.42777777777777776
+Selectivity in selected enough is 0.47500000000000003

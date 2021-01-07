@@ -1,0 +1,7 @@
+cc2_lattice3 axiom
+dt_k1_yellow_0 axiom
+redefinition_r3_orders_2 axiom
+t17_yellow_0 axiom
+t34_yellow_0 axiom
+t35_yellow_0 axiom
+t3_waybel_7 conjecture

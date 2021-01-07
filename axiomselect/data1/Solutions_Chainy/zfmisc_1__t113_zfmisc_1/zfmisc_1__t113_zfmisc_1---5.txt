@@ -1,0 +1,11 @@
+t113_zfmisc_1 conjecture
+t7_xboole_0 axiom
+d2_zfmisc_1 axiom
+l35_zfmisc_1 axiom
+idempotence_k2_xboole_0 axiom
+t3_boole axiom
+t2_boole axiom
+t48_xboole_1 axiom
+d5_xboole_0 axiom
+d3_xboole_0 axiom
+l33_zfmisc_1 axiom

@@ -1,0 +1,8 @@
+t75_tmap_1 conjecture
+dt_k3_tmap_1 axiom
+fc6_relat_1 axiom
+redefinition_k7_relset_1 axiom
+cc2_relat_1 axiom
+d5_tmap_1 axiom
+t162_relat_1 axiom
+redefinition_k2_partfun1 axiom

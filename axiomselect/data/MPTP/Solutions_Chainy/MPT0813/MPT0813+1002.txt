@@ -1,0 +1,4 @@
+t11_xboole_1 axiom
+t12_xboole_1 axiom
+t3_subset axiom
+t4_relset_1 conjecture

@@ -1,0 +1,5 @@
+commutativity_k2_tarski axiom
+d11_lattice3 axiom
+dt_k11_lattice3 axiom
+t19_yellow_0 axiom
+t21_yellow_0 conjecture

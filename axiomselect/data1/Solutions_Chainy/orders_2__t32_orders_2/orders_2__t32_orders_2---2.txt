@@ -1,0 +1,8 @@
+t32_orders_2 conjecture
+t30_orders_2 axiom
+t26_orders_2 axiom
+t25_orders_2 axiom
+d10_orders_2 axiom
+d9_orders_2 axiom
+irreflexivity_r2_orders_2 axiom
+existence_m1_subset_1 axiom

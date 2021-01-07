@@ -1,0 +1,4 @@
+d1_tarski axiom
+d5_funct_1 axiom
+t9_funct_1 axiom
+t17_funct_1 conjecture

@@ -1,0 +1,4 @@
+t18_zfmisc_1 conjecture
+d1_tarski axiom
+commutativity_k3_xboole_0 axiom
+l29_zfmisc_1 axiom

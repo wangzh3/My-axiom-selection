@@ -1,0 +1,5 @@
+t82_tops_1 conjecture
+dt_k9_subset_1 axiom
+t81_tops_1 axiom
+d3_tops_1 axiom
+commutativity_k9_subset_1 axiom

@@ -1,0 +1,7 @@
+t53_lattices conjecture
+dt_k7_lattices axiom
+cc1_lattices axiom
+t49_lattices axiom
+t52_lattices axiom
+dt_l3_lattices axiom
+commutativity_k4_lattices axiom

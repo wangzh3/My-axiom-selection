@@ -1,0 +1,4 @@
+d1_xboole_0 axiom
+d2_subset_1 axiom
+d3_tarski axiom
+t48_subset_1 conjecture

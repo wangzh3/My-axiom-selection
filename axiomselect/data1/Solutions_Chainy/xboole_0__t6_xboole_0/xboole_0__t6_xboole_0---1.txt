@@ -1,0 +1,4 @@
+t6_xboole_0 conjecture
+d3_tarski axiom
+antisymmetry_r2_xboole_0 axiom
+d8_xboole_0 axiom

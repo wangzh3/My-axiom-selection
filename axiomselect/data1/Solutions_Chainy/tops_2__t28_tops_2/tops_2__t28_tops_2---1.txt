@@ -1,0 +1,13 @@
+t28_tops_2 conjecture
+cc2_pre_topc axiom
+dt_k5_setfam_1 axiom
+dt_k7_setfam_1 axiom
+dt_l1_pre_topc axiom
+fc1_xboole_0 axiom
+redefinition_k5_setfam_1 axiom
+t11_tops_2 axiom
+t13_tops_2 axiom
+t16_tops_2 axiom
+t27_tops_2 axiom
+t29_tops_1 axiom
+t2_zfmisc_1 axiom

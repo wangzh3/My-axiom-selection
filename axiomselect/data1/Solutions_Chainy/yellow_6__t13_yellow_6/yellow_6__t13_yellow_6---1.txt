@@ -1,0 +1,5 @@
+t13_yellow_6 conjecture
+d7_yellow_6 axiom
+dt_k3_yellow_6 axiom
+dt_u1_orders_2 axiom
+free_g1_orders_2 axiom

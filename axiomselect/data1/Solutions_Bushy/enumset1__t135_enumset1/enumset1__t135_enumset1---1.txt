@@ -1,0 +1,7 @@
+t135_enumset1 conjecture
+commutativity_k2_xboole_0 axiom
+d3_xboole_0 axiom
+t2_tarski axiom
+d1_tarski axiom
+d8_enumset1 axiom
+d7_enumset1 axiom

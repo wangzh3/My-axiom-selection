@@ -1,0 +1,4 @@
+d3_tarski axiom
+t2_tarski axiom
+t7_subset_1 axiom
+t8_subset_1 conjecture

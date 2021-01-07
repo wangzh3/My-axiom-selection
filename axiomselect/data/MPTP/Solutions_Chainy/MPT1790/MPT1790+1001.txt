@@ -1,0 +1,5 @@
+d5_pre_topc axiom
+dt_k6_tmap_1 axiom
+t102_tmap_1 axiom
+t104_tmap_1 axiom
+t105_tmap_1 conjecture

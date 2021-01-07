@@ -1,0 +1,6 @@
+d4_yellow_0 axiom
+d5_yellow_0 axiom
+dt_u1_orders_2 axiom
+free_g1_orders_2 axiom
+t2_yellow_0 axiom
+t13_yellow_0 conjecture

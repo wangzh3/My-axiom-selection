@@ -1,0 +1,4 @@
+t48_xboole_1 axiom
+t90_relat_1 axiom
+t94_relat_1 axiom
+t37_funct_1 conjecture

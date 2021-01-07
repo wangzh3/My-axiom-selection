@@ -1,0 +1,10 @@
+t17_setfam_1 conjecture
+t5_subset axiom
+d2_setfam_1 axiom
+dt_o_0_0_xboole_0 axiom
+t3_subset axiom
+reflexivity_r1_setfam_1 axiom
+t4_subset axiom
+t2_subset axiom
+t1_subset axiom
+t6_boole axiom

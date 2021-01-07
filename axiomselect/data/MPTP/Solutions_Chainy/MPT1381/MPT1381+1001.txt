@@ -1,0 +1,4 @@
+d1_connsp_2 axiom
+d3_tarski axiom
+t44_tops_1 axiom
+t6_connsp_2 conjecture

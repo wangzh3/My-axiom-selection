@@ -1,0 +1,9 @@
+t105_tops_1 conjecture
+dt_k3_subset_1 axiom
+d1_tops_1 axiom
+d7_tops_1 axiom
+t59_tops_1 axiom
+t101_tops_1 axiom
+involutiveness_k3_subset_1 axiom
+t30_tops_1 axiom
+t52_pre_topc axiom

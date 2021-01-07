@@ -1,0 +1,6 @@
+d10_xboole_0 axiom
+d1_ordinal1 axiom
+t10_ordinal1 axiom
+t69_enumset1 axiom
+t7_ordinal1 axiom
+t14_ordinal1 conjecture

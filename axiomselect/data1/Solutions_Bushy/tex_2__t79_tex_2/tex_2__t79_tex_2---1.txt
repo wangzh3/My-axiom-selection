@@ -1,0 +1,3 @@
+t79_tex_2 conjecture
+t78_tex_2 axiom
+d20_borsuk_1 axiom

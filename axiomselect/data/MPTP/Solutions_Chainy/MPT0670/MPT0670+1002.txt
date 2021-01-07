@@ -1,0 +1,3 @@
+fc9_funct_1 axiom
+t85_funct_1 axiom
+t87_funct_1 conjecture

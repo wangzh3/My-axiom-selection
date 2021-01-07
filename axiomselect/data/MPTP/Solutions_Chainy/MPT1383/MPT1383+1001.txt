@@ -1,0 +1,8 @@
+d1_connsp_2 axiom
+d3_tarski axiom
+fc9_tops_1 axiom
+t1_xboole_1 axiom
+t3_subset axiom
+t44_tops_1 axiom
+t56_tops_1 axiom
+t8_connsp_2 conjecture

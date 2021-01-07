@@ -1,0 +1,3 @@
+t19_ordinal1 conjecture
+d3_tarski axiom
+d2_ordinal1 axiom

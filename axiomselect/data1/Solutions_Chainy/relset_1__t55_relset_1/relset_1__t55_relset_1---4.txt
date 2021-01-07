@@ -1,0 +1,7 @@
+t55_relset_1 conjecture
+cc1_relset_1 axiom
+redefinition_k5_relset_1 axiom
+symmetry_r1_xboole_0 axiom
+cc2_relset_1 axiom
+t207_relat_1 axiom
+t209_relat_1 axiom

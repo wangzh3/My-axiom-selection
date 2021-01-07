@@ -1,0 +1,6 @@
+d15_orders_2 axiom
+d1_zfmisc_1 axiom
+t1_subset axiom
+t2_xboole_1 axiom
+t62_orders_2 axiom
+t68_orders_2 conjecture

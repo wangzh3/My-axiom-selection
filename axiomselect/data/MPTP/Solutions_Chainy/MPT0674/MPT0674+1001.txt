@@ -1,0 +1,4 @@
+d1_tarski axiom
+t204_relat_1 axiom
+t8_funct_1 axiom
+t117_funct_1 conjecture

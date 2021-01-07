@@ -1,0 +1,6 @@
+t7_subset_1 conjecture
+d2_subset_1 axiom
+d1_zfmisc_1 axiom
+d3_tarski axiom
+t7_boole axiom
+fc1_subset_1 axiom

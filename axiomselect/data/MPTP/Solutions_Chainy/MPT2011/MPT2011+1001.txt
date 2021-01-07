@@ -1,0 +1,8 @@
+d3_waybel_2 axiom
+dt_k3_waybel_2 axiom
+dt_l1_orders_2 axiom
+dt_l1_waybel_0 axiom
+fc5_waybel_2 axiom
+fc6_waybel_2 axiom
+l16_yellow_6 axiom
+t10_waybel_9 conjecture

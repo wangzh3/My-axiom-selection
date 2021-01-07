@@ -1,0 +1,7 @@
+commutativity_k3_xboole_0 axiom
+t37_xboole_1 axiom
+t3_boole axiom
+t48_xboole_1 axiom
+t52_xboole_1 axiom
+t94_xboole_1 axiom
+t117_xboole_1 conjecture

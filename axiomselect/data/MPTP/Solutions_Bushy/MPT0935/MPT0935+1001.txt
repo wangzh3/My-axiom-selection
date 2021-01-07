@@ -1,0 +1,4 @@
+d3_mcart_1 axiom
+fc7_relat_1 axiom
+t24_relat_1 axiom
+t96_mcart_1 conjecture

@@ -1,0 +1,14 @@
+cc1_ordinal1 axiom
+d10_xboole_0 axiom
+d2_ordinal1 axiom
+d2_tarski axiom
+d8_xboole_0 axiom
+l1_zfmisc_1 axiom
+l32_xboole_1 axiom
+l33_zfmisc_1 axiom
+l38_zfmisc_1 axiom
+t11_xboole_1 axiom
+t12_xboole_1 axiom
+t21_ordinal1 axiom
+t7_ordinal1 axiom
+t22_ordinal1 conjecture

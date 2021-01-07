@@ -1,0 +1,16 @@
+t43_subset_1 conjecture
+t35_subset_1 axiom
+t2_xboole_1 axiom
+d5_subset_1 axiom
+t39_subset_1 axiom
+t106_xboole_1 axiom
+dt_k3_subset_1 axiom
+t4_subset_1 axiom
+t45_xboole_1 axiom
+t88_xboole_1 axiom
+involutiveness_k3_subset_1 axiom
+t82_xboole_1 axiom
+t86_xboole_1 axiom
+t65_xboole_1 axiom
+t66_xboole_1 axiom
+d10_xboole_0 axiom

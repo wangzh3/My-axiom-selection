@@ -1,0 +1,14 @@
+d18_yellow_6 axiom
+d1_connsp_2 axiom
+d5_waybel_7 axiom
+dt_k10_yellow_6 axiom
+dt_k1_tops_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_connsp_2 axiom
+fc9_tops_1 axiom
+t11_yellow19 axiom
+t44_tops_1 axiom
+t4_subset axiom
+t5_connsp_2 axiom
+t8_waybel_0 axiom
+t13_yellow19 conjecture

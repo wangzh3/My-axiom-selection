@@ -1,0 +1,9 @@
+d9_funct_1 axiom
+dt_k4_relat_1 axiom
+fc5_funct_1 axiom
+redefinition_k6_subset_1 axiom
+t154_funct_1 axiom
+t32_xboole_1 axiom
+t62_funct_1 axiom
+t65_funct_1 axiom
+t155_funct_1 conjecture

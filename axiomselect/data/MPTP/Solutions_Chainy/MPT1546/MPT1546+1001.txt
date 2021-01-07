@@ -1,0 +1,4 @@
+cc1_lattice3 axiom
+t22_yellow_0 axiom
+t24_orders_2 axiom
+t24_yellow_0 conjecture

@@ -1,0 +1,16 @@
+cc2_pre_topc axiom
+d10_xboole_0 axiom
+d1_tarski axiom
+d6_tex_2 axiom
+idempotence_k9_subset_1 axiom
+l22_zfmisc_1 axiom
+rc1_xboole_0 axiom
+rc2_subset_1 axiom
+t2_tarski axiom
+t3_subset axiom
+t49_zfmisc_1 axiom
+t4_subset axiom
+t61_setfam_1 axiom
+t7_boole axiom
+t8_boole axiom
+t35_tex_2 conjecture

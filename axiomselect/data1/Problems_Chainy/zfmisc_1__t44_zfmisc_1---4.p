@@ -1,0 +1,4 @@
+fof(t44_zfmisc_1,conjecture,(! [A,B,C] :~ ( k1_tarski(A) = k2_xboole_0(B,C)& B != C& B != k1_xboole_0& C != k1_xboole_0 ) )).
+fof(t43_zfmisc_1,axiom,(! [A,B,C] :~ ( k1_tarski(A) = k2_xboole_0(B,C)& ~ ( B = k1_tarski(A)& C = k1_tarski(A) )& ~ ( B = k1_xboole_0& C = k1_tarski(A) )& ~ ( B = k1_tarski(A)& C = k1_xboole_0 ) ) )).
+fof(t7_xboole_1,axiom,(! [A,B] : r1_tarski(A,k2_xboole_0(A,B)) )).
+fof(t39_zfmisc_1,axiom,(! [A,B] :( r1_tarski(A,k1_tarski(B))<=> ( A = k1_xboole_0| A = k1_tarski(B) ) ) )).

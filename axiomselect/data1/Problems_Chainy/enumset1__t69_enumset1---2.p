@@ -1,0 +1,3 @@
+fof(t69_enumset1,conjecture,(! [A] : k2_tarski(A,A) = k1_tarski(A) )).
+fof(t41_enumset1,axiom,(! [A,B] : k2_tarski(A,B) = k2_xboole_0(k1_tarski(A),k1_tarski(B)) )).
+fof(idempotence_k2_xboole_0,axiom,(! [A,B] : k2_xboole_0(A,A) = A )).

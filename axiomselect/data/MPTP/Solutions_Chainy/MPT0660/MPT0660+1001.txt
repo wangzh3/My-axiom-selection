@@ -1,0 +1,11 @@
+d10_xboole_0 axiom
+dt_k2_funct_1 axiom
+dt_k6_relat_1 axiom
+fc3_funct_1 axiom
+t115_zfmisc_1 axiom
+t52_funct_1 axiom
+t55_funct_1 axiom
+t61_funct_1 axiom
+t71_relat_1 axiom
+t77_relat_1 axiom
+t67_funct_1 conjecture

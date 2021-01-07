@@ -1,0 +1,7 @@
+cc1_lattices axiom
+dt_l3_lattices axiom
+redefinition_r3_lattices axiom
+reflexivity_r3_lattices axiom
+t18_filter_0 axiom
+t26_lattices axiom
+t2_filter_1 conjecture

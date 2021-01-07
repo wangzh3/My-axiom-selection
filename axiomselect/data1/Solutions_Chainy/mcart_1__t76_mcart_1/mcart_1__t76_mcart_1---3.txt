@@ -1,0 +1,13 @@
+t76_mcart_1 conjecture
+d3_zfmisc_1 axiom
+t50_mcart_1 axiom
+d1_xboole_0 axiom
+t68_xboole_1 axiom
+t10_mcart_1 axiom
+fc1_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+fc4_zfmisc_1 axiom
+cc1_subset_1 axiom
+t65_xboole_1 axiom
+t3_subset axiom
+fc3_zfmisc_1 axiom

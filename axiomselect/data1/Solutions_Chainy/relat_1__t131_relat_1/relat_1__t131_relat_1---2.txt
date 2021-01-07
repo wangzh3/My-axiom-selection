@@ -1,0 +1,6 @@
+t131_relat_1 conjecture
+t117_relat_1 axiom
+d1_zfmisc_1 axiom
+cc2_relat_1 axiom
+t130_relat_1 axiom
+t1_subset axiom

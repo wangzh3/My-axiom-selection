@@ -1,0 +1,6 @@
+fof(t83_funct_2,conjecture,(! [A,B] :( ( v1_funct_1(B)& v1_funct_2(B,A,A)& m1_subset_1(B,k1_zfmisc_1(k2_zfmisc_1(A,A))) )=> ( ( v2_funct_1(B)& k2_relset_1(A,A,B) = A )=> ( v1_funct_1(B)& v1_funct_2(B,A,A)& v3_funct_2(B,A,A)& m1_subset_1(B,k1_zfmisc_1(k2_zfmisc_1(A,A))) ) ) ) )).
+fof(cc1_relset_1,axiom,(! [A,B,C] :( m1_subset_1(C,k1_zfmisc_1(k2_zfmisc_1(A,B)))=> v1_relat_1(C) ) )).
+fof(redefinition_k2_relset_1,axiom,(! [A,B,C] :( m1_subset_1(C,k1_zfmisc_1(k2_zfmisc_1(A,B)))=> k2_relset_1(A,B,C) = k2_relat_1(C) ) )).
+fof(d3_funct_2,axiom,(! [A,B] :( ( v1_relat_1(B)& v5_relat_1(B,A) )=> ( v2_funct_2(B,A)<=> k2_relat_1(B) = A ) ) )).
+fof(cc3_funct_2,axiom,(! [A,B,C] :( m1_subset_1(C,k1_zfmisc_1(k2_zfmisc_1(A,B)))=> ( ( v1_funct_1(C)& v2_funct_1(C)& v2_funct_2(C,B) )=> ( v1_funct_1(C)& v3_funct_2(C,A,B) ) ) ) )).
+fof(cc2_relset_1,axiom,(! [A,B,C] :( m1_subset_1(C,k1_zfmisc_1(k2_zfmisc_1(A,B)))=> ( v4_relat_1(C,A)& v5_relat_1(C,B) ) ) )).

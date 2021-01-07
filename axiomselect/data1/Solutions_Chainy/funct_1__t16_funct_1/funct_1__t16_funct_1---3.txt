@@ -1,0 +1,10 @@
+t16_funct_1 conjecture
+t21_zfmisc_1 axiom
+t46_xboole_1 axiom
+t68_zfmisc_1 axiom
+t49_zfmisc_1 axiom
+t7_xboole_0 axiom
+t15_funct_1 axiom
+t37_xboole_1 axiom
+t3_xboole_1 axiom
+t1_boole axiom

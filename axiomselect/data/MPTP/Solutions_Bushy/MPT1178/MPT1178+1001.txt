@@ -1,0 +1,7 @@
+d17_orders_2 axiom
+dt_o_0_0_xboole_0 axiom
+fc2_xboole_0 axiom
+t6_boole axiom
+t78_orders_2 axiom
+t91_orders_1 axiom
+t87_orders_2 conjecture

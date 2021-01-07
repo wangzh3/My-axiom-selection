@@ -1,0 +1,14 @@
+d4_tops_1 axiom
+d5_subset_1 axiom
+d5_tops_1 axiom
+dt_k2_pre_topc axiom
+l78_tops_1 axiom
+projectivity_k2_pre_topc axiom
+redefinition_k7_subset_1 axiom
+t1_xboole_1 axiom
+t3_boole axiom
+t48_pre_topc axiom
+t72_tops_1 axiom
+t84_tops_1 axiom
+t88_tops_1 axiom
+t91_tops_1 conjecture

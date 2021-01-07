@@ -1,0 +1,6 @@
+d1_tarski axiom
+d2_tarski axiom
+d2_zfmisc_1 axiom
+l54_zfmisc_1 axiom
+t2_tarski axiom
+t36_zfmisc_1 conjecture

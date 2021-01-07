@@ -1,0 +1,16 @@
+t5_funct_2 conjecture
+t5_subset axiom
+dt_o_0_0_xboole_0 axiom
+d3_tarski axiom
+d1_funct_2 axiom
+d5_funct_1 axiom
+t3_subset axiom
+t4_subset axiom
+cc4_relset_1 axiom
+t7_boole axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+dt_k1_relset_1 axiom
+t6_boole axiom
+t11_relset_1 axiom
+redefinition_k1_relset_1 axiom

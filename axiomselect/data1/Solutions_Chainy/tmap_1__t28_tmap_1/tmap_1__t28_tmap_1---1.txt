@@ -1,0 +1,6 @@
+t28_tmap_1 conjecture
+d5_tsep_1 axiom
+dt_k2_tsep_1 axiom
+t24_tmap_1 axiom
+t27_xboole_1 axiom
+t4_tsep_1 axiom

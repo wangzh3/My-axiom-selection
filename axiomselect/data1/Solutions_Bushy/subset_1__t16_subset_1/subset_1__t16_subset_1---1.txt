@@ -1,0 +1,8 @@
+t16_subset_1 conjecture
+d4_xboole_0 axiom
+d10_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+dt_k9_subset_1 axiom
+redefinition_k9_subset_1 axiom
+commutativity_k3_xboole_0 axiom
+t7_subset_1 axiom

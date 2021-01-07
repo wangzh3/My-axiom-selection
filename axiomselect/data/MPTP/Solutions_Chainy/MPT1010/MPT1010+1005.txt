@@ -1,0 +1,10 @@
+d1_tarski axiom
+d5_relat_1 axiom
+t113_zfmisc_1 axiom
+t153_zfmisc_1 axiom
+t3_subset axiom
+t3_xboole_1 axiom
+t60_relat_1 axiom
+t7_funct_2 axiom
+t7_ordinal1 axiom
+t65_funct_2 conjecture

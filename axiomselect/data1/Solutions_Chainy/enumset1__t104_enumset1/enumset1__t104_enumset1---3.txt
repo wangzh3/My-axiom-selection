@@ -1,0 +1,14 @@
+t104_enumset1 conjecture
+t45_enumset1 axiom
+t102_enumset1 axiom
+t77_enumset1 axiom
+idempotence_k2_xboole_0 axiom
+t100_enumset1 axiom
+t70_enumset1 axiom
+t71_enumset1 axiom
+t6_xboole_1 axiom
+t103_enumset1 axiom
+t99_enumset1 axiom
+commutativity_k2_xboole_0 axiom
+commutativity_k2_tarski axiom
+t4_xboole_1 axiom

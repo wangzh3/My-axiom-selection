@@ -1,0 +1,3 @@
+t144_relat_1 axiom
+t146_relat_1 axiom
+t147_relat_1 conjecture

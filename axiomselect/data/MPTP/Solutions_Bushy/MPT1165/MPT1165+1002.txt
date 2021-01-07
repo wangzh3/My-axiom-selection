@@ -1,0 +1,10 @@
+commutativity_k3_xboole_0 axiom
+d14_orders_2 axiom
+d15_orders_2 axiom
+d4_xboole_0 axiom
+dt_k9_subset_1 axiom
+redefinition_k9_subset_1 axiom
+t2_boole axiom
+t3_subset axiom
+t50_orders_2 axiom
+t68_orders_2 conjecture

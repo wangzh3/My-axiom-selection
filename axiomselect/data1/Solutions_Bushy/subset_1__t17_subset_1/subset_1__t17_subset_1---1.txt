@@ -1,0 +1,6 @@
+t17_subset_1 conjecture
+d10_xboole_0 axiom
+d5_xboole_0 axiom
+redefinition_k7_subset_1 axiom
+dt_k7_subset_1 axiom
+t7_subset_1 axiom

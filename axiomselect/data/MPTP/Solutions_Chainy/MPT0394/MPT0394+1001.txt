@@ -1,0 +1,7 @@
+t10_setfam_1 axiom
+t11_setfam_1 axiom
+t22_xboole_1 axiom
+t41_enumset1 axiom
+t50_zfmisc_1 axiom
+t69_enumset1 axiom
+t12_setfam_1 conjecture

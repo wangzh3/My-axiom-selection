@@ -1,0 +1,6 @@
+dt_k2_funct_1 axiom
+t154_funct_1 axiom
+t32_xboole_1 axiom
+t62_funct_1 axiom
+t65_funct_1 axiom
+t155_funct_1 conjecture

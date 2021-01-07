@@ -1,0 +1,4 @@
+t113_zfmisc_1 axiom
+t21_relat_1 axiom
+t3_xboole_1 axiom
+t64_relat_1 conjecture

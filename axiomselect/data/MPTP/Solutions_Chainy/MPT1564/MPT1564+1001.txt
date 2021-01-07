@@ -1,0 +1,10 @@
+commutativity_k3_xboole_0 axiom
+d4_yellow_0 axiom
+t15_yellow_0 axiom
+t16_yellow_0 axiom
+t17_xboole_1 axiom
+t5_yellow_0 axiom
+t6_yellow_0 axiom
+t7_yellow_0 axiom
+t9_yellow_0 axiom
+t42_yellow_0 conjecture

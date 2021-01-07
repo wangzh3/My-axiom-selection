@@ -1,0 +1,8 @@
+d10_xboole_0 axiom
+d3_tarski axiom
+d9_xboole_0 axiom
+l1_zfmisc_1 axiom
+l49_zfmisc_1 axiom
+t79_zfmisc_1 axiom
+t80_zfmisc_1 axiom
+t100_zfmisc_1 conjecture

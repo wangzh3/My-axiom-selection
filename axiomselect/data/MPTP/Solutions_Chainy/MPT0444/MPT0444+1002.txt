@@ -1,0 +1,7 @@
+d3_tarski axiom
+d4_xboole_0 axiom
+fc1_relat_1 axiom
+t17_xboole_1 axiom
+t19_xboole_1 axiom
+t25_relat_1 axiom
+t27_relat_1 conjecture

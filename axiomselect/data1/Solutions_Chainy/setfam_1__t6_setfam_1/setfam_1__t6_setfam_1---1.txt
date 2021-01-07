@@ -1,0 +1,3 @@
+t6_setfam_1 conjecture
+d3_tarski axiom
+d1_setfam_1 axiom

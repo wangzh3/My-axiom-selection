@@ -1,0 +1,4 @@
+t67_yellow_0 conjecture
+t65_yellow_0 axiom
+d1_xboole_0 axiom
+dt_k7_domain_1 axiom

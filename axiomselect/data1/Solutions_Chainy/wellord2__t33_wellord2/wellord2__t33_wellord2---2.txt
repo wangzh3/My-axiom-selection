@@ -1,0 +1,6 @@
+t33_wellord2 conjecture
+d2_zfmisc_1 axiom
+t30_relat_1 axiom
+dt_k1_wellord2 axiom
+d1_wellord2 axiom
+d3_relat_1 axiom

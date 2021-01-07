@@ -1,0 +1,10 @@
+commutativity_k3_xboole_0 axiom
+commutativity_k5_xboole_0 axiom
+t100_xboole_1 axiom
+t112_xboole_1 axiom
+t16_xboole_1 axiom
+t41_enumset1 axiom
+t42_enumset1 axiom
+t91_xboole_1 axiom
+t98_xboole_1 axiom
+t43_enumset1 conjecture

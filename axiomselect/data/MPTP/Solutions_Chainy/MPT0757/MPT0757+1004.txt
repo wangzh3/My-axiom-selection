@@ -1,0 +1,10 @@
+antisymmetry_r2_hidden axiom
+d3_tarski axiom
+d8_xboole_0 axiom
+l35_zfmisc_1 axiom
+s1_xboole_0__e3_53__ordinal1 axiom
+t23_ordinal1 axiom
+t24_ordinal1 axiom
+t3_ordinal1 axiom
+t68_zfmisc_1 axiom
+t50_ordinal1 conjecture

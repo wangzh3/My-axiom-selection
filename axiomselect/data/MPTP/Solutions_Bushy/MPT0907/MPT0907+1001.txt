@@ -1,0 +1,6 @@
+d2_xboole_0 axiom
+dt_o_0_0_xboole_0 axiom
+t1_subset axiom
+t66_mcart_1 axiom
+t7_boole axiom
+t67_mcart_1 conjecture

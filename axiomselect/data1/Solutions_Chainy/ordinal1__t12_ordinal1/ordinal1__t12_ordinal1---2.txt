@@ -1,0 +1,11 @@
+t12_ordinal1 conjecture
+t64_zfmisc_1 axiom
+t69_enumset1 axiom
+t40_xboole_1 axiom
+antisymmetry_r2_hidden axiom
+d1_tarski axiom
+d3_tarski axiom
+t36_xboole_1 axiom
+t10_ordinal1 axiom
+d3_xboole_0 axiom
+d1_ordinal1 axiom

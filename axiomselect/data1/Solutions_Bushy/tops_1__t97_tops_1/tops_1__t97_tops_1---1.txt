@@ -1,0 +1,6 @@
+t97_tops_1 conjecture
+t79_xboole_1 axiom
+dt_k3_subset_1 axiom
+d5_subset_1 axiom
+fc15_tops_1 axiom
+t80_tops_1 axiom

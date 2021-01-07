@@ -1,0 +1,5 @@
+t96_xboole_1 conjecture
+t48_xboole_1 axiom
+l98_xboole_1 axiom
+t7_xboole_1 axiom
+t55_xboole_1 axiom

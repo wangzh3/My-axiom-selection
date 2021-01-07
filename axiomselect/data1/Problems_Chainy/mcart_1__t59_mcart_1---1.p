@@ -1,0 +1,9 @@
+fof(t59_mcart_1,conjecture,(! [A,B,C,D] :~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& D != k1_xboole_0& ? [E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))& ? [F,G,H,I] :( E = k4_mcart_1(F,G,H,I)& ~ ( k8_mcart_1(A,B,C,D,E) = F& k9_mcart_1(A,B,C,D,E) = G& k10_mcart_1(A,B,C,D,E) = H& k11_mcart_1(A,B,C,D,E) = I ) ) ) ) )).
+fof(d8_mcart_1,axiom,(! [A,B,C,D] :~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& D != k1_xboole_0& ~ ! [E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> ! [F] :( m1_subset_1(F,A)=> ( F = k8_mcart_1(A,B,C,D,E)<=> ! [G,H,I,J] :( E = k4_mcart_1(G,H,I,J)=> F = G ) ) ) ) ) )).
+fof(d10_mcart_1,axiom,(! [A,B,C,D] :~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& D != k1_xboole_0& ~ ! [E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> ! [F] :( m1_subset_1(F,C)=> ( F = k10_mcart_1(A,B,C,D,E)<=> ! [G,H,I,J] :( E = k4_mcart_1(G,H,I,J)=> F = I ) ) ) ) ) )).
+fof(dt_k11_mcart_1,axiom,(! [A,B,C,D,E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> m1_subset_1(k11_mcart_1(A,B,C,D,E),D) ) )).
+fof(dt_k9_mcart_1,axiom,(! [A,B,C,D,E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> m1_subset_1(k9_mcart_1(A,B,C,D,E),B) ) )).
+fof(dt_k8_mcart_1,axiom,(! [A,B,C,D,E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> m1_subset_1(k8_mcart_1(A,B,C,D,E),A) ) )).
+fof(dt_k10_mcart_1,axiom,(! [A,B,C,D,E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> m1_subset_1(k10_mcart_1(A,B,C,D,E),C) ) )).
+fof(d11_mcart_1,axiom,(! [A,B,C,D] :~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& D != k1_xboole_0& ~ ! [E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> ! [F] :( m1_subset_1(F,D)=> ( F = k11_mcart_1(A,B,C,D,E)<=> ! [G,H,I,J] :( E = k4_mcart_1(G,H,I,J)=> F = J ) ) ) ) ) )).
+fof(d9_mcart_1,axiom,(! [A,B,C,D] :~ ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0& D != k1_xboole_0& ~ ! [E] :( m1_subset_1(E,k4_zfmisc_1(A,B,C,D))=> ! [F] :( m1_subset_1(F,B)=> ( F = k9_mcart_1(A,B,C,D,E)<=> ! [G,H,I,J] :( E = k4_mcart_1(G,H,I,J)=> F = H ) ) ) ) ) )).

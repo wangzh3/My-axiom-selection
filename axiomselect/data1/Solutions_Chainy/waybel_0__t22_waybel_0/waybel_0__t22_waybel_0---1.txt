@@ -1,0 +1,6 @@
+t22_waybel_0 conjecture
+t18_waybel_0 axiom
+d3_tarski axiom
+t4_subset axiom
+dt_k6_waybel_0 axiom
+t26_orders_2 axiom

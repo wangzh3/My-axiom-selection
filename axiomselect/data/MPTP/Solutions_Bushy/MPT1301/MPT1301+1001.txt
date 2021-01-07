@@ -1,0 +1,6 @@
+d2_tops_2 axiom
+t2_subset axiom
+t3_subset axiom
+t4_subset axiom
+t5_subset axiom
+t19_tops_2 conjecture

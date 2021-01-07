@@ -1,0 +1,12 @@
+l45_zfmisc_1 axiom
+l54_zfmisc_1 axiom
+t106_zfmisc_1 axiom
+t124_zfmisc_1 axiom
+t20_zfmisc_1 axiom
+t36_zfmisc_1 axiom
+t37_zfmisc_1 axiom
+t48_xboole_1 axiom
+t51_zfmisc_1 axiom
+t65_zfmisc_1 axiom
+t69_enumset1 axiom
+t128_zfmisc_1 conjecture

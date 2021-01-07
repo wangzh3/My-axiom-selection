@@ -1,0 +1,7 @@
+cc1_relset_1 axiom
+d11_binop_1 axiom
+dt_k3_filter_1 axiom
+dt_m2_filter_1 axiom
+t10_filter_1 axiom
+t9_filter_1 axiom
+t11_filter_1 conjecture

@@ -1,0 +1,10 @@
+t111_tmap_1 conjecture
+t109_tmap_1 axiom
+dt_k2_tmap_1 axiom
+dt_k7_tmap_1 axiom
+fc4_tmap_1 axiom
+t49_tmap_1 axiom
+dt_l1_pre_topc axiom
+dt_m1_pre_topc axiom
+cc1_pre_topc axiom
+dt_k6_tmap_1 axiom

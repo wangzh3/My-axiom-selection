@@ -1,0 +1,3 @@
+antisymmetry_r2_hidden axiom
+d3_tarski axiom
+t7_ordinal1 conjecture

@@ -1,0 +1,10 @@
+t12_wellord1 conjecture
+t5_subset axiom
+dt_o_0_0_xboole_0 axiom
+d3_tarski axiom
+s1_xboole_0__e7_18__wellord1 axiom
+d2_xboole_0 axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+t6_boole axiom
+t10_wellord1 axiom

@@ -1,0 +1,7 @@
+t79_xboole_1 conjecture
+d4_xboole_0 axiom
+d5_xboole_0 axiom
+commutativity_k3_xboole_0 axiom
+d7_xboole_0 axiom
+d1_xboole_0 axiom
+t6_boole axiom

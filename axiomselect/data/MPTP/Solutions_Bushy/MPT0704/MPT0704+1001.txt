@@ -1,0 +1,13 @@
+d13_funct_1 axiom
+d1_tarski axiom
+d5_funct_1 axiom
+dt_o_0_0_xboole_0 axiom
+symmetry_r1_xboole_0 axiom
+t144_funct_1 axiom
+t173_relat_1 axiom
+t2_xboole_1 axiom
+t39_zfmisc_1 axiom
+t56_zfmisc_1 axiom
+t6_boole axiom
+t7_boole axiom
+t159_funct_1 conjecture

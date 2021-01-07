@@ -1,0 +1,5 @@
+d3_xboole_0 axiom
+d4_relat_1 axiom
+d5_relat_1 axiom
+d6_relat_1 axiom
+t30_relat_1 conjecture

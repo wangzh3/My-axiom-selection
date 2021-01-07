@@ -1,0 +1,15 @@
+t98_xboole_1 conjecture
+t85_xboole_1 axiom
+t91_xboole_1 axiom
+t3_boole axiom
+idempotence_k2_xboole_0 axiom
+t32_xboole_1 axiom
+t92_xboole_1 axiom
+commutativity_k5_xboole_0 axiom
+t94_xboole_1 axiom
+t2_boole axiom
+t48_xboole_1 axiom
+t83_xboole_1 axiom
+idempotence_k3_xboole_0 axiom
+d10_xboole_0 axiom
+t39_xboole_1 axiom

@@ -1,0 +1,8 @@
+cc1_relset_1 axiom
+cc2_relset_1 axiom
+d19_relat_1 axiom
+t119_zfmisc_1 axiom
+t1_xboole_1 axiom
+t21_relat_1 axiom
+t3_subset axiom
+t13_relset_1 conjecture

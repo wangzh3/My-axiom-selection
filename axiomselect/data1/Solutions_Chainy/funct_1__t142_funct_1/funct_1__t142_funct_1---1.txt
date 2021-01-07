@@ -1,0 +1,5 @@
+t142_funct_1 conjecture
+l27_zfmisc_1 axiom
+symmetry_r1_xboole_0 axiom
+t173_relat_1 axiom
+t54_zfmisc_1 axiom

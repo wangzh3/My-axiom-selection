@@ -1,0 +1,5 @@
+t25_mcart_1 conjecture
+idempotence_k2_xboole_0 axiom
+t45_enumset1 axiom
+t132_zfmisc_1 axiom
+t36_zfmisc_1 axiom

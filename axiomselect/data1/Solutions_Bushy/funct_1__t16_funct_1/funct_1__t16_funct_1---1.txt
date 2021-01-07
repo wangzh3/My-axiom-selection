@@ -1,0 +1,9 @@
+t16_funct_1 conjecture
+dt_o_0_0_xboole_0 axiom
+d2_xboole_0 axiom
+spc1_boole axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+t6_boole axiom
+s3_funct_1__e2_25__funct_1 axiom
+s3_funct_1__e7_25__funct_1 axiom

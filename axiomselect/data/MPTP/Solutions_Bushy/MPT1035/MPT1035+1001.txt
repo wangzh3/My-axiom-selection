@@ -1,0 +1,7 @@
+cc1_relset_1 axiom
+d1_funct_2 axiom
+dt_k1_relset_1 axiom
+redefinition_k1_relset_1 axiom
+t132_partfun1 axiom
+t3_subset axiom
+t145_funct_2 conjecture

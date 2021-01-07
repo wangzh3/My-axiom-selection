@@ -1,0 +1,15 @@
+d11_waybel_0 axiom
+d18_yellow_6 axiom
+d3_tarski axiom
+d5_yellow_6 axiom
+dt_k10_yellow_6 axiom
+dt_k2_waybel_0 axiom
+dt_l1_pre_topc axiom
+dt_l1_waybel_0 axiom
+fraenkel_a_3_1_yellow_6 axiom
+t2_subset axiom
+t34_connsp_2 axiom
+t3_subset axiom
+t3_xboole_0 axiom
+t5_subset axiom
+t43_yellow_6 conjecture

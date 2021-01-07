@@ -1,0 +1,6 @@
+t24_tex_2 conjecture
+dt_k1_tex_2 axiom
+fc2_tex_2 axiom
+dt_m1_pre_topc axiom
+cc3_tex_1 axiom
+cc4_tex_1 axiom

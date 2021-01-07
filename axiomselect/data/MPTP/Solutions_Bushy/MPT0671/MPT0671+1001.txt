@@ -1,0 +1,5 @@
+d3_tarski axiom
+dt_k8_relat_1 axiom
+fc9_funct_1 axiom
+t85_funct_1 axiom
+t89_funct_1 conjecture

@@ -1,0 +1,4 @@
+t48_zfmisc_1 conjecture
+commutativity_k2_xboole_0 axiom
+t38_zfmisc_1 axiom
+t12_xboole_1 axiom

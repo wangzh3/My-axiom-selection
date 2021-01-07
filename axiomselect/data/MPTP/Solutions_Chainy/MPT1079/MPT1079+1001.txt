@@ -1,0 +1,11 @@
+d6_funct_2 axiom
+d7_funct_2 axiom
+dt_k4_funct_2 axiom
+dt_k5_funct_2 axiom
+fc10_subset_1 axiom
+fc9_relset_1 axiom
+redefinition_k2_relset_1 axiom
+redefinition_k3_funct_2 axiom
+t189_funct_2 axiom
+t23_mcart_1 axiom
+t196_funct_2 conjecture

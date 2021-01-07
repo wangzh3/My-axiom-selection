@@ -1,0 +1,9 @@
+d1_tarski axiom
+d7_wellord1 axiom
+l35_zfmisc_1 axiom
+t148_relat_1 axiom
+t164_funct_1 axiom
+t168_funct_1 axiom
+t30_relat_1 axiom
+t37_xboole_1 axiom
+t45_wellord1 conjecture

@@ -1,0 +1,8 @@
+t149_relat_1 conjecture
+fc16_relat_1 axiom
+t8_boole axiom
+fc1_xboole_0 axiom
+rc1_xboole_0 axiom
+t148_relat_1 axiom
+t6_boole axiom
+fc11_relat_1 axiom

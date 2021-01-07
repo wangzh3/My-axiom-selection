@@ -1,0 +1,3 @@
+t66_funct_2 conjecture
+t18_funct_2 axiom
+t65_funct_2 axiom

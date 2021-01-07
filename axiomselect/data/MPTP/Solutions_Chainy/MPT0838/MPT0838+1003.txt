@@ -1,0 +1,14 @@
+cc1_relset_1 axiom
+d2_subset_1 axiom
+dt_k2_relset_1 axiom
+existence_m1_subset_1 axiom
+fc10_relat_1 axiom
+fc18_relat_1 axiom
+l13_xboole_0 axiom
+rc1_xboole_0 axiom
+redefinition_k1_relset_1 axiom
+redefinition_k2_relset_1 axiom
+t126_relat_1 axiom
+t4_subset axiom
+t8_boole axiom
+t49_relset_1 conjecture

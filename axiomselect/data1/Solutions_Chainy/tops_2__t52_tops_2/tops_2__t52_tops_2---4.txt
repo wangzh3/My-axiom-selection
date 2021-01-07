@@ -1,0 +1,11 @@
+t52_tops_2 conjecture
+t172_relat_1 axiom
+t3_boole axiom
+d5_subset_1 axiom
+t113_zfmisc_1 axiom
+t4_boole axiom
+d3_struct_0 axiom
+t48_funct_2 axiom
+involutiveness_k3_subset_1 axiom
+dt_k2_struct_0 axiom
+redefinition_k8_relset_1 axiom

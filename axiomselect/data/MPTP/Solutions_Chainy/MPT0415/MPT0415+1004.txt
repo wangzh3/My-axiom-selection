@@ -1,0 +1,12 @@
+d5_xboole_0 axiom
+d8_setfam_1 axiom
+dt_k7_setfam_1 axiom
+existence_m1_subset_1 axiom
+involutiveness_k7_setfam_1 axiom
+l3_subset_1 axiom
+t37_xboole_1 axiom
+t3_subset axiom
+t4_subset axiom
+t4_subset_1 axiom
+t7_xboole_0 axiom
+t46_setfam_1 conjecture

@@ -1,0 +1,3 @@
+d3_tarski axiom
+t45_relat_1 axiom
+t25_funct_1 conjecture

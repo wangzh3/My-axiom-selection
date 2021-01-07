@@ -1,0 +1,13 @@
+t63_subset_1 conjecture
+d2_subset_1 axiom
+t69_enumset1 axiom
+t55_subset_1 axiom
+t74_enumset1 axiom
+t72_enumset1 axiom
+t75_enumset1 axiom
+d3_subset_1 axiom
+t70_enumset1 axiom
+t7_boole axiom
+t71_enumset1 axiom
+t73_enumset1 axiom
+fc13_subset_1 axiom

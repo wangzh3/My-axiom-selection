@@ -1,0 +1,7 @@
+commutativity_k4_lattices axiom
+d3_lattices axiom
+d8_lattices axiom
+dt_k4_lattices axiom
+dt_l3_lattices axiom
+redefinition_k4_lattices axiom
+t23_lattices conjecture

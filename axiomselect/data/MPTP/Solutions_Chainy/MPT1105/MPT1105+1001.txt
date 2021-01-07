@@ -1,0 +1,13 @@
+d10_xboole_0 axiom
+d2_struct_0 axiom
+d3_struct_0 axiom
+d5_subset_1 axiom
+dt_k1_struct_0 axiom
+dt_k2_struct_0 axiom
+dt_k3_subset_1 axiom
+t18_pre_topc axiom
+t22_pre_topc axiom
+t23_pre_topc axiom
+t25_pre_topc axiom
+t44_subset_1 axiom
+t27_pre_topc conjecture

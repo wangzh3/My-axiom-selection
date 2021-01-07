@@ -1,0 +1,3 @@
+t2_tarski axiom
+t4_subset axiom
+t44_setfam_1 conjecture

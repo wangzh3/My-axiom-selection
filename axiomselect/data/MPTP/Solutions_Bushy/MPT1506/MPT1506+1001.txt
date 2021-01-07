@@ -1,0 +1,4 @@
+d22_lattice3 axiom
+fraenkel_a_2_1_lattice3 axiom
+t38_lattice3 axiom
+t40_lattice3 conjecture

@@ -1,0 +1,9 @@
+d4_yellow_0 axiom
+d8_lattice3 axiom
+dt_l1_orders_2 axiom
+fc2_struct_0 axiom
+t15_yellow_0 axiom
+t16_yellow_0 axiom
+t2_subset axiom
+t6_yellow_0 axiom
+t42_yellow_0 conjecture

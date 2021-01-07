@@ -1,0 +1,4 @@
+d4_tarski axiom
+symmetry_r1_xboole_0 axiom
+t3_xboole_0 axiom
+t98_zfmisc_1 conjecture

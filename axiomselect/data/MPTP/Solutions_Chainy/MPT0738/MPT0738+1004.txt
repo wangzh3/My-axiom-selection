@@ -1,0 +1,7 @@
+connectedness_r1_ordinal1 axiom
+d1_zfmisc_1 axiom
+d3_tarski axiom
+redefinition_r1_ordinal1 axiom
+t24_ordinal1 axiom
+t7_ordinal1 axiom
+t26_ordinal1 conjecture

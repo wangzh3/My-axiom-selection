@@ -1,0 +1,8 @@
+t48_funct_2 conjecture
+d1_funct_2 axiom
+cc4_relset_1 axiom
+t60_relat_1 axiom
+t38_relset_1 axiom
+redefinition_k1_relset_1 axiom
+l13_xboole_0 axiom
+rc2_subset_1 axiom

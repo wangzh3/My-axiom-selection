@@ -1,0 +1,7 @@
+t19_mcart_1 conjecture
+d1_tarski axiom
+t10_mcart_1 axiom
+d3_xboole_0 axiom
+t41_enumset1 axiom
+commutativity_k2_xboole_0 axiom
+d2_tarski axiom

@@ -1,0 +1,11 @@
+t6_yellow_0 conjecture
+fc6_relat_1 axiom
+d1_xboole_0 axiom
+cc2_relat_1 axiom
+fc1_xboole_0 axiom
+d8_lattice3 axiom
+d9_lattice3 axiom
+dt_u1_orders_2 axiom
+t4_subset_1 axiom
+l13_xboole_0 axiom
+fc17_relat_1 axiom

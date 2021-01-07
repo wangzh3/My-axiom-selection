@@ -1,0 +1,8 @@
+t168_funct_1 conjecture
+t69_enumset1 axiom
+t160_relat_1 axiom
+t118_funct_1 axiom
+t71_relat_1 axiom
+t41_enumset1 axiom
+fc3_funct_1 axiom
+t94_relat_1 axiom

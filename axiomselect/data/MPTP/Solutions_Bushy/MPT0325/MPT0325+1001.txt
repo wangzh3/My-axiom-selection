@@ -1,0 +1,7 @@
+commutativity_k3_xboole_0 axiom
+t113_zfmisc_1 axiom
+t123_zfmisc_1 axiom
+t134_zfmisc_1 axiom
+t17_xboole_1 axiom
+t28_xboole_1 axiom
+t138_zfmisc_1 conjecture

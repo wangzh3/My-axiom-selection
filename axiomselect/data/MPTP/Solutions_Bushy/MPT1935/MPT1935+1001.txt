@@ -1,0 +1,5 @@
+d15_yellow_6 axiom
+d4_partfun1 axiom
+d5_funct_1 axiom
+dt_m3_yellow_6 axiom
+t33_yellow_6 conjecture

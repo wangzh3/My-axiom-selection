@@ -1,0 +1,10 @@
+t10_compts_1 conjecture
+dt_o_0_0_xboole_0 axiom
+dt_l1_pre_topc axiom
+d3_struct_0 axiom
+t3_subset axiom
+d7_compts_1 axiom
+existence_l1_pre_topc axiom
+dt_k2_struct_0 axiom
+d3_compts_1 axiom
+existence_l1_struct_0 axiom

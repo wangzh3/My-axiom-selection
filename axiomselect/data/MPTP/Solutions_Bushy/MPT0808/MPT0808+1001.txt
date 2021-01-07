@@ -1,0 +1,4 @@
+t13_wellord1 axiom
+t59_wellord1 axiom
+t60_wellord1 axiom
+t61_wellord1 conjecture

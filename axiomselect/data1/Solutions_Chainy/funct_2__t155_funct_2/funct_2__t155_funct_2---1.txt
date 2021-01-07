@@ -1,0 +1,5 @@
+t155_funct_2 conjecture
+fc1_xboole_0 axiom
+cc1_partfun1 axiom
+t132_funct_2 axiom
+d7_partfun1 axiom

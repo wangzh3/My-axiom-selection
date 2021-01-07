@@ -1,0 +1,8 @@
+t3_connsp_2 conjecture
+dt_k4_subset_1 axiom
+t49_tops_1 axiom
+d3_tarski axiom
+redefinition_k4_subset_1 axiom
+d3_xboole_0 axiom
+dt_k1_tops_1 axiom
+d1_connsp_2 axiom

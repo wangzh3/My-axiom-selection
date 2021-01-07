@@ -1,0 +1,11 @@
+t67_tops_1 conjecture
+d5_subset_1 axiom
+dt_k2_tops_1 axiom
+dt_k3_subset_1 axiom
+dt_k4_subset_1 axiom
+redefinition_k4_subset_1 axiom
+redefinition_k7_subset_1 axiom
+t32_subset_1 axiom
+t41_xboole_1 axiom
+t62_tops_1 axiom
+t66_tops_1 axiom

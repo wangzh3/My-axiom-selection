@@ -1,0 +1,4 @@
+d1_tarski axiom
+d2_tarski axiom
+t69_enumset1 axiom
+t10_zfmisc_1 conjecture

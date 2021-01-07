@@ -1,0 +1,6 @@
+t97_tops_1 conjecture
+d2_xboole_0 axiom
+t55_tops_1 axiom
+redefinition_k9_setfam_1 axiom
+t92_tops_1 axiom
+t84_tops_1 axiom

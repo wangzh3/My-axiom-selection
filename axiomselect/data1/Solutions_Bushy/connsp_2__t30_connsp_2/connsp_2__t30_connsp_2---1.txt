@@ -1,0 +1,10 @@
+t30_connsp_2 conjecture
+d1_setfam_1 axiom
+d7_connsp_2 axiom
+dt_k1_connsp_2 axiom
+redefinition_k6_setfam_1 axiom
+t1_subset axiom
+t28_connsp_2 axiom
+t2_subset axiom
+t4_subset axiom
+t7_boole axiom

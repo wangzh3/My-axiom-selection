@@ -1,0 +1,13 @@
+cc1_funct_1 axiom
+cc1_relat_1 axiom
+d3_tarski axiom
+fc1_xboole_0 axiom
+l1_zfmisc_1 axiom
+l24_zfmisc_1 axiom
+l44_zfmisc_1 axiom
+t15_funct_1 axiom
+t2_xboole_1 axiom
+t37_zfmisc_1 axiom
+t3_xboole_0 axiom
+t60_relat_1 axiom
+t18_funct_1 conjecture

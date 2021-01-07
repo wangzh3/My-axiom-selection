@@ -1,0 +1,14 @@
+t127_zfmisc_1 conjecture
+t46_xboole_1 axiom
+t123_zfmisc_1 axiom
+t52_xboole_1 axiom
+t113_zfmisc_1 axiom
+t53_xboole_1 axiom
+t48_xboole_1 axiom
+t83_xboole_1 axiom
+t4_xboole_0 axiom
+t65_xboole_1 axiom
+d7_xboole_0 axiom
+t3_xboole_0 axiom
+t22_xboole_1 axiom
+t116_xboole_1 axiom

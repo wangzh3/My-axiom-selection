@@ -1,0 +1,12 @@
+d7_xboole_0 axiom
+l3_zfmisc_1 axiom
+symmetry_r1_xboole_0 axiom
+t36_xboole_1 axiom
+t3_xboole_0 axiom
+t3_xboole_1 axiom
+t4_xboole_0 axiom
+t56_zfmisc_1 axiom
+t64_zfmisc_1 axiom
+t70_xboole_1 axiom
+t75_xboole_1 axiom
+t149_zfmisc_1 conjecture

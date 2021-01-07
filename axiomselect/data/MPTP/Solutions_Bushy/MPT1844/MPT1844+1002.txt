@@ -1,0 +1,8 @@
+cc1_realset1 axiom
+cc2_subset_1 axiom
+cc4_tex_2 axiom
+dt_k6_domain_1 axiom
+fc2_zfmisc_1 axiom
+fc6_struct_0 axiom
+redefinition_k6_domain_1 axiom
+t9_tex_2 conjecture

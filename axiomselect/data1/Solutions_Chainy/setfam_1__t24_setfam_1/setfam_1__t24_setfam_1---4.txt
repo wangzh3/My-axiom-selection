@@ -1,0 +1,7 @@
+t24_setfam_1 conjecture
+l51_zfmisc_1 axiom
+idempotence_k2_xboole_0 axiom
+t69_enumset1 axiom
+t92_zfmisc_1 axiom
+t18_setfam_1 axiom
+t1_xboole_1 axiom

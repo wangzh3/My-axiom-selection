@@ -1,0 +1,3 @@
+dt_k16_lattice3 axiom
+t34_lattice3 axiom
+t40_lattice3 conjecture

@@ -1,0 +1,5 @@
+d11_binop_1 axiom
+dt_k6_filter_1 axiom
+t28_filter_1 axiom
+t29_filter_1 axiom
+t30_filter_1 conjecture

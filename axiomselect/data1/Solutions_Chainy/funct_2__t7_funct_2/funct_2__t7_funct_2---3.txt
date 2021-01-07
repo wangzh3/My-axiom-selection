@@ -1,0 +1,10 @@
+t7_funct_2 conjecture
+d1_funct_2 axiom
+dt_k2_relset_1 axiom
+cc1_relset_1 axiom
+d2_xboole_0 axiom
+redefinition_k2_relset_1 axiom
+redefinition_k1_relset_1 axiom
+t125_relat_1 axiom
+t86_funct_1 axiom
+t3_subset axiom

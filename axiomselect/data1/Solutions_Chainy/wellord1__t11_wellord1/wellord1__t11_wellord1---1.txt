@@ -1,0 +1,4 @@
+t11_wellord1 conjecture
+t10_wellord1 axiom
+d3_relat_1 axiom
+t31_relat_1 axiom

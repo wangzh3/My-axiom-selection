@@ -1,0 +1,7 @@
+t34_tops_1 conjecture
+t48_pre_topc axiom
+d10_xboole_0 axiom
+dt_k9_subset_1 axiom
+t52_pre_topc axiom
+t51_pre_topc axiom
+redefinition_k9_subset_1 axiom

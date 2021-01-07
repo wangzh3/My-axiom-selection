@@ -1,0 +1,16 @@
+t49_filter_1 conjecture
+abstractness_v3_lattices axiom
+free_g3_lattices axiom
+dt_l3_lattices axiom
+dt_u1_lattices axiom
+dt_u2_lattices axiom
+dt_g3_lattices axiom
+dt_k6_filter_1 axiom
+d2_lattice2 axiom
+dt_k1_lattice2 axiom
+fc1_lattice2 axiom
+d7_filter_1 axiom
+dt_k7_filter_1 axiom
+existence_l3_lattices axiom
+existence_l1_lattices axiom
+existence_l2_lattices axiom

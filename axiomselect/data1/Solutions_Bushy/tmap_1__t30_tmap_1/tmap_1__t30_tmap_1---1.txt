@@ -1,0 +1,9 @@
+t30_tmap_1 conjecture
+dt_k2_tsep_1 axiom
+t4_tsep_1 axiom
+t29_xboole_1 axiom
+d5_tsep_1 axiom
+t1_xboole_1 axiom
+dt_m1_pre_topc axiom
+t1_boole axiom
+commutativity_k3_xboole_0 axiom

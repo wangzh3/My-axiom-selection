@@ -1,0 +1,7 @@
+commutativity_k9_subset_1 axiom
+dt_k9_subset_1 axiom
+t28_tex_2 axiom
+t29_pre_topc axiom
+t38_tops_2 axiom
+t3_subset axiom
+t29_tex_2 conjecture

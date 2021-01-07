@@ -1,0 +1,5 @@
+t76_enumset1 conjecture
+idempotence_k2_xboole_0 axiom
+t42_enumset1 axiom
+t41_enumset1 axiom
+t69_enumset1 axiom

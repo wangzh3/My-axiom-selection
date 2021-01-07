@@ -1,0 +1,8 @@
+fc24_relat_1 axiom
+t146_relat_1 axiom
+t160_relat_1 axiom
+t202_relat_1 axiom
+t71_relat_1 axiom
+t73_funct_1 axiom
+t94_relat_1 axiom
+t172_funct_1 conjecture

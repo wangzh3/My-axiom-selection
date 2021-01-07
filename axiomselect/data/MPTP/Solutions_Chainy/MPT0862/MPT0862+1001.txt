@@ -1,0 +1,4 @@
+t12_mcart_1 axiom
+t16_mcart_1 axiom
+t69_enumset1 axiom
+t18_mcart_1 conjecture

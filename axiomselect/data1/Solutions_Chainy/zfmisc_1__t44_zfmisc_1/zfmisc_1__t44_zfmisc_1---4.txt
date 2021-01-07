@@ -1,0 +1,4 @@
+t44_zfmisc_1 conjecture
+t43_zfmisc_1 axiom
+t7_xboole_1 axiom
+t39_zfmisc_1 axiom

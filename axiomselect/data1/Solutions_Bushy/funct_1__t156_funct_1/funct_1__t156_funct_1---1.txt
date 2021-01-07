@@ -1,0 +1,4 @@
+t156_funct_1 conjecture
+t23_funct_1 axiom
+d5_funct_1 axiom
+t9_funct_1 axiom

@@ -1,0 +1,7 @@
+t67_mcart_1 conjecture
+t106_zfmisc_1 axiom
+t2_xboole_1 axiom
+t66_mcart_1 axiom
+d3_tarski axiom
+t152_zfmisc_1 axiom
+t1_subset axiom

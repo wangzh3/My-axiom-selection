@@ -1,0 +1,4 @@
+t149_tmap_1 conjecture
+t88_tsep_1 axiom
+t145_tmap_1 axiom
+dt_k10_tmap_1 axiom

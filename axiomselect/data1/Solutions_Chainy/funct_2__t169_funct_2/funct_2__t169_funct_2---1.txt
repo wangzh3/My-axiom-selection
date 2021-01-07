@@ -1,0 +1,2 @@
+t169_funct_2 conjecture
+d2_funct_2 axiom

@@ -1,0 +1,3 @@
+t18_funct_2 axiom
+t1_subset axiom
+t113_funct_2 conjecture

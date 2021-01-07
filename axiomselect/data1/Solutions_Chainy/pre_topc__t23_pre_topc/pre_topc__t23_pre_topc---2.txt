@@ -1,0 +1,14 @@
+t23_pre_topc conjecture
+t46_xboole_1 axiom
+t37_xboole_1 axiom
+fc1_xboole_0 axiom
+t5_subset axiom
+redefinition_k7_subset_1 axiom
+d3_struct_0 axiom
+t32_subset_1 axiom
+t4_subset_1 axiom
+t1_boole axiom
+t22_pre_topc axiom
+t3_subset axiom
+d10_xboole_0 axiom
+t1_mcart_1 axiom

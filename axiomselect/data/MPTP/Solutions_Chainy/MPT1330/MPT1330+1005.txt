@@ -1,0 +1,15 @@
+cc1_relset_1 axiom
+d2_xboole_0 axiom
+d3_struct_0 axiom
+d8_xboole_0 axiom
+redefinition_k8_relset_1 axiom
+redefinition_k9_setfam_1 axiom
+t105_xboole_1 axiom
+t113_zfmisc_1 axiom
+t173_relat_1 axiom
+t3_subset axiom
+t48_funct_2 axiom
+t4_boole axiom
+t60_relat_1 axiom
+t83_xboole_1 axiom
+t52_tops_2 conjecture

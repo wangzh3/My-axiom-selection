@@ -1,0 +1,13 @@
+d7_tex_2 axiom
+dt_k6_domain_1 axiom
+dt_l1_pre_topc axiom
+dt_o_0_0_xboole_0 axiom
+existence_m1_subset_1 axiom
+fc2_struct_0 axiom
+fc2_xboole_0 axiom
+redefinition_k6_domain_1 axiom
+t2_xboole_1 axiom
+t36_tex_2 axiom
+t3_subset axiom
+t6_boole axiom
+t46_tex_2 conjecture

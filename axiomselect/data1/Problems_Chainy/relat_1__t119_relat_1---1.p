@@ -1,0 +1,3 @@
+fof(t119_relat_1,conjecture,(! [A,B] :( v1_relat_1(B)=> k2_relat_1(k8_relat_1(A,B)) = k3_xboole_0(k2_relat_1(B),A) ) )).
+fof(d4_xboole_0,axiom,(! [A,B,C] :( C = k3_xboole_0(A,B)<=> ! [D] :( r2_hidden(D,C)<=> ( r2_hidden(D,A)& r2_hidden(D,B) ) ) ) )).
+fof(t115_relat_1,axiom,(! [A,B,C] :( v1_relat_1(C)=> ( r2_hidden(A,k2_relat_1(k8_relat_1(B,C)))<=> ( r2_hidden(A,B)& r2_hidden(A,k2_relat_1(C)) ) ) ) )).

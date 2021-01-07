@@ -1,0 +1,5 @@
+t23_relat_1 conjecture
+d1_tarski axiom
+d4_relat_1 axiom
+t33_zfmisc_1 axiom
+d5_relat_1 axiom

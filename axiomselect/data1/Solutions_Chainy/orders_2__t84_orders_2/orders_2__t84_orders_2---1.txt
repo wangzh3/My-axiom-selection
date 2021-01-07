@@ -1,0 +1,10 @@
+t84_orders_2 conjecture
+dt_m2_orders_2 axiom
+t57_xboole_1 axiom
+d2_orders_1 axiom
+d16_orders_2 axiom
+d8_xboole_0 axiom
+t69_orders_2 axiom
+t59_xboole_1 axiom
+t83_orders_2 axiom
+t67_orders_2 axiom

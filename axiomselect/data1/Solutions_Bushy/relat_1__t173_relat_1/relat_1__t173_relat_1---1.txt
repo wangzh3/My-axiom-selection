@@ -1,0 +1,10 @@
+t173_relat_1 conjecture
+d5_relat_1 axiom
+t3_xboole_0 axiom
+d7_xboole_0 axiom
+t7_boole axiom
+t2_subset axiom
+existence_m1_subset_1 axiom
+t6_boole axiom
+t166_relat_1 axiom
+t2_boole axiom

@@ -1,0 +1,16 @@
+t160_funct_2 conjecture
+cc1_partfun1 axiom
+cc1_relset_1 axiom
+cc5_funct_2 axiom
+d1_xboole_0 axiom
+d2_xboole_0 axiom
+d3_tarski axiom
+d7_partfun1 axiom
+dt_k3_partfun1 axiom
+fc3_funct_2 axiom
+t121_funct_2 axiom
+t142_partfun1 axiom
+t158_funct_2 axiom
+t159_funct_2 axiom
+t2_tarski axiom
+t45_ordinal1 axiom

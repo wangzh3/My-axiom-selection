@@ -1,0 +1,5 @@
+t31_waybel_9 conjecture
+dt_m2_yellow_6 axiom
+dt_l1_pre_topc axiom
+t27_yellow_6 axiom
+d9_waybel_9 axiom

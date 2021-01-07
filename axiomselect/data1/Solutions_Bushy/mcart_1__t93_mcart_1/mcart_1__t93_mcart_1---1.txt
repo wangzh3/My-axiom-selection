@@ -1,0 +1,5 @@
+t93_mcart_1 conjecture
+t92_mcart_1 axiom
+t7_boole axiom
+fraenkel_a_2_0_mcart_1 axiom
+t1_subset axiom

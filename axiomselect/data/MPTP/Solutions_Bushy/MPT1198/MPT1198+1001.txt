@@ -1,0 +1,3 @@
+d3_lattices axiom
+d5_lattices axiom
+t25_lattices conjecture

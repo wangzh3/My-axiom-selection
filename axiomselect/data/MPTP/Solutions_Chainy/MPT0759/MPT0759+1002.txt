@@ -1,0 +1,6 @@
+d10_xboole_0 axiom
+d1_ordinal1 axiom
+redefinition_k6_subset_1 axiom
+t141_zfmisc_1 axiom
+t7_ordinal1 axiom
+t52_ordinal1 conjecture

@@ -1,0 +1,13 @@
+commutativity_k2_xboole_0 axiom
+commutativity_k3_xboole_0 axiom
+d10_xboole_0 axiom
+idempotence_k2_xboole_0 axiom
+t146_relat_1 axiom
+t148_funct_1 axiom
+t154_relat_1 axiom
+t16_xboole_1 axiom
+t17_xboole_1 axiom
+t22_xboole_1 axiom
+t28_xboole_1 axiom
+t31_xboole_1 axiom
+t158_funct_1 conjecture

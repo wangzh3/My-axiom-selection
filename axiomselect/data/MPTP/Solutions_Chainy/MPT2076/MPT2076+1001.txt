@@ -1,0 +1,3 @@
+l37_yellow19 axiom
+l38_yellow19 axiom
+t36_yellow19 conjecture

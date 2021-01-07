@@ -1,0 +1,4 @@
+dt_k7_relat_1 axiom
+t157_relat_1 axiom
+t88_relat_1 axiom
+t161_relat_1 conjecture

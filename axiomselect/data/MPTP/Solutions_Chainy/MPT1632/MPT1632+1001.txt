@@ -1,0 +1,3 @@
+d14_waybel_0 axiom
+s1_waybel_0__e1_35_1__waybel_0 axiom
+t12_waybel_0 conjecture

@@ -1,0 +1,4 @@
+t120_funct_1 conjecture
+t157_relat_1 axiom
+t117_relat_1 axiom
+dt_k8_relat_1 axiom

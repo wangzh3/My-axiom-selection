@@ -1,0 +1,8 @@
+d5_xboole_0 axiom
+d8_relat_1 axiom
+fc2_relat_1 axiom
+t100_xboole_1 axiom
+t22_relat_1 axiom
+t47_xboole_1 axiom
+t92_xboole_1 axiom
+t62_relat_1 conjecture

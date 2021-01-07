@@ -1,0 +1,10 @@
+t18_lattice3 conjecture
+redefinition_k13_lattice3 axiom
+reflexivity_r3_orders_2 axiom
+cc2_lattice3 axiom
+commutativity_k12_lattice3 axiom
+d14_lattice3 axiom
+redefinition_k12_lattice3 axiom
+redefinition_r3_orders_2 axiom
+l26_lattice3 axiom
+dt_k10_lattice3 axiom

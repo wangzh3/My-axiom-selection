@@ -1,0 +1,16 @@
+cc1_lattices axiom
+commutativity_k3_lattices axiom
+commutativity_k4_lattices axiom
+d8_filter_0 axiom
+dt_k3_lattices axiom
+dt_k4_filter_0 axiom
+dt_k4_lattices axiom
+dt_l3_lattices axiom
+redefinition_k3_lattices axiom
+redefinition_k4_lattices axiom
+redefinition_r3_lattices axiom
+t22_lattices axiom
+t23_lattices axiom
+t25_lattices axiom
+t27_lattices axiom
+t56_filter_1 conjecture

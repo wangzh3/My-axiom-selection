@@ -1,0 +1,9 @@
+d3_tarski axiom
+d5_relat_1 axiom
+dt_o_0_0_xboole_0 axiom
+dt_o_1_4_relat_1 axiom
+t166_relat_1 axiom
+t2_subset axiom
+t6_boole axiom
+t7_boole axiom
+t174_relat_1 conjecture

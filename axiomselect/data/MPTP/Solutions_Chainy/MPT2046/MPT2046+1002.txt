@@ -1,0 +1,4 @@
+d5_waybel_7 axiom
+t3_yellow19 axiom
+t5_connsp_2 axiom
+t5_yellow19 conjecture

@@ -1,0 +1,3 @@
+t4_subset_1 conjecture
+rc2_subset_1 axiom
+t6_boole axiom

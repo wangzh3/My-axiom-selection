@@ -1,0 +1,6 @@
+t142_funct_1 conjecture
+t173_relat_1 axiom
+d1_tarski axiom
+t65_zfmisc_1 axiom
+t83_xboole_1 axiom
+t3_xboole_0 axiom

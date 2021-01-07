@@ -1,0 +1,14 @@
+fof(t13_yellow19,conjecture,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& l1_waybel_0(B,A) )=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ( r2_hidden(C,k10_yellow_6(A,B))<=> r2_waybel_7(A,k2_yellow19(A,B),C) ) ) ) ) )).
+fof(t5_connsp_2,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> ! [C] :( m1_subset_1(C,u1_struct_0(A))=> ( ( v3_pre_topc(B,A)& r2_hidden(C,B) )=> m1_connsp_2(B,A,C) ) ) ) ) )).
+fof(fc9_tops_1,axiom,(! [A,B] :( ( v2_pre_topc(A)& l1_pre_topc(A)& m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A))) )=> v3_pre_topc(k1_tops_1(A,B),A) ) )).
+fof(t44_tops_1,axiom,(! [A] :( l1_pre_topc(A)=> ! [B] :( m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A)))=> r1_tarski(k1_tops_1(A,B),B) ) ) )).
+fof(dt_l1_pre_topc,axiom,(! [A] :( l1_pre_topc(A)=> l1_struct_0(A) ) )).
+fof(d5_waybel_7,axiom,(! [A] :( ( v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B,C] :( r2_waybel_7(A,B,C)<=> ! [D] :( m1_subset_1(D,k1_zfmisc_1(u1_struct_0(A)))=> ( ( v3_pre_topc(D,A)& r2_hidden(C,D) )=> r2_hidden(D,B) ) ) ) ) )).
+fof(dt_m1_connsp_2,axiom,(! [A,B] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A)& m1_subset_1(B,u1_struct_0(A)) )=> ! [C] :( m1_connsp_2(C,A,B)=> m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A))) ) ) )).
+fof(t4_subset,axiom,(! [A,B,C] :( ( r2_hidden(A,B)& m1_subset_1(B,k1_zfmisc_1(C)) )=> m1_subset_1(A,C) ) )).
+fof(dt_k10_yellow_6,axiom,(! [A,B] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A)& ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& l1_waybel_0(B,A) )=> m1_subset_1(k10_yellow_6(A,B),k1_zfmisc_1(u1_struct_0(A))) ) )).
+fof(t8_waybel_0,axiom,(! [A] :( ( ~ v2_struct_0(A)& l1_struct_0(A) )=> ! [B] :( ( ~ v2_struct_0(B)& l1_waybel_0(B,A) )=> ! [C,D] :( r1_tarski(C,D)=> ( ( r1_waybel_0(A,B,C)=> r1_waybel_0(A,B,D) )& ( r2_waybel_0(A,B,C)=> r2_waybel_0(A,B,D) ) ) ) ) ) )).
+fof(dt_k1_tops_1,axiom,(! [A,B] :( ( l1_pre_topc(A)& m1_subset_1(B,k1_zfmisc_1(u1_struct_0(A))) )=> m1_subset_1(k1_tops_1(A,B),k1_zfmisc_1(u1_struct_0(A))) ) )).
+fof(d18_yellow_6,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( ( ~ v2_struct_0(B)& v4_orders_2(B)& v7_waybel_0(B)& l1_waybel_0(B,A) )=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A)))=> ( C = k10_yellow_6(A,B)<=> ! [D] :( m1_subset_1(D,u1_struct_0(A))=> ( r2_hidden(D,C)<=> ! [E] :( m1_connsp_2(E,A,D)=> r1_waybel_0(A,B,E) ) ) ) ) ) ) ) )).
+fof(t11_yellow19,axiom,(! [A] :( ( ~ v2_struct_0(A)& l1_struct_0(A) )=> ! [B] :( ( ~ v2_struct_0(B)& l1_waybel_0(B,A) )=> ! [C] :( r2_hidden(C,k2_yellow19(A,B))<=> ( r1_waybel_0(A,B,C)& m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A))) ) ) ) ) )).
+fof(d1_connsp_2,axiom,(! [A] :( ( ~ v2_struct_0(A)& v2_pre_topc(A)& l1_pre_topc(A) )=> ! [B] :( m1_subset_1(B,u1_struct_0(A))=> ! [C] :( m1_subset_1(C,k1_zfmisc_1(u1_struct_0(A)))=> ( m1_connsp_2(C,A,B)<=> r2_hidden(B,k1_tops_1(A,C)) ) ) ) ) )).

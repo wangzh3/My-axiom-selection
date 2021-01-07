@@ -1,0 +1,5 @@
+d1_tex_2 axiom
+fc1_xboole_0 axiom
+redefinition_k6_domain_1 axiom
+t39_zfmisc_1 axiom
+t1_tex_2 conjecture

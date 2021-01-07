@@ -1,0 +1,6 @@
+d10_xboole_0 axiom
+d7_subset_1 axiom
+d7_tex_2 axiom
+t27_tex_2 axiom
+t3_subset axiom
+t49_tex_2 conjecture

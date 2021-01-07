@@ -1,0 +1,6 @@
+t42_enumset1 conjecture
+d1_enumset1 axiom
+commutativity_k2_xboole_0 axiom
+d3_xboole_0 axiom
+d1_tarski axiom
+d2_tarski axiom

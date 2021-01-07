@@ -1,0 +1,8 @@
+l32_xboole_1 axiom
+l35_zfmisc_1 axiom
+t31_zfmisc_1 axiom
+t34_xboole_1 axiom
+t37_xboole_1 axiom
+t3_xboole_1 axiom
+t95_zfmisc_1 axiom
+t56_setfam_1 conjecture

@@ -1,0 +1,16 @@
+formla,formula,score
+symmetry_r1_xboole_0,t114_xboole_1,0.5
+t70_xboole_1,symmetry_r1_xboole_0,0.6666666666666666
+t70_xboole_1,t114_xboole_1,1.1666666666666667
+idempotence_k2_xboole_0,commutativity_k2_xboole_0,5.500455150460012
+dt_k2_xboole_0,t70_xboole_1,inf
+dt_k2_xboole_0,idempotence_k2_xboole_0,inf
+dt_k2_xboole_0,symmetry_r1_xboole_0,inf
+dt_k2_xboole_0,commutativity_k2_xboole_0,inf
+dt_k2_xboole_0,t114_xboole_1,inf
+t70_xboole_1,idempotence_k2_xboole_0,inf
+t70_xboole_1,commutativity_k2_xboole_0,inf
+idempotence_k2_xboole_0,symmetry_r1_xboole_0,inf
+idempotence_k2_xboole_0,t114_xboole_1,inf
+symmetry_r1_xboole_0,commutativity_k2_xboole_0,inf
+commutativity_k2_xboole_0,t114_xboole_1,inf

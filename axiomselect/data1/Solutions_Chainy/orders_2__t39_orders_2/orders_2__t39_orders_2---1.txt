@@ -1,0 +1,4 @@
+t39_orders_2 conjecture
+d10_orders_2 axiom
+t25_orders_2 axiom
+t38_orders_2 axiom

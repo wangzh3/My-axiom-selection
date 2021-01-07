@@ -1,0 +1,5 @@
+t7_tex_2 conjecture
+fc2_zfmisc_1 axiom
+d7_subset_1 axiom
+dt_k6_domain_1 axiom
+redefinition_k6_domain_1 axiom

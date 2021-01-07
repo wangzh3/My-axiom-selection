@@ -1,0 +1,10 @@
+d3_zfmisc_1 axiom
+t135_zfmisc_1 axiom
+t1_boole axiom
+t39_mcart_1 axiom
+t39_zfmisc_1 axiom
+t48_mcart_1 axiom
+t49_mcart_1 axiom
+t49_zfmisc_1 axiom
+t50_mcart_1 axiom
+t51_mcart_1 conjecture

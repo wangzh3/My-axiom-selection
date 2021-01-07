@@ -1,0 +1,5 @@
+d10_xboole_0 axiom
+t44_tops_1 axiom
+t56_tops_1 axiom
+t58_tops_1 axiom
+t59_tops_1 conjecture

@@ -1,0 +1,11 @@
+t63_relat_1 conjecture
+d1_relat_1 axiom
+d6_relat_1 axiom
+t69_enumset1 axiom
+t17_zfmisc_1 axiom
+t75_zfmisc_1 axiom
+t60_relat_1 axiom
+t48_xboole_1 axiom
+t1_boole axiom
+t4_xboole_0 axiom
+t20_zfmisc_1 axiom

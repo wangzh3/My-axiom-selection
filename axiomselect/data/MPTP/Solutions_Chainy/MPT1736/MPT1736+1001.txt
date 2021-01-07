@@ -1,0 +1,14 @@
+cc1_pre_topc axiom
+commutativity_k1_tsep_1 axiom
+dt_k1_tsep_1 axiom
+dt_m1_pre_topc axiom
+fc1_tmap_1 axiom
+t13_tmap_1 axiom
+t22_tmap_1 axiom
+t22_tsep_1 axiom
+t25_tmap_1 axiom
+t29_tmap_1 axiom
+t33_tmap_1 axiom
+t39_tmap_1 axiom
+t43_tmap_1 axiom
+t45_tmap_1 conjecture

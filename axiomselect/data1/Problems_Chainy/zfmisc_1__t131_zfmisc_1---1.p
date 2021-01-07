@@ -1,0 +1,4 @@
+fof(t131_zfmisc_1,conjecture,(! [A,B,C,D] :( A != B=> ( r1_xboole_0(k2_zfmisc_1(k1_tarski(A),C),k2_zfmisc_1(k1_tarski(B),D))& r1_xboole_0(k2_zfmisc_1(C,k1_tarski(A)),k2_zfmisc_1(D,k1_tarski(B))) ) ) )).
+fof(t127_zfmisc_1,axiom,(! [A,B,C,D] :( ( r1_xboole_0(A,B)| r1_xboole_0(C,D) )=> r1_xboole_0(k2_zfmisc_1(A,C),k2_zfmisc_1(B,D)) ) )).
+fof(t69_enumset1,axiom,(! [A] : k2_tarski(A,A) = k1_tarski(A) )).
+fof(t17_zfmisc_1,axiom,(! [A,B] :( A != B=> r1_xboole_0(k1_tarski(A),k1_tarski(B)) ) )).

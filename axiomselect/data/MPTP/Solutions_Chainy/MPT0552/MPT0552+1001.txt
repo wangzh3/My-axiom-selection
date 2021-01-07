@@ -1,0 +1,12 @@
+commutativity_k3_xboole_0 axiom
+idempotence_k3_xboole_0 axiom
+t153_relat_1 axiom
+t19_xboole_1 axiom
+t21_xboole_1 axiom
+t22_xboole_1 axiom
+t23_xboole_1 axiom
+t24_xboole_1 axiom
+t25_xboole_1 axiom
+t29_xboole_1 axiom
+t31_xboole_1 axiom
+t154_relat_1 conjecture

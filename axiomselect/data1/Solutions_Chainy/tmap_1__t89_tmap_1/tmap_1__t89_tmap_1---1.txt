@@ -1,0 +1,8 @@
+t89_tmap_1 conjecture
+cc1_pre_topc axiom
+d4_tmap_1 axiom
+d5_tmap_1 axiom
+dt_k3_tmap_1 axiom
+dt_m1_pre_topc axiom
+fc2_tmap_1 axiom
+redefinition_k2_partfun1 axiom

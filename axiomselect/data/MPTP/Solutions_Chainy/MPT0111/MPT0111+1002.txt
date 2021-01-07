@@ -1,0 +1,5 @@
+d8_xboole_0 axiom
+d9_xboole_0 axiom
+reflexivity_r3_xboole_0 axiom
+symmetry_r3_xboole_0 axiom
+t104_xboole_1 conjecture

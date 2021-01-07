@@ -1,0 +1,6 @@
+t83_funct_2 conjecture
+d3_funct_2 axiom
+cc1_relset_1 axiom
+cc2_relset_1 axiom
+cc3_funct_2 axiom
+redefinition_k2_relset_1 axiom

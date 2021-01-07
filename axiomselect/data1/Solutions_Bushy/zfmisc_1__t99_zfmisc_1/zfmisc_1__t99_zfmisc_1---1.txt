@@ -1,0 +1,4 @@
+t99_zfmisc_1 conjecture
+d1_zfmisc_1 axiom
+d4_tarski axiom
+d3_tarski axiom

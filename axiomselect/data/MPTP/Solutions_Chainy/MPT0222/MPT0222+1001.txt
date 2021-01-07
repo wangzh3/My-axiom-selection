@@ -1,0 +1,7 @@
+d1_tarski axiom
+l27_zfmisc_1 axiom
+t87_enumset1 axiom
+t91_enumset1 axiom
+t94_enumset1 axiom
+t96_enumset1 axiom
+t17_zfmisc_1 conjecture

@@ -1,0 +1,10 @@
+t20_tex_2 conjecture
+redefinition_k6_domain_1 axiom
+cc13_tex_2 axiom
+cc10_tex_2 axiom
+t9_tex_2 axiom
+fc2_struct_0 axiom
+dt_l1_pre_topc axiom
+dt_k1_tex_2 axiom
+fc2_tex_2 axiom
+t8_tex_2 axiom

@@ -1,0 +1,8 @@
+commutativity_k13_lattice3 axiom
+d19_waybel_0 axiom
+d1_waybel_0 axiom
+dt_k10_lattice3 axiom
+redefinition_k13_lattice3 axiom
+t22_yellow_0 axiom
+t4_subset axiom
+t40_waybel_0 conjecture

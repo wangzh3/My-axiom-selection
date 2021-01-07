@@ -1,0 +1,6 @@
+t88_tops_1 conjecture
+l32_xboole_1 axiom
+t37_xboole_1 axiom
+t74_tops_1 axiom
+redefinition_k7_subset_1 axiom
+t84_tops_1 axiom

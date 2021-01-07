@@ -1,0 +1,4 @@
+fof(t38_mcart_1,conjecture,(! [A,B] :( k3_zfmisc_1(A,A,A) = k3_zfmisc_1(B,B,B)=> A = B ) )).
+fof(d3_zfmisc_1,axiom,(! [A,B,C] : k3_zfmisc_1(A,B,C) = k2_zfmisc_1(k2_zfmisc_1(A,B),C) )).
+fof(t37_mcart_1,axiom,(! [A,B,C,D,E,F] :( k3_zfmisc_1(A,B,C) = k3_zfmisc_1(D,E,F)=> ( k3_zfmisc_1(A,B,C) = k1_xboole_0| ( A = D& B = E& C = F ) ) ) )).
+fof(t35_mcart_1,axiom,(! [A,B,C] :( ( A != k1_xboole_0& B != k1_xboole_0& C != k1_xboole_0 )<=> k3_zfmisc_1(A,B,C) != k1_xboole_0 ) )).

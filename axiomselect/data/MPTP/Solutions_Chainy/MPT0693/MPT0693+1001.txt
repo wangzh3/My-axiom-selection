@@ -1,0 +1,9 @@
+commutativity_k3_xboole_0 axiom
+d1_tarski axiom
+d2_tarski axiom
+t146_relat_1 axiom
+t147_funct_1 axiom
+t168_relat_1 axiom
+t17_xboole_1 axiom
+t69_enumset1 axiom
+t148_funct_1 conjecture

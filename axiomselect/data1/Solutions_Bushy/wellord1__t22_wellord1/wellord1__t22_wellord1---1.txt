@@ -1,0 +1,7 @@
+t22_wellord1 conjecture
+d4_xboole_0 axiom
+t106_zfmisc_1 axiom
+dt_k2_wellord1 axiom
+t19_wellord1 axiom
+l1_wellord1 axiom
+d6_wellord1 axiom

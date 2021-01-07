@@ -1,0 +1,3 @@
+d17_lattice3 axiom
+d21_lattice3 axiom
+t41_lattice3 conjecture

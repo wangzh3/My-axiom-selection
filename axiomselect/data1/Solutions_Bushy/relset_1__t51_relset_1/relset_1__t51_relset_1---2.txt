@@ -1,0 +1,10 @@
+t51_relset_1 conjecture
+t5_subset axiom
+redefinition_k4_relset_1 axiom
+t106_zfmisc_1 axiom
+d8_relat_1 axiom
+dt_k4_relset_1 axiom
+t4_subset axiom
+t2_subset axiom
+t1_subset axiom
+cc1_relset_1 axiom

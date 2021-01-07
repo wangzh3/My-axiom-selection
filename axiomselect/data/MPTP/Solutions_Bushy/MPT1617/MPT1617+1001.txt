@@ -1,0 +1,12 @@
+abstractness_v1_orders_2 axiom
+d1_tops_2 axiom
+d1_yellow_1 axiom
+d3_tarski axiom
+d5_pre_topc axiom
+dt_k1_yellow_1 axiom
+dt_k2_yellow_1 axiom
+free_g1_orders_2 axiom
+redefinition_k1_yellow_1 axiom
+t3_subset axiom
+t4_subset axiom
+t25_yellow_1 conjecture

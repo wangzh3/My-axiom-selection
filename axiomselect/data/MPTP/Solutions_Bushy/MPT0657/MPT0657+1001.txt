@@ -1,0 +1,5 @@
+dt_k2_funct_1 axiom
+l72_funct_1 axiom
+t55_funct_1 axiom
+t61_funct_1 axiom
+t64_funct_1 conjecture

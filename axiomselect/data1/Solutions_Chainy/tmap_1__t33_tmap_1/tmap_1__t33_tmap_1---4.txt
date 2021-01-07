@@ -1,0 +1,8 @@
+t33_tmap_1 conjecture
+commutativity_k1_tsep_1 axiom
+t22_tmap_1 axiom
+t25_tmap_1 axiom
+t26_tmap_1 axiom
+t115_zfmisc_1 axiom
+t31_tsep_1 axiom
+t31_tmap_1 axiom
