@@ -1,5 +1,8 @@
 # 1. Data type and structure
 > This is the doc of the framework. The algorithms are shown in algorithm.pdf
+
+spectral.py is the main code. The graph search framework is located in the graphsearch.py
+
 1. Graph representation in Python:
 
 The graph is a NxN 2d numpy array plus a 1d nparray called ac to store all axioms and conjecture in a specific order.
@@ -21,8 +24,6 @@ pythonworkspace/MPTP/Solutions\_Bushy/MPT0001(many tasks folders)/multiple solut
 MPTPSoultion.py is used to generate solutions from original .p ATP proof file.
 
 use.txt includes which task is used in this experiment, you can change the path for the variable usefile.
-
-spectral.py is the main code
 
 
 # 2. Basic functions
